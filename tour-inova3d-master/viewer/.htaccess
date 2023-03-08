@@ -1,0 +1,34 @@
+<IfModule mod_headers.c>
+    Header always unset X-Frame-Options
+</IfModule>
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.+?)/?$ index.php?furl=$1 [L,QSA]
+
+# MOD_DEFLATE #
+<IfModule mod_deflate.c>
+    #The following line is enough for .js and .css
+    AddOutputFilter DEFLATE js css
+    #The following line also enables compression by file content type, for the following list of Content-Type:s
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml application/xml
+    #The following lines are to avoid bugs with some browsers
+    BrowserMatch ^Mozilla/4 gzip-only-text/html
+    BrowserMatch ^Mozilla/4.0[678] no-gzip
+    BrowserMatch bMSIE !no-gzip !gzip-only-text/html
+</IfModule>
+# MOD_DEFLATE #
+
+# BEGIN Expire headers
+<IfModule mod_expires.c>
+    # Turn on the module.
+    ExpiresActive on
+    # Set the default expiry times.
+    ExpiresDefault "access plus 1 days"
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+</IfModule>
+# END Expire headers

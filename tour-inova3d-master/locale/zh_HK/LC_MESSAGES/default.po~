@@ -1,0 +1,7155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Virtual Tour\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-14 18:20+0100\n"
+"PO-Revision-Date: 2022-03-14 18:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: https://simplevirtualtour.it\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: tools/multires_cloud.php:22 services/generate_multires.php:51
+#: services/generate_multires_cloud.php:60
+msgid "function disabled"
+msgstr "功能已禁用"
+
+#: tools/multires_cloud.php:28 services/import_backend_vt.php:42
+#: services/export_backend_vt.php:26 services/generate_multires_cloud.php:67
+#: services/export_vt.php:34
+msgid "php zip not enabled"
+msgstr "未啟用 php zip"
+
+#: tools/multires_cloud.php:39 tools/multires_cloud.php:45
+#: tools/multires_cloud.php:56 tools/multires_cloud.php:62
+#: tools/multires_cloud.php:73 tools/multires_cloud.php:79
+#: tools/multires_cloud.php:90 tools/multires_cloud.php:96
+#: tools/multires_cloud.php:107 tools/multires_cloud.php:113
+#: tools/multires_cloud.php:122 services/generate_multires.php:61
+#: services/generate_multires.php:66 services/generate_multires.php:76
+#: services/generate_multires.php:81 services/generate_multires.php:91
+#: services/generate_multires.php:96 services/generate_multires.php:106
+#: services/generate_multires.php:111 services/generate_multires.php:121
+#: services/generate_multires.php:126 services/generate_multires.php:134
+msgid "Missing package"
+msgstr "缺少包"
+
+#: tools/multires_cloud.php:39 tools/multires_cloud.php:45
+#: tools/multires_cloud.php:56 tools/multires_cloud.php:62
+#: tools/multires_cloud.php:73 tools/multires_cloud.php:79
+#: tools/multires_cloud.php:90 tools/multires_cloud.php:96
+#: tools/multires_cloud.php:107 tools/multires_cloud.php:113
+#: tools/multires_cloud.php:122 services/generate_multires.php:61
+#: services/generate_multires.php:66 services/generate_multires.php:76
+#: services/generate_multires.php:81 services/generate_multires.php:91
+#: services/generate_multires.php:96 services/generate_multires.php:106
+#: services/generate_multires.php:111 services/generate_multires.php:121
+#: services/generate_multires.php:126 services/generate_multires.php:134
+msgid "Execute the command"
+msgstr "執行命令"
+
+#: tools/multires_cloud.php:39 tools/multires_cloud.php:45
+#: tools/multires_cloud.php:56 tools/multires_cloud.php:62
+#: tools/multires_cloud.php:73 tools/multires_cloud.php:79
+#: tools/multires_cloud.php:90 tools/multires_cloud.php:96
+#: tools/multires_cloud.php:107 tools/multires_cloud.php:113
+#: tools/multires_cloud.php:122 services/generate_multires.php:61
+#: services/generate_multires.php:66 services/generate_multires.php:76
+#: services/generate_multires.php:81 services/generate_multires.php:91
+#: services/generate_multires.php:96 services/generate_multires.php:106
+#: services/generate_multires.php:111 services/generate_multires.php:121
+#: services/generate_multires.php:126 services/generate_multires.php:134
+msgid "on your server"
+msgstr "在伺服器上"
+
+#: tools/multires_cloud.php:130 tools/multires_cloud.php:140
+#: services/generate_multires.php:141 services/generate_multires.php:150
+msgid "Missing command"
+msgstr "缺少命令"
+
+#: tools/multires_cloud.php:178
+msgid "Missing parameters"
+msgstr "缺少參數"
+
+#: tools/multires_cloud.php:216
+msgid "Zip error"
+msgstr "郵編錯誤"
+
+#: tools/multires_cloud.php:231
+msgid "Missing file"
+msgstr "檔案遺失"
+
+#: viewer/index.php:1061
+msgid "Input password"
+msgstr "輸入密碼"
+
+#: viewer/index.php:1071
+msgid "presented by"
+msgstr "由提交"
+
+#: viewer/index.php:1120 viewer/index.php:1506
+msgid "initializing ..."
+msgstr "初始 化。。。"
+
+#: viewer/index.php:1140
+msgid "Chat"
+msgstr "聊天"
+
+#: viewer/index.php:1152
+msgid "input locked"
+msgstr "輸入鎖定"
+
+#: viewer/index.php:1170 backend/advertisements.php:29
+#: backend/advertisements.php:49 backend/edit_virtual_tour.php:131
+#: backend/leads.php:87 backend/edit_virtual_tour_ui.php:2005
+#: backend/products.php:88 backend/edit_showcase.php:44
+#: backend/edit_advertisement.php:41 backend/virtual_tours.php:75
+#: backend/showcases.php:35 backend/showcases.php:55 backend/maps.php:138
+#: backend/edit_map.php:62 backend/settings.php:1367 backend/plans.php:31
+#: backend/plans.php:69 backend/plans.php:427 backend/dollhouse.php:542
+#: backend/rooms.php:144 backend/edit_room.php:153 backend/edit_product.php:42
+msgid "Name"
+msgstr "名稱"
+
+#: viewer/index.php:1175 backend/pois.php:248 backend/leads.php:88
+#: backend/edit_virtual_tour_ui.php:1546 backend/ajax/send_email.php:93
+#: backend/users.php:89
+msgid "E-Mail"
+msgstr "電子郵件"
+
+#: viewer/index.php:1180 backend/pois.php:247 backend/leads.php:89
+#: backend/edit_virtual_tour_ui.php:1545
+msgid "Phone"
+msgstr "電話"
+
+#: viewer/index.php:1190
+msgid "here"
+msgstr "這裡"
+
+#: viewer/index.php:1190
+msgid "total"
+msgstr "總數"
+
+#: viewer/index.php:1220 viewer/index.php:1272 viewer/index.php:1324
+#: viewer/index.php:1384 backend/edit_virtual_tour_ui.php:523
+msgid "Info"
+msgstr "資訊"
+
+#: viewer/index.php:1223 viewer/index.php:1275 viewer/index.php:1327
+#: viewer/index.php:1385 backend/edit_virtual_tour_ui.php:524
+#: backend/edit_user.php:377 backend/sidebar.php:358
+#: backend/change_plan.php:282
+msgid "3D View"
+msgstr "3D 視圖"
+
+#: viewer/index.php:1226 viewer/index.php:1278 viewer/index.php:1330
+#: viewer/index.php:1386 backend/edit_virtual_tour_ui.php:525
+#: backend/virtual_tours.php:193 backend/edit_user.php:368
+#: backend/sidebar.php:376 backend/plans.php:382 backend/plans.php:740
+#: backend/change_plan.php:174
+msgid "Gallery"
+msgstr "圖庫"
+
+#: viewer/index.php:1229 viewer/index.php:1281 viewer/index.php:1333
+#: viewer/index.php:1387 backend/edit_virtual_tour_ui.php:526
+msgid "Facebook Chat"
+msgstr "臉書聊天"
+
+#: viewer/index.php:1232 viewer/index.php:1284 viewer/index.php:1336
+#: viewer/index.php:1388 backend/edit_virtual_tour_ui.php:527
+msgid "Whatsapp Chat"
+msgstr "Whatsapp 聊天"
+
+#: viewer/index.php:1236 viewer/index.php:1238 viewer/index.php:1288
+#: viewer/index.php:1290 viewer/index.php:1340 viewer/index.php:1342
+#: viewer/index.php:1395 viewer/index.php:1397
+#: backend/edit_virtual_tour_ui.php:533 backend/edit_virtual_tour_ui.php:1323
+#: backend/virtual_tours.php:205 backend/edit_user.php:367
+#: backend/sidebar.php:365 backend/settings.php:317 backend/plans.php:379
+#: backend/plans.php:737 backend/change_plan.php:178
+msgid "Presentation"
+msgstr "簡報"
+
+#: viewer/index.php:1245 viewer/index.php:1297 viewer/index.php:1349
+#: viewer/index.php:1400 backend/edit_virtual_tour_ui.php:535
+#: backend/change_plan.php:202
+msgid "Share"
+msgstr "分享"
+
+#: viewer/index.php:1248 viewer/index.php:1300 viewer/index.php:1352
+#: viewer/index.php:1401 backend/edit_virtual_tour_ui.php:536
+msgid "Start Live Session"
+msgstr "開始即時會話"
+
+#: viewer/index.php:1251 viewer/index.php:1303 viewer/index.php:1355
+#: viewer/index.php:1402 viewer/index.php:1518
+#: backend/edit_virtual_tour_ui.php:537
+msgid "Join Meeting"
+msgstr "加入會議"
+
+#: viewer/index.php:1254 viewer/index.php:1306 viewer/index.php:1358
+#: viewer/index.php:1390 backend/edit_virtual_tour_ui.php:529
+msgid "Web VR"
+msgstr "網路VR"
+
+#: viewer/index.php:1367
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+#: viewer/index.php:1368 backend/pois.php:180 backend/pois.php:975
+#: backend/index.php:324 backend/edit_room.php:644
+msgid "Audio"
+msgstr "音訊"
+
+#: viewer/index.php:1369 backend/edit_room.php:533
+msgid "Floorplan"
+msgstr "顯示右上角的平面圖"
+
+#: viewer/index.php:1370 backend/maps.php:147 backend/settings.php:165
+#: backend/edit_room.php:536
+msgid "Map"
+msgstr "地圖"
+
+#: viewer/index.php:1389 backend/edit_virtual_tour_ui.php:528
+#: backend/change_plan.php:206
+msgid "Device Orientation"
+msgstr "設備方向"
+
+#: viewer/index.php:1391 backend/edit_virtual_tour_ui.php:530
+msgid "Icons"
+msgstr "圖示"
+
+#: viewer/index.php:1392 backend/edit_virtual_tour_ui.php:531
+#: backend/change_plan.php:266
+msgid "Auto Rotation"
+msgstr "自動旋轉"
+
+#: viewer/index.php:1393 backend/edit_virtual_tour_ui.php:532
+#: backend/change_plan.php:230
+msgid "Annotations"
+msgstr "註釋"
+
+#: viewer/index.php:1461
+msgid "LOADING VR EXPERIENCE ..."
+msgstr "正在載入 VR 體驗..."
+
+#: viewer/index.php:1470 viewer/index.php:1473 backend/dollhouse.php:103
+msgid "Orbit"
+msgstr "軌道"
+
+#: viewer/index.php:1470 backend/dollhouse.php:103
+msgid "Left mouse"
+msgstr "鼠標左鍵"
+
+#: viewer/index.php:1470 viewer/index.php:1473 backend/dollhouse.php:103
+msgid "Zoom"
+msgstr "縮放"
+
+#: viewer/index.php:1470 backend/dollhouse.php:103
+msgid "Middle mouse or mousewheel"
+msgstr "鼠標中鍵或鼠標滾輪"
+
+#: viewer/index.php:1470 viewer/index.php:1473 backend/dollhouse.php:103
+msgid "Pan"
+msgstr "放大"
+
+#: viewer/index.php:1470 backend/dollhouse.php:103
+msgid "Right mouse or left mouse + ctrl/meta/shiftKey"
+msgstr "鼠標右鍵或鼠標左鍵 + ctrl/meta/shiftKey"
+
+#: viewer/index.php:1473
+msgid "One-finger move"
+msgstr "一指移動"
+
+#: viewer/index.php:1473
+msgid "Two-finger spread or squish"
+msgstr "兩指展開或擠壓"
+
+#: viewer/index.php:1473
+msgid "Two-finger move"
+msgstr "兩指移動"
+
+#: viewer/index.php:1478 viewer/index.php:1532 backend/index.php:343
+#: backend/statistics.php:69
+msgid "All"
+msgstr "全部"
+
+#: viewer/index.php:1479 backend/edit_virtual_tour.php:1144
+#: backend/edit_virtual_tour.php:1174 backend/edit_virtual_tour.php:1189
+#: backend/login.php:246 backend/pois.php:1024 backend/pois.php:1041
+#: backend/pois.php:1062 backend/pois.php:1083 backend/pois.php:1095
+#: backend/pois.php:1110 backend/pois.php:1125 backend/pois.php:1190
+#: backend/leads.php:121 backend/presentation.php:233
+#: backend/presentation.php:282 backend/presentation.php:299
+#: backend/presentation.php:316 backend/forms_data.php:130
+#: backend/edit_virtual_tour_ui.php:1464 backend/edit_virtual_tour_ui.php:1488
+#: backend/edit_virtual_tour_ui.php:1563 backend/edit_virtual_tour_ui.php:1875
+#: backend/edit_virtual_tour_ui.php:1924 backend/edit_virtual_tour_ui.php:1945
+#: backend/edit_virtual_tour_ui.php:1966 backend/edit_virtual_tour_ui.php:2027
+#: backend/users.php:119 backend/edit_showcase.php:260
+#: backend/edit_showcase.php:277 backend/edit_advertisement.php:226
+#: backend/edit_profile.php:229 backend/virtual_tours.php:158
+#: backend/virtual_tours.php:225 backend/virtual_tours.php:246
+#: backend/virtual_tours.php:263 backend/virtual_tours.php:311
+#: backend/edit_user.php:402 backend/edit_user.php:432 backend/publish.php:384
+#: backend/maps.php:190 backend/maps.php:207 backend/statistics.php:230
+#: backend/edit_map.php:257 backend/edit_map.php:274 backend/settings.php:1399
+#: backend/settings.php:1503 backend/settings.php:1519 backend/markers.php:336
+#: backend/markers.php:353 backend/markers.php:374 backend/markers.php:439
+#: backend/plans.php:404 backend/plans.php:763 backend/dollhouse.php:133
+#: backend/rooms.php:243 backend/rooms.php:260 backend/rooms.php:285
+#: backend/rooms.php:298 backend/poi_gallery.php:51 backend/change_plan.php:494
+#: backend/change_plan.php:517 backend/change_plan.php:540
+#: backend/change_plan.php:559 backend/change_plan.php:577
+#: backend/gallery.php:116 backend/edit_room.php:385 backend/edit_room.php:842
+#: backend/edit_room.php:859 backend/edit_room.php:883
+#: backend/edit_room.php:900 backend/edit_room.php:917
+#: backend/edit_product.php:111 backend/edit_blur.php:72
+msgid "Close"
+msgstr "關閉"
+
+#: viewer/index.php:1483 backend/settings.php:274 backend/change_plan.php:186
+msgid "Meeting"
+msgstr "會議"
+
+#: viewer/index.php:1496
+msgid "OPEN SCREENCAST APP"
+msgstr "打開屏幕播放應用程序"
+
+#: viewer/index.php:1500 backend/edit_virtual_tour.php:102
+msgid "LOADING"
+msgstr "載入"
+
+#: viewer/index.php:1501
+msgid "INITIALIZING"
+msgstr "初始化"
+
+#: viewer/index.php:1502 backend/settings.php:214 backend/change_plan.php:182
+msgid "Live Session"
+msgstr "即時會話"
+
+#: viewer/index.php:1503
+msgid ""
+"Are you sure you want to end this live session? The link generated will be "
+"invalidated."
+msgstr "是否確實要結束此即時會話？生成的連結將失效。"
+
+#: viewer/index.php:1504
+msgid "Are you sure you want to end this live session?"
+msgstr "是否確實要結束此即時會話？"
+
+#: viewer/index.php:1505
+msgid "End Call"
+msgstr "結束呼叫"
+
+#: viewer/index.php:1507
+msgid "awaiting connection ..."
+msgstr "等待連線中..."
+
+#: viewer/index.php:1508
+msgid "connecting ..."
+msgstr "連接。。。"
+
+#: viewer/index.php:1509
+msgid "connected"
+msgstr "已連接"
+
+#: viewer/index.php:1510
+msgid "connection closed"
+msgstr "連接關閉"
+
+#: viewer/index.php:1511
+msgid "invalid session"
+msgstr "無效會話"
+
+#: viewer/index.php:1512
+msgid "Send this link to the person you want to invite"
+msgstr "將此連結發送給要邀請的人"
+
+#: viewer/index.php:1513
+msgid "Do you want to join the live session with video or audio only?"
+msgstr "您是否只希望使用視頻或音訊加入即時會話？"
+
+#: viewer/index.php:1514
+msgid "Video + Audio"
+msgstr "視頻 + 音訊"
+
+#: viewer/index.php:1515
+msgid "Only Audio"
+msgstr "僅音訊"
+
+#: viewer/index.php:1516
+msgid "by"
+msgstr "由"
+
+#: viewer/index.php:1517 backend/pois.php:1296
+#: backend/edit_virtual_tour_ui.php:2175 backend/settings.php:1696
+#: backend/markers.php:503 backend/topbar.php:143 backend/edit_room.php:1044
+msgid "Cancel"
+msgstr "取消"
+
+#: viewer/index.php:1519
+msgid "Exit Meeting"
+msgstr "退出會議"
+
+#: viewer/index.php:1520
+msgid "Skip"
+msgstr "跳過"
+
+#: viewer/index.php:1521
+msgid "Play Video"
+msgstr "播放 Video"
+
+#: viewer/index.php:1522
+msgid "Wait until the video ends ..."
+msgstr "等到視頻結束..."
+
+#: viewer/index.php:1523
+msgid "ENABLE AUDIO?"
+msgstr "啟用音訊？"
+
+#: viewer/index.php:1524
+msgid "ENABLE DEVICE ORIENTATION?"
+msgstr "啟用設備方向？"
+
+#: viewer/index.php:1525
+msgid "Yes"
+msgstr "是"
+
+#: viewer/index.php:1526
+msgid "No"
+msgstr "否"
+
+#: viewer/index.php:1527 backend/edit_virtual_tour.php:383
+msgid "Password Meeting"
+msgstr "密碼會議"
+
+#: viewer/index.php:1528 backend/edit_virtual_tour.php:389
+msgid "Password Live Session"
+msgstr "密碼即時會話"
+
+#: viewer/index.php:1529
+msgid "check"
+msgstr "使用 PayPal 進行支付"
+
+#: viewer/index.php:1530
+msgid "BUY"
+msgstr "购买"
+
+#: viewer/index.php:1531
+msgid "ADD TO CART"
+msgstr "加入購物車"
+
+#: backend/media_library.php:54
+msgid "MEDIA LIBRARY"
+msgstr "媒體庫"
+
+#: backend/media_library.php:61 backend/advertisements.php:9
+#: backend/edit_virtual_tour.php:46 backend/icons_library.php:62
+#: backend/rooms_bulk.php:65 backend/leads.php:57 backend/presentation.php:63
+#: backend/forms_data.php:57 backend/music_library.php:61
+#: backend/edit_virtual_tour_ui.php:475 backend/users.php:11
+#: backend/products.php:58 backend/edit_showcase.php:15
+#: backend/edit_advertisement.php:12 backend/edit_user.php:26
+#: backend/publish.php:72 backend/edit_map.php:36 backend/settings.php:16
+#: backend/landing.php:62 backend/updater.php:29 backend/plans.php:12
+#: backend/dollhouse.php:66 backend/gallery.php:57 backend/edit_room.php:86
+#: backend/edit_product.php:13 backend/maps_bulk.php:53 backend/info.php:58
+#: backend/edit_blur.php:12
+msgid "Permission denied"
+msgstr "權限遭拒"
+
+#: backend/media_library.php:62 backend/advertisements.php:10
+#: backend/edit_virtual_tour.php:47 backend/icons_library.php:63
+#: backend/rooms_bulk.php:66 backend/leads.php:58 backend/presentation.php:64
+#: backend/forms_data.php:58 backend/music_library.php:62
+#: backend/edit_virtual_tour_ui.php:476 backend/users.php:12
+#: backend/products.php:59 backend/edit_showcase.php:16
+#: backend/edit_advertisement.php:13 backend/edit_user.php:27
+#: backend/publish.php:73 backend/edit_map.php:37 backend/settings.php:17
+#: backend/landing.php:63 backend/updater.php:30 backend/plans.php:13
+#: backend/dollhouse.php:67 backend/gallery.php:58 backend/edit_room.php:87
+#: backend/edit_product.php:14 backend/maps_bulk.php:54 backend/info.php:59
+#: backend/edit_blur.php:13
+msgid "It looks like that you do not have permission to access this page"
+msgstr "看起來您沒有訪問此頁面的許可權"
+
+#: backend/media_library.php:63 backend/advertisements.php:11
+#: backend/edit_virtual_tour.php:48 backend/icons_library.php:64
+#: backend/rooms_bulk.php:67 backend/leads.php:59 backend/presentation.php:65
+#: backend/forms_data.php:59 backend/music_library.php:63
+#: backend/edit_virtual_tour_ui.php:477 backend/users.php:13
+#: backend/products.php:60 backend/edit_showcase.php:17
+#: backend/edit_advertisement.php:14 backend/edit_user.php:28
+#: backend/publish.php:74 backend/edit_map.php:38 backend/settings.php:18
+#: backend/landing.php:64 backend/updater.php:31 backend/plans.php:14
+#: backend/dollhouse.php:68 backend/gallery.php:59 backend/edit_room.php:88
+#: backend/edit_product.php:15 backend/maps_bulk.php:55 backend/info.php:60
+#: backend/edit_blur.php:14
+msgid "Back to Dashboard"
+msgstr "返回用戶中心"
+
+#: backend/media_library.php:70
+msgid "You cannot use Media Library on an external virtual tour!"
+msgstr "你不能在外部虛擬旅遊中使用媒體庫！"
+
+#: backend/media_library.php:78 backend/icons_library.php:87
+#: backend/music_library.php:78
+msgid "Tour Library"
+msgstr "旅遊圖書館"
+
+#: backend/media_library.php:81 backend/icons_library.php:90
+#: backend/music_library.php:81
+msgid "Public Library"
+msgstr "公共圖書館"
+
+#: backend/media_library.php:89 backend/icons_library.php:98
+#: backend/music_library.php:89
+msgid "The contents of this library will be shared for all the virtual tours."
+msgstr "此庫的內容將共用為所有虛擬旅遊。"
+
+#: backend/media_library.php:98 backend/music_library.php:98
+msgid "Files List"
+msgstr "檔案清單"
+
+#: backend/media_library.php:103 backend/music_library.php:103
+msgid "Loading files ..."
+msgstr "載入檔案..."
+
+#: backend/media_library.php:124 backend/icons_library.php:132
+#: backend/pois.php:2010 backend/rooms_bulk.php:143
+#: backend/music_library.php:124 backend/edit_virtual_tour_ui.php:2671
+#: backend/edit_virtual_tour_ui.php:2704 backend/poi_object360.php:43
+#: backend/poi_embed_gallery.php:43 backend/markers.php:602
+#: backend/poi_gallery.php:70 backend/gallery.php:137
+#: backend/edit_product.php:174 backend/maps_bulk.php:123
+msgid "Drop files or click here to upload"
+msgstr "刪除檔案或按一次上傳"
+
+#: backend/media_library.php:125 backend/icons_library.php:133
+#: backend/pois.php:2011 backend/rooms_bulk.php:144
+#: backend/music_library.php:125 backend/edit_virtual_tour_ui.php:2672
+#: backend/edit_virtual_tour_ui.php:2705 backend/poi_object360.php:44
+#: backend/poi_embed_gallery.php:44 backend/markers.php:603
+#: backend/poi_gallery.php:71 backend/gallery.php:138
+#: backend/edit_product.php:175 backend/maps_bulk.php:124
+msgid "Your browser does not support drag'n'drop file uploads."
+msgstr "您的瀏覽器不支援拖放檔上傳。"
+
+#: backend/media_library.php:126 backend/icons_library.php:134
+#: backend/pois.php:2012 backend/rooms_bulk.php:145
+#: backend/music_library.php:126 backend/edit_virtual_tour_ui.php:2673
+#: backend/edit_virtual_tour_ui.php:2706 backend/poi_object360.php:45
+#: backend/poi_embed_gallery.php:45 backend/markers.php:604
+#: backend/poi_gallery.php:72 backend/gallery.php:139
+#: backend/edit_product.php:176 backend/maps_bulk.php:125
+msgid ""
+"Please use the fallback form below to upload your files like in the olden "
+"days."
+msgstr "請使用下面的備用表單上傳您的文件."
+
+#: backend/media_library.php:127 backend/icons_library.php:135
+#: backend/pois.php:2013 backend/rooms_bulk.php:146
+#: backend/music_library.php:127 backend/edit_virtual_tour_ui.php:2674
+#: backend/edit_virtual_tour_ui.php:2707 backend/poi_object360.php:46
+#: backend/poi_embed_gallery.php:46 backend/markers.php:605
+#: backend/poi_gallery.php:73 backend/gallery.php:140
+#: backend/edit_product.php:177 backend/maps_bulk.php:126
+#, php-format
+msgid "File is too big (%sMiB). Max filesize: %sMiB."
+msgstr "檔太大（%sMiB）。最大檔化：%sMiB。"
+
+#: backend/media_library.php:128 backend/icons_library.php:136
+#: backend/pois.php:2014 backend/rooms_bulk.php:147
+#: backend/music_library.php:128 backend/edit_virtual_tour_ui.php:2675
+#: backend/edit_virtual_tour_ui.php:2708 backend/poi_object360.php:47
+#: backend/poi_embed_gallery.php:47 backend/markers.php:606
+#: backend/poi_gallery.php:74 backend/gallery.php:141
+#: backend/edit_product.php:178 backend/maps_bulk.php:127
+msgid "You can't upload files of this type."
+msgstr "您不能上傳此類型的檔。"
+
+#: backend/media_library.php:129 backend/icons_library.php:137
+#: backend/pois.php:2015 backend/rooms_bulk.php:148
+#: backend/music_library.php:129 backend/edit_virtual_tour_ui.php:2676
+#: backend/edit_virtual_tour_ui.php:2709 backend/poi_object360.php:48
+#: backend/poi_embed_gallery.php:48 backend/markers.php:607
+#: backend/poi_gallery.php:75 backend/gallery.php:142
+#: backend/edit_product.php:179 backend/maps_bulk.php:128
+#, php-format
+msgid "Server responded with %s code."
+msgstr "伺服器回應%s代碼。"
+
+#: backend/media_library.php:130 backend/icons_library.php:138
+#: backend/pois.php:2016 backend/rooms_bulk.php:149
+#: backend/music_library.php:130 backend/edit_virtual_tour_ui.php:2677
+#: backend/edit_virtual_tour_ui.php:2710 backend/poi_object360.php:49
+#: backend/poi_embed_gallery.php:49 backend/markers.php:608
+#: backend/poi_gallery.php:76 backend/gallery.php:143
+#: backend/edit_product.php:180 backend/maps_bulk.php:129
+msgid "Cancel upload"
+msgstr "取消上傳"
+
+#: backend/media_library.php:131 backend/icons_library.php:139
+#: backend/pois.php:2017 backend/rooms_bulk.php:150
+#: backend/music_library.php:131 backend/edit_virtual_tour_ui.php:2678
+#: backend/edit_virtual_tour_ui.php:2711 backend/poi_object360.php:50
+#: backend/poi_embed_gallery.php:50 backend/markers.php:609
+#: backend/poi_gallery.php:77 backend/gallery.php:144
+#: backend/edit_product.php:181 backend/maps_bulk.php:130
+msgid "Are you sure you want to cancel this upload?"
+msgstr "確實要取消此上載嗎？"
+
+#: backend/media_library.php:132 backend/icons_library.php:140
+#: backend/pois.php:2018 backend/rooms_bulk.php:151
+#: backend/music_library.php:132 backend/edit_virtual_tour_ui.php:2679
+#: backend/edit_virtual_tour_ui.php:2712 backend/poi_object360.php:51
+#: backend/poi_embed_gallery.php:51 backend/markers.php:610
+#: backend/poi_gallery.php:78 backend/gallery.php:145
+#: backend/edit_product.php:182 backend/maps_bulk.php:131
+msgid "Remove file"
+msgstr "移除檔案"
+
+#: backend/media_library.php:133 backend/icons_library.php:141
+#: backend/pois.php:2019 backend/rooms_bulk.php:152
+#: backend/music_library.php:133 backend/edit_virtual_tour_ui.php:2680
+#: backend/edit_virtual_tour_ui.php:2713 backend/poi_object360.php:52
+#: backend/poi_embed_gallery.php:52 backend/markers.php:611
+#: backend/poi_gallery.php:79 backend/gallery.php:146
+#: backend/edit_product.php:183 backend/maps_bulk.php:132
+msgid "You can not upload any more files."
+msgstr "您不能再上傳任何檔。"
+
+#: backend/register.php:13
+msgid "Registration closed"
+msgstr "註冊已關閉"
+
+#: backend/register.php:90 backend/login.php:107 backend/topbar.php:79
+msgid "Arabic"
+msgstr "阿拉伯文"
+
+#: backend/register.php:91 backend/login.php:108 backend/topbar.php:80
+msgid "Chinese Simplified"
+msgstr "簡體中文"
+
+#: backend/register.php:92 backend/login.php:109 backend/topbar.php:81
+msgid "Chinese Traditional (Hong Kong)"
+msgstr "中國傳統（香港）"
+
+#: backend/register.php:93 backend/login.php:110 backend/topbar.php:82
+msgid "Chinese Traditional (Taiwan)"
+msgstr "中國傳統（臺灣）"
+
+#: backend/register.php:94 backend/login.php:111 backend/topbar.php:83
+msgid "Czech"
+msgstr "捷克語"
+
+#: backend/register.php:95 backend/login.php:112 backend/topbar.php:84
+msgid "Dutch"
+msgstr "荷蘭語"
+
+#: backend/register.php:96 backend/login.php:113 backend/topbar.php:85
+msgid "English"
+msgstr "英文"
+
+#: backend/register.php:97 backend/login.php:114 backend/topbar.php:86
+msgid "Filipino"
+msgstr "菲律賓文"
+
+#: backend/register.php:98 backend/login.php:115 backend/topbar.php:87
+msgid "French"
+msgstr "法語"
+
+#: backend/register.php:99 backend/login.php:116 backend/topbar.php:88
+msgid "German"
+msgstr "德語"
+
+#: backend/register.php:100 backend/login.php:117 backend/topbar.php:89
+msgid "Hindi"
+msgstr "印地文"
+
+#: backend/register.php:101 backend/login.php:118 backend/topbar.php:90
+msgid "Hungarian"
+msgstr "匈牙利語"
+
+#: backend/register.php:102 backend/login.php:119 backend/topbar.php:91
+msgid "Kinyarwanda"
+msgstr "盧安達語"
+
+#: backend/register.php:103 backend/login.php:120 backend/topbar.php:92
+msgid "Italian"
+msgstr "義大利文"
+
+#: backend/register.php:104 backend/login.php:121 backend/topbar.php:93
+msgid "Japanese"
+msgstr "日語"
+
+#: backend/register.php:105 backend/login.php:122 backend/topbar.php:94
+msgid "Persian"
+msgstr "波斯語"
+
+#: backend/register.php:106 backend/login.php:123 backend/topbar.php:95
+msgid "Polish"
+msgstr "波蘭語"
+
+#: backend/register.php:107 backend/login.php:124 backend/topbar.php:96
+msgid "Portuguese Brazilian"
+msgstr "葡萄牙巴西文"
+
+#: backend/register.php:108 backend/login.php:125 backend/topbar.php:97
+msgid "Portuguese European"
+msgstr "葡萄牙歐洲"
+
+#: backend/register.php:109 backend/login.php:126 backend/topbar.php:98
+msgid "Spanish"
+msgstr "西班牙語"
+
+#: backend/register.php:110 backend/login.php:127 backend/topbar.php:99
+msgid "Romanian"
+msgstr "羅馬尼亞語"
+
+#: backend/register.php:111 backend/login.php:128 backend/topbar.php:100
+msgid "Russian"
+msgstr "俄語"
+
+#: backend/register.php:112 backend/login.php:129 backend/topbar.php:101
+msgid "Swedish"
+msgstr "瑞典語"
+
+#: backend/register.php:113 backend/login.php:130 backend/topbar.php:102
+msgid "Tajik"
+msgstr "塔吉克語"
+
+#: backend/register.php:114 backend/login.php:131 backend/topbar.php:103
+msgid "Turkish"
+msgstr "土耳其語"
+
+#: backend/register.php:115 backend/login.php:132 backend/topbar.php:104
+msgid "Vietnamese"
+msgstr "越南語"
+
+#: backend/register.php:119
+msgid "Create an Account!"
+msgstr "創建帳戶！"
+
+#: backend/register.php:124
+msgid "User name"
+msgstr "用戶名"
+
+#: backend/register.php:128
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: backend/register.php:133 backend/login.php:192 backend/users.php:105
+#: backend/edit_profile.php:176 backend/edit_profile.php:215
+#: backend/edit_user.php:418 backend/publish.php:133 backend/settings.php:258
+msgid "Password"
+msgstr "密碼"
+
+#: backend/register.php:139 backend/edit_profile.php:221
+msgid "Repeat Password"
+msgstr "重複密碼"
+
+#: backend/register.php:145
+msgid "Register Account"
+msgstr "註冊帳號"
+
+#: backend/register.php:150
+msgid "Register with Google"
+msgstr "使用 Google 註冊"
+
+#: backend/register.php:155
+msgid "Register with Facebook"
+msgstr "在臉書註冊"
+
+#: backend/register.php:160
+msgid "Register with Twitter"
+msgstr "在推特上註冊"
+
+#: backend/register.php:165
+msgid "Already have an account? Login!"
+msgstr "已經有帳戶了？登錄！"
+
+#: backend/register.php:181
+msgid "Validate Account"
+msgstr "驗證帳戶"
+
+#: backend/register.php:184
+msgid ""
+"Your account has been made, please verify it by clicking the activation link "
+"that has been send to your email."
+msgstr "您的帳戶已創建，請通過按一下已發送到您的電子郵件的啟動連結進行驗證。"
+
+#: backend/register.php:187 backend/edit_virtual_tour_ui.php:1700
+#: backend/edit_virtual_tour_ui.php:1826
+msgid "Ok"
+msgstr "確定"
+
+#: backend/register.php:199 backend/login.php:283
+msgid "Error, retry later."
+msgstr "錯誤，稍後重試。"
+
+#: backend/advertisements.php:18
+msgid "ADVERTISEMENTS"
+msgstr "廣告"
+
+#: backend/advertisements.php:35 backend/users.php:118 backend/products.php:103
+#: backend/virtual_tours.php:102 backend/showcases.php:41 backend/maps.php:189
+#: backend/edit_map.php:256 backend/plans.php:403 backend/rooms.php:242
+msgid "Create"
+msgstr "創建"
+
+#: backend/advertisements.php:50 backend/pois.php:243
+#: backend/edit_virtual_tour_ui.php:1541 backend/edit_advertisement.php:64
+#: backend/virtual_tours.php:87 backend/settings.php:348 backend/rooms.php:150
+#: backend/edit_room.php:726
+msgid "Type"
+msgstr "類型"
+
+#: backend/advertisements.php:51
+msgid "Auto Assign"
+msgstr "自動分配"
+
+#: backend/advertisements.php:52 backend/showcases.php:56 backend/plans.php:131
+#: backend/plans.php:489
+msgid "N. Virtual Tours"
+msgstr "N. 虛擬旅遊"
+
+#: backend/advertisements.php:77 backend/leads.php:143
+#: backend/forms_data.php:152 backend/users.php:140 backend/products.php:147
+#: backend/edit_user.php:499 backend/showcases.php:81 backend/plans.php:804
+msgid "No data available in table"
+msgstr "表格中沒有可用的資料"
+
+#: backend/advertisements.php:78 backend/leads.php:144
+#: backend/forms_data.php:153 backend/users.php:141 backend/products.php:148
+#: backend/edit_user.php:500 backend/showcases.php:82 backend/plans.php:805
+#, php-format
+msgid "Showing %s to %s of %s entries"
+msgstr "顯示%s%s%s數"
+
+#: backend/advertisements.php:79 backend/leads.php:145
+#: backend/forms_data.php:154 backend/users.php:142 backend/products.php:149
+#: backend/edit_user.php:501 backend/showcases.php:83 backend/plans.php:806
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "顯示項目 0 到 0 （共 0）"
+
+#: backend/advertisements.php:80 backend/leads.php:146
+#: backend/forms_data.php:155 backend/users.php:143 backend/products.php:150
+#: backend/edit_user.php:502 backend/showcases.php:84 backend/plans.php:807
+#, php-format
+msgid "(filtered from %s total entries)"
+msgstr "（從%s個總條目中過濾）"
+
+#: backend/advertisements.php:83 backend/leads.php:149
+#: backend/forms_data.php:158 backend/users.php:146 backend/products.php:153
+#: backend/edit_user.php:505 backend/showcases.php:87 backend/plans.php:810
+#, php-format
+msgid "Show %s entries"
+msgstr "顯示 %s 項目"
+
+#: backend/advertisements.php:84 backend/edit_virtual_tour.php:1403
+#: backend/edit_virtual_tour.php:1459 backend/leads.php:150
+#: backend/forms_data.php:159 backend/index.php:340 backend/index.php:384
+#: backend/edit_virtual_tour_ui.php:2796 backend/edit_virtual_tour_ui.php:2838
+#: backend/edit_virtual_tour_ui.php:2871 backend/users.php:147
+#: backend/products.php:154 backend/edit_user.php:506 backend/showcases.php:88
+#: backend/plans.php:811 backend/edit_room.php:1493 backend/edit_room.php:1548
+#: backend/edit_room.php:1620 backend/edit_room.php:1748
+#: backend/edit_room.php:1837
+msgid "Loading"
+msgstr "載入中"
+
+#: backend/advertisements.php:85 backend/leads.php:151
+#: backend/forms_data.php:160 backend/users.php:148 backend/products.php:155
+#: backend/edit_user.php:507 backend/showcases.php:89 backend/plans.php:812
+msgid "Processing"
+msgstr "處理中"
+
+#: backend/advertisements.php:86 backend/leads.php:152
+#: backend/forms_data.php:161 backend/users.php:149 backend/products.php:156
+#: backend/edit_showcase.php:157 backend/edit_advertisement.php:203
+#: backend/edit_user.php:508 backend/showcases.php:90 backend/plans.php:813
+msgid "Search"
+msgstr "搜尋"
+
+#: backend/advertisements.php:87 backend/leads.php:153
+#: backend/forms_data.php:162 backend/users.php:150 backend/products.php:157
+#: backend/edit_user.php:509 backend/showcases.php:91 backend/plans.php:814
+msgid "No matching records found"
+msgstr "找不到符合的記錄"
+
+#: backend/advertisements.php:89 backend/leads.php:155
+#: backend/forms_data.php:164 backend/users.php:152 backend/products.php:159
+#: backend/edit_user.php:511 backend/showcases.php:93 backend/plans.php:816
+msgid "First"
+msgstr "第一個"
+
+#: backend/advertisements.php:90 backend/leads.php:156
+#: backend/forms_data.php:165 backend/users.php:153 backend/products.php:160
+#: backend/edit_user.php:512 backend/showcases.php:94 backend/plans.php:817
+msgid "Last"
+msgstr "最後"
+
+#: backend/advertisements.php:91 backend/leads.php:157
+#: backend/forms_data.php:166 backend/users.php:154 backend/products.php:161
+#: backend/edit_user.php:513 backend/showcases.php:95 backend/plans.php:818
+msgid "Next"
+msgstr "編輯下一個房間"
+
+#: backend/advertisements.php:92 backend/leads.php:158
+#: backend/forms_data.php:167 backend/users.php:155 backend/products.php:162
+#: backend/edit_user.php:514 backend/showcases.php:96 backend/plans.php:819
+msgid "Previous"
+msgstr "上一頁"
+
+#: backend/advertisements.php:95 backend/leads.php:161
+#: backend/forms_data.php:170 backend/users.php:158 backend/products.php:165
+#: backend/edit_user.php:517 backend/showcases.php:99 backend/plans.php:822
+msgid "activate to sort column ascending"
+msgstr "啟用以升序對列進行排序"
+
+#: backend/advertisements.php:96 backend/leads.php:162
+#: backend/forms_data.php:171 backend/users.php:159 backend/products.php:166
+#: backend/edit_user.php:518 backend/showcases.php:100 backend/plans.php:823
+msgid "activate to sort column descending"
+msgstr "啟用以降序對列進行排序"
+
+#: backend/edit_virtual_tour.php:57 backend/rooms_bulk.php:36
+#: backend/check_plan.php:4 backend/virtual_tours.php:8 backend/showcases.php:7
+#: backend/landing.php:39 backend/rooms.php:43 backend/edit_room.php:18
+msgid "Click here to change your plan"
+msgstr "按一次改變計畫"
+
+#: backend/edit_virtual_tour.php:79 backend/rooms_bulk.php:103
+#: backend/check_plan.php:11 backend/edit_virtual_tour_ui.php:459
+#: backend/virtual_tours.php:123 backend/preview.php:42
+#: backend/dollhouse.php:53 backend/rooms.php:109 backend/edit_room.php:95
+#, php-format
+msgid "Your \"%s\" plan has expired!"
+msgstr "您的「%s」計劃已過期！"
+
+#: backend/edit_virtual_tour.php:85
+msgid "EDIT VIRTUAL TOUR"
+msgstr "編輯虛擬旅遊"
+
+#: backend/edit_virtual_tour.php:90 backend/pois.php:884 backend/pois.php:908
+#: backend/presentation.php:105 backend/edit_virtual_tour_ui.php:512
+#: backend/edit_showcase.php:29 backend/edit_advertisement.php:26
+#: backend/edit_profile.php:22 backend/edit_user.php:42 backend/publish.php:150
+#: backend/edit_map.php:48 backend/settings.php:28 backend/markers.php:259
+#: backend/markers.php:276 backend/dollhouse.php:94 backend/edit_room.php:120
+#: backend/edit_product.php:27
+msgid "SAVE"
+msgstr "儲存"
+
+#: backend/edit_virtual_tour.php:96 backend/settings.php:23
+#: backend/edit_room.php:127
+msgid "SETTINGS"
+msgstr "設置"
+
+#: backend/edit_virtual_tour.php:99 backend/edit_room.php:130
+msgid "CONTENTS"
+msgstr "內容"
+
+#: backend/edit_virtual_tour.php:105
+msgid "HFOV / INTERACTION"
+msgstr "霍夫 / 互動"
+
+#: backend/edit_virtual_tour.php:109
+msgid "SHOP"
+msgstr "店鋪"
+
+#: backend/edit_virtual_tour.php:114
+msgid "NOTE"
+msgstr "注意"
+
+#: backend/edit_virtual_tour.php:125 backend/edit_room.php:145
+msgid "General"
+msgstr "一般"
+
+#: backend/edit_virtual_tour.php:137 backend/virtual_tours.php:81
+msgid "Author"
+msgstr "作者"
+
+#: backend/edit_virtual_tour.php:143
+msgid "User"
+msgstr "使用者"
+
+#: backend/edit_virtual_tour.php:143
+msgid "owner of the virtual tour"
+msgstr "虛擬旅遊的擁有者"
+
+#: backend/edit_virtual_tour.php:151 backend/edit_profile.php:142
+#: backend/edit_user.php:69 backend/settings.php:1199
+msgid "Language"
+msgstr "語言"
+
+#: backend/edit_virtual_tour.php:153 backend/edit_profile.php:144
+#: backend/edit_user.php:71 backend/settings.php:382
+msgid "Default Language"
+msgstr "默認語言"
+
+#: backend/edit_virtual_tour.php:185 backend/pois.php:221 backend/pois.php:575
+#: backend/edit_virtual_tour_ui.php:1519 backend/publish.php:145
+#: backend/poi_gallery.php:43 backend/gallery.php:108 backend/edit_room.php:742
+#: backend/edit_product.php:73
+msgid "Description"
+msgstr "描述"
+
+#: backend/edit_virtual_tour.php:185
+msgid "description used as preview for share"
+msgstr "用作共用預覽的說明"
+
+#: backend/edit_virtual_tour.php:191
+msgid "Category"
+msgstr "類別"
+
+#: backend/edit_virtual_tour.php:194 backend/pois.php:171 backend/pois.php:174
+#: backend/pois.php:753 backend/pois.php:819 backend/pois.php:951
+#: backend/index.php:339 backend/edit_virtual_tour_ui.php:1591
+#: backend/edit_virtual_tour_ui.php:1727 backend/settings.php:815
+#: backend/markers.php:194 backend/markers.php:241 backend/edit_room.php:596
+#: backend/edit_room.php:728 backend/edit_product.php:59
+msgid "None"
+msgstr "無"
+
+#: backend/edit_virtual_tour.php:205
+msgid "AutoRotate speed"
+msgstr "自動旋轉速度"
+
+#: backend/edit_virtual_tour.php:205
+msgid ""
+"0 to disable autorotate, -1 to -10 speed clockwise, 1 to 10 speed "
+"counterclockwise"
+msgstr "0 可禁用自動旋轉，-1 至 -10 速度順時針，1 至 10 速逆時針"
+
+#: backend/edit_virtual_tour.php:211
+msgid "AutoRotate inactivity"
+msgstr "自動羅特不活動（女士）"
+
+#: backend/edit_virtual_tour.php:211
+msgid "time in milliseconds to wait before starting the autorotation"
+msgstr "啟動自動rot之前等待的時間 （毫秒）"
+
+#: backend/edit_virtual_tour.php:222 backend/plans.php:353
+#: backend/plans.php:711
+msgid "External Link"
+msgstr "外部連結"
+
+#: backend/edit_virtual_tour.php:222
+msgid ""
+"link that will be displayed when the virtual tour opens (must be compatible "
+"for embedding)"
+msgstr "虛擬旅遊開啟時會顯示的連結（必須相容嵌入）"
+
+#: backend/edit_virtual_tour.php:228
+msgid "Google Analytics Tracking ID"
+msgstr "Google Analytics追蹤 ID"
+
+#: backend/edit_virtual_tour.php:228
+msgid ""
+"Google Analytics Tracking ID (UA-XXXXXXXXX-X). Note: Use the Friendly URL in "
+"Google Analytics's property url setting."
+msgstr ""
+"谷歌分析跟蹤 ID （UA-XXXXXX-X）。注意：在 Google 分析的屬性網址設定中使用友"
+"好 URL。"
+
+#: backend/edit_virtual_tour.php:234
+msgid "Facebook page ID"
+msgstr "Facebook 頁面識別碼"
+
+#: backend/edit_virtual_tour.php:234
+msgid ""
+"Id of Facebook page for Facebook Messenger Note: in order to works you need "
+"to add the url to facebook page - settings - messenger platform - whitelist "
+"domain"
+msgstr ""
+"Facebook 信使筆記的 Facebook 頁面 ID： 為了工作， 你需要添加網址到臉書頁面 - "
+"設置 - 信使平臺 - 白名單域"
+
+#: backend/edit_virtual_tour.php:240
+msgid "Whatsapp Number"
+msgstr "Whatsapp 號碼"
+
+#: backend/edit_virtual_tour.php:240
+msgid "Phone number for whatsapp chat"
+msgstr "Whatsapp 聊天的電話號碼"
+
+#: backend/edit_virtual_tour.php:246
+msgid "Autoplay Audio"
+msgstr "自動播放音訊"
+
+#: backend/edit_virtual_tour.php:246
+msgid ""
+"if the popup is not displayed until the user interacts with the borwser, the "
+"audio may not be heard"
+msgstr "如果彈出視窗在使用者與 borwser 交互之前未顯示，則可能聽不到音訊"
+
+#: backend/edit_virtual_tour.php:248 backend/edit_virtual_tour.php:362
+#: backend/edit_virtual_tour.php:410 backend/pois.php:486
+#: backend/edit_virtual_tour_ui.php:927 backend/edit_virtual_tour_ui.php:1137
+#: backend/edit_virtual_tour_ui.php:1405 backend/markers.php:135
+#: backend/markers.php:313
+msgid "Disabled"
+msgstr "停用"
+
+#: backend/edit_virtual_tour.php:249 backend/edit_virtual_tour_ui.php:1406
+msgid "Enabled"
+msgstr "啟用"
+
+#: backend/edit_virtual_tour.php:250
+msgid "Enabled, without pop-up"
+msgstr "啟用，無需彈出視窗"
+
+#: backend/edit_virtual_tour.php:256
+msgid "Visitors"
+msgstr "訪客"
+
+#: backend/edit_virtual_tour.php:256
+msgid "senables viewing of online visitors directly on the tour"
+msgstr "senables 在巡演中直接查看在線訪問者"
+
+#: backend/edit_virtual_tour.php:262
+msgid "Visitors update"
+msgstr "訪客更新"
+
+#: backend/edit_virtual_tour.php:262
+msgid ""
+"visitor update time in milliseconds (0 = real time). Low values can increase "
+"server utilization."
+msgstr "訪客更新時間以毫秒為單位（0 = 實時）。較低的值可以提高服務器利用率。"
+
+#: backend/edit_virtual_tour.php:280 backend/edit_room.php:273
+msgid "Transition"
+msgstr "轉場"
+
+#: backend/edit_virtual_tour.php:286 backend/edit_room.php:281
+msgid "Transition Effect"
+msgstr "轉場效果"
+
+#: backend/edit_virtual_tour.php:286 backend/edit_room.php:281
+msgid "transition animation effect"
+msgstr "過渡動畫效果"
+
+#: backend/edit_virtual_tour.php:302 backend/edit_room.php:297
+msgid "Transition Duration"
+msgstr "轉換時間"
+
+#: backend/edit_virtual_tour.php:302 backend/edit_room.php:297
+msgid "transition duration in milliseconds"
+msgstr "過渡持續時間在毫秒"
+
+#: backend/edit_virtual_tour.php:313 backend/edit_room.php:308
+msgid "Transition Zoom Time"
+msgstr "過渡縮放時間"
+
+#: backend/edit_virtual_tour.php:313
+msgid "transition time before entering the next room in milliseconds"
+msgstr "進入下一個房間前的轉換時間（以毫秒為單位）"
+
+#: backend/edit_virtual_tour.php:324 backend/edit_room.php:319
+msgid "Transition Zoom Level"
+msgstr "過渡縮放級別"
+
+#: backend/edit_virtual_tour.php:324
+msgid "transition zoom level before entering the next room"
+msgstr "進入下一個房間前的過渡縮放級別"
+
+#: backend/edit_virtual_tour.php:330
+msgid "Transition Loading icon"
+msgstr "過渡載入圖示"
+
+#: backend/edit_virtual_tour.php:330
+msgid "shows the loading icon before loading rooms"
+msgstr "顯示載入室前的載入圖示"
+
+#: backend/edit_virtual_tour.php:336
+msgid "Same Azimuth"
+msgstr "相同的方位角"
+
+#: backend/edit_virtual_tour.php:336
+msgid ""
+"maintain the same direction with regard to north while navigate between "
+"rooms (you must set the north position in all rooms)"
+msgstr "在房間之間導航時保持與北方向相同的方向（您必須在所有房間中設置北位置）"
+
+#: backend/edit_virtual_tour.php:342
+msgid "Click Anywhere"
+msgstr "按兩下\"任意\""
+
+#: backend/edit_virtual_tour.php:342
+msgid "allows you to click near the marker to go to the corresponding room"
+msgstr "允許您按一下標記附近進入相應的房間"
+
+#: backend/edit_virtual_tour.php:348
+msgid "Hide Markers"
+msgstr "隱藏標記"
+
+#: backend/edit_virtual_tour.php:348
+msgid "hide all the markers (only when click anywhere is enabled)"
+msgstr "隱藏所有標記（僅當按下任何啟用時 ）"
+
+#: backend/edit_virtual_tour.php:354
+msgid "Hover Markers"
+msgstr "懸停標記"
+
+#: backend/edit_virtual_tour.php:354
+msgid "shows hidden markers when approaching them with the mouse"
+msgstr "用鼠標接近它們時顯示隱藏的標記"
+
+#: backend/edit_virtual_tour.php:360
+msgid "Default Markers LookAt"
+msgstr "默認標記查看"
+
+#: backend/edit_virtual_tour.php:360
+msgid "default 'lookat' setting when adding a new marker"
+msgstr "添加新標記時的默認“lookat”設置"
+
+#: backend/edit_virtual_tour.php:363 backend/markers.php:136
+#: backend/markers.php:314
+msgid "Horizontal only"
+msgstr "僅水準"
+
+#: backend/edit_virtual_tour.php:364 backend/markers.php:137
+#: backend/markers.php:315
+msgid "Horizontal and Vertical"
+msgstr "水平和垂直"
+
+#: backend/edit_virtual_tour.php:377
+msgid "Security"
+msgstr "安全性"
+
+#: backend/edit_virtual_tour.php:383 backend/edit_virtual_tour.php:389
+msgid "leave blank to disable password"
+msgstr "將空白留到禁用密碼"
+
+#: backend/edit_virtual_tour.php:402 backend/dollhouse.php:451
+msgid "Controls"
+msgstr "控制"
+
+#: backend/edit_virtual_tour.php:408
+msgid "Keyboard Mode"
+msgstr "鍵盤模式"
+
+#: backend/edit_virtual_tour.php:411
+msgid "Enabled, mode 1"
+msgstr "已啟用，模式 1"
+
+#: backend/edit_virtual_tour.php:412
+msgid "Enabled, mode 2"
+msgstr "已啟用，模式 2"
+
+#: backend/edit_virtual_tour.php:418
+msgid "Keyboard controls are disabled."
+msgstr "鍵盤控件已禁用。"
+
+#: backend/edit_virtual_tour.php:419 backend/edit_virtual_tour.php:420
+msgid "to look around"
+msgstr "環顧四周"
+
+#: backend/edit_virtual_tour.php:419 backend/edit_virtual_tour.php:420
+msgid "to click"
+msgstr "按一次改變計畫"
+
+#: backend/edit_virtual_tour.php:419 backend/edit_virtual_tour.php:420
+msgid "to go previous room"
+msgstr "去以前的房間"
+
+#: backend/edit_virtual_tour.php:419 backend/edit_virtual_tour.php:420
+msgid "to go next room"
+msgstr "去隔壁房間"
+
+#: backend/edit_virtual_tour.php:419 backend/edit_virtual_tour.php:420
+msgid "to zoom in/out"
+msgstr "放大縮小字體功能 放大縮小字體功能"
+
+#: backend/edit_virtual_tour.php:424 backend/change_plan.php:170
+msgid "Right Click Content"
+msgstr "右鍵點擊內容"
+
+#: backend/edit_virtual_tour.php:424
+msgid ""
+"content displayed when the right button is pressed. leave empty for disable"
+msgstr "按下右鍵時顯示的內容。留空以禁用"
+
+#: backend/edit_virtual_tour.php:437
+msgid "Performance"
+msgstr "效能"
+
+#: backend/edit_virtual_tour.php:443
+msgid "Viewer quality"
+msgstr "查看器品質"
+
+#: backend/edit_virtual_tour.php:443
+msgid ""
+"lower values means faster view (poor quality), higher value means slow view "
+"(high quality)."
+msgstr "較低的值意味著更快的視圖（品質差），更高的值意味著慢視圖（高品質）。"
+
+#: backend/edit_virtual_tour.php:449
+msgid "Compress images quality"
+msgstr "壓縮圖像品質"
+
+#: backend/edit_virtual_tour.php:449
+msgid ""
+"10 to 100: lower values means faster loading (poor quality), higher value "
+"means slow loading (high quality). 100 to disable compression."
+msgstr ""
+"10 到 100：較低的值意味著更快的載入速度（品質差），較高的值意味著緩慢載入（高"
+"品質）。100 以禁用壓縮。"
+
+#: backend/edit_virtual_tour.php:455
+msgid "Max width panorama"
+msgstr "最大寬度全景圖"
+
+#: backend/edit_virtual_tour.php:455
+msgid ""
+"maximum width in pixels of panoramic images. if they exceed this width the "
+"images will be resized. 0 to disable resize."
+msgstr ""
+"全景圖像的最大寬度（以像素為單位）。如果它們超過此寬度，圖像將調整大小。0 以"
+"禁用調整大小。"
+
+#: backend/edit_virtual_tour.php:466
+msgid "Preload panoramas"
+msgstr "預載入全景"
+
+#: backend/edit_virtual_tour.php:466
+msgid "preload all panorama images for faster loading between rooms"
+msgstr "預載入所有全景圖像，以便在房間之間更快地載入"
+
+#: backend/edit_virtual_tour.php:472
+msgid "Enable multi resolution"
+msgstr "啟用多解析度"
+
+#: backend/edit_virtual_tour.php:472
+msgid ""
+"splits the panorama image into multiple sectors and loads them in parallel "
+"to reduce loading times"
+msgstr "將全景圖像拆分為多個扇區並並行載入它們，以減少載入時間"
+
+#: backend/edit_virtual_tour.php:478 backend/edit_virtual_tour.php:1154
+msgid "Regenerate panoramas"
+msgstr "再生全景"
+
+#: backend/edit_virtual_tour.php:478
+msgid "force regenerate all panoramas images"
+msgstr "強制再生所有全景圖像"
+
+#: backend/edit_virtual_tour.php:479
+msgid "Regenerate All Panoramas"
+msgstr "再生所有全景圖"
+
+#: backend/edit_virtual_tour.php:493 backend/edit_virtual_tour.php:1069
+#: backend/pois.php:129 backend/sidebar.php:424 backend/edit_map.php:56
+#: backend/markers.php:106 backend/dollhouse.php:89 backend/dollhouse.php:498
+msgid "Settings"
+msgstr "設定"
+
+#: backend/edit_virtual_tour.php:499
+msgid "Auto start"
+msgstr "自動啟動"
+
+#: backend/edit_virtual_tour.php:499
+msgid "start the virtual tour automatically on loading"
+msgstr "載入時自動啟動虛擬遊覽"
+
+#: backend/edit_virtual_tour.php:505
+msgid "Fly-In"
+msgstr "飛入"
+
+#: backend/edit_virtual_tour.php:505
+msgid "start the fly-in animation at the first entrance to the virtual tour"
+msgstr "在虛擬旅遊的第一個入口處開始飛入動畫"
+
+#: backend/edit_virtual_tour.php:511
+msgid "Loading Info"
+msgstr "載入資訊"
+
+#: backend/edit_virtual_tour.php:511
+msgid "display logo, name and progress bar during initial loading"
+msgstr "初始載入過程中顯示徽標、名稱和進度列"
+
+#: backend/edit_virtual_tour.php:517
+msgid "Video display time (seconds)"
+msgstr "視訊顯示時間（秒）"
+
+#: backend/edit_virtual_tour.php:517
+msgid ""
+"set to 0 to wait for the end of the video, otherwise set the seconds for "
+"which the video should be displayed"
+msgstr "設置為 0 以等待視頻的結束，否則設置視頻顯示的秒數"
+
+#: backend/edit_virtual_tour.php:528
+msgid "Background Image"
+msgstr "背景圖片"
+
+#: backend/edit_virtual_tour.php:528
+msgid ""
+"image displayed as background during initial loading and used as preview "
+"image for share"
+msgstr "在初始載入期間顯示為背景的圖像，並用作共用的預覽圖像"
+
+#: backend/edit_virtual_tour.php:534 backend/edit_virtual_tour.php:589
+msgid "Exist Background"
+msgstr "存在背景"
+
+#: backend/edit_virtual_tour.php:536 backend/edit_virtual_tour.php:591
+msgid "Upload new Background"
+msgstr "上傳新背景"
+
+#: backend/edit_virtual_tour.php:545 backend/edit_virtual_tour.php:840
+#: backend/edit_virtual_tour.php:895
+msgid "REMOVE IMAGE"
+msgstr "刪除圖像"
+
+#: backend/edit_virtual_tour.php:554 backend/edit_virtual_tour.php:609
+#: backend/edit_virtual_tour.php:674 backend/edit_virtual_tour.php:736
+#: backend/edit_virtual_tour.php:795 backend/edit_virtual_tour.php:849
+#: backend/edit_virtual_tour.php:904 backend/pois.php:334 backend/pois.php:364
+#: backend/pois.php:399 backend/pois.php:429 backend/pois.php:459
+#: backend/pois.php:503 backend/pois.php:538 backend/pois.php:634
+#: backend/pois.php:690 backend/presentation.php:134
+#: backend/edit_advertisement.php:112 backend/edit_advertisement.php:154
+#: backend/virtual_tours.php:285 backend/maps.php:160 backend/settings.php:521
+#: backend/settings.php:559 backend/settings.php:597 backend/settings.php:635
+#: backend/rooms.php:174 backend/rooms.php:212 backend/edit_room.php:197
+#: backend/edit_room.php:242 backend/edit_room.php:411
+#: backend/edit_room.php:687 backend/edit_room.php:792
+msgid "Choose file"
+msgstr "選擇檔案"
+
+#: backend/edit_virtual_tour.php:560
+msgid "Upload Background Image"
+msgstr "上傳背景圖片"
+
+#: backend/edit_virtual_tour.php:583
+msgid "Background Video"
+msgstr "背景影片"
+
+#: backend/edit_virtual_tour.php:583
+msgid "video displayed as background during initial loading"
+msgstr "初始載入期間顯示為背景的視頻"
+
+#: backend/edit_virtual_tour.php:600
+msgid "REMOVE VIDEO"
+msgstr "刪除視頻"
+
+#: backend/edit_virtual_tour.php:615
+msgid "Upload Background Video"
+msgstr "上傳背景視頻"
+
+#: backend/edit_virtual_tour.php:642 backend/edit_showcase.php:77
+#: backend/settings.php:507 backend/edit_room.php:183
+msgid "Logo"
+msgstr "Logo"
+
+#: backend/edit_virtual_tour.php:642
+msgid "logo displayed on top right"
+msgstr "顯示在右上的徽標"
+
+#: backend/edit_virtual_tour.php:642 backend/edit_virtual_tour.php:765
+#: backend/presentation.php:56 backend/maps.php:219 backend/maps.php:220
+#: backend/rooms_menu_list.php:9 backend/dollhouse.php:59
+#: backend/gallery.php:50 backend/edit_room.php:621 backend/edit_room.php:644
+#: backend/info.php:51
+msgid "Not visible in the tour, enable it in the Editor UI"
+msgstr "在遊覽中不可見，在編輯器 UI 中啟用它"
+
+#: backend/edit_virtual_tour.php:648
+msgid "Exist Logo"
+msgstr "存在徽標"
+
+#: backend/edit_virtual_tour.php:650
+msgid "Upload new Logo"
+msgstr "上傳新的標誌"
+
+#: backend/edit_virtual_tour.php:660
+msgid "Hyperlink"
+msgstr "超鏈接"
+
+#: backend/edit_virtual_tour.php:665 backend/edit_virtual_tour.php:727
+msgid "REMOVE LOGO"
+msgstr "刪除徽標"
+
+#: backend/edit_virtual_tour.php:680 backend/edit_virtual_tour.php:742
+#: backend/edit_showcase.php:94 backend/settings.php:527
+#: backend/settings.php:565 backend/edit_room.php:203
+msgid "Upload Logo Image"
+msgstr "上傳徽標圖片"
+
+#: backend/edit_virtual_tour.php:703
+msgid "Nadir Logo"
+msgstr "納迪爾標誌"
+
+#: backend/edit_virtual_tour.php:703
+msgid "logo used to hide tripod on panorama image"
+msgstr "用於在全景圖像上隱藏三腳架的徽標"
+
+#: backend/edit_virtual_tour.php:709
+msgid "Exist Nadir Logo"
+msgstr "存在納迪爾標誌"
+
+#: backend/edit_virtual_tour.php:711
+msgid "Upload new Nadir Logo"
+msgstr "上傳新的納迪爾標誌"
+
+#: backend/edit_virtual_tour.php:721
+msgid "Small"
+msgstr "小"
+
+#: backend/edit_virtual_tour.php:722
+msgid "Medium"
+msgstr "中"
+
+#: backend/edit_virtual_tour.php:723
+msgid "Large"
+msgstr "大"
+
+#: backend/edit_virtual_tour.php:765
+msgid "Song"
+msgstr "歌曲 (Song)"
+
+#: backend/edit_virtual_tour.php:765
+msgid "background song during navigation of virtual tour"
+msgstr "虛擬旅遊導航過程中的背景歌曲"
+
+#: backend/edit_virtual_tour.php:770
+msgid "Exist Song"
+msgstr "存在歌曲"
+
+#: backend/edit_virtual_tour.php:772
+msgid "Upload new Song"
+msgstr "上傳新歌曲"
+
+#: backend/edit_virtual_tour.php:785
+msgid "REMOVE SONG"
+msgstr "刪除歌曲"
+
+#: backend/edit_virtual_tour.php:801
+msgid "Upload Song (MP3)"
+msgstr "上傳歌曲 （MP3）"
+
+#: backend/edit_virtual_tour.php:823
+msgid "Intro (Desktop)"
+msgstr "簡介 （桌面）"
+
+#: backend/edit_virtual_tour.php:823
+msgid "image displayed on desktop at first load"
+msgstr "首次載入時在桌面上顯示的圖像"
+
+#: backend/edit_virtual_tour.php:829 backend/edit_virtual_tour.php:884
+msgid "Exist Image"
+msgstr "存在圖像"
+
+#: backend/edit_virtual_tour.php:831 backend/edit_virtual_tour.php:886
+msgid "Upload new Image"
+msgstr "上傳新圖像"
+
+#: backend/edit_virtual_tour.php:855 backend/edit_virtual_tour.php:910
+#: backend/pois.php:341 backend/pois.php:371 backend/pois.php:641
+#: backend/edit_advertisement.php:118 backend/edit_room.php:37
+msgid "Upload Image"
+msgstr "上傳圖片"
+
+#: backend/edit_virtual_tour.php:878
+msgid "Intro (Mobile)"
+msgstr "簡介（手機）"
+
+#: backend/edit_virtual_tour.php:878
+msgid "image displayed on mobile at first load"
+msgstr "第一次載入時在行動裝置上顯示的圖像"
+
+#: backend/edit_virtual_tour.php:933
+msgid "Custom HTML"
+msgstr "自訂 HTML"
+
+#: backend/edit_virtual_tour.php:933
+msgid "html code that will be displayed within the tour"
+msgstr "將在遊覽中顯示的 html 代碼"
+
+#: backend/edit_virtual_tour.php:940 backend/edit_virtual_tour.php:1184
+#: backend/pois.php:310 backend/pois.php:376 backend/pois.php:515
+#: backend/pois.php:646 backend/pois.php:702 backend/pois.php:1105
+#: backend/edit_user.php:370 backend/sidebar.php:378 backend/plans.php:384
+#: backend/plans.php:742
+msgid "Media Library"
+msgstr "媒體庫"
+
+#: backend/edit_virtual_tour.php:954
+msgid "Field of View"
+msgstr "可視範圍"
+
+#: backend/edit_virtual_tour.php:960 backend/edit_virtual_tour_ui.php:2952
+#: backend/virtual_tours.php:89
+msgid "Default"
+msgstr "預設"
+
+#: backend/edit_virtual_tour.php:960
+msgid "sets the panorama’s starting horizontal field of view in degrees."
+msgstr "以度為單位設置全景圖的起始水平視場。"
+
+#: backend/edit_virtual_tour.php:966
+msgid "Min"
+msgstr "最小"
+
+#: backend/edit_virtual_tour.php:966
+msgid "sets the minimum pitch the viewer edge can be at, in degrees."
+msgstr "設置查看器邊緣可以達到的最小間距（以度為單位）。"
+
+#: backend/edit_virtual_tour.php:972
+msgid "Max"
+msgstr "最大"
+
+#: backend/edit_virtual_tour.php:972
+msgid "sets the maximum pitch the viewer edge can be at, in degrees."
+msgstr "設置查看器邊緣可以達到的最大間距（以度為單位）。"
+
+#: backend/edit_virtual_tour.php:978
+msgid "HFOV Mobile Ratio"
+msgstr "HFOV 移動比率"
+
+#: backend/edit_virtual_tour.php:978
+msgid ""
+"a lower ratio indicates a wider view on the mobile, while a higher value "
+"indicates a narrower view"
+msgstr "較低的比率表示行動裝置上的視野更寬，而較高的值表示視野較窄"
+
+#: backend/edit_virtual_tour.php:989
+msgid "Interaction"
+msgstr "相互作用"
+
+#: backend/edit_virtual_tour.php:995
+msgid "Pan Speed"
+msgstr "平移速度"
+
+#: backend/edit_virtual_tour.php:995 backend/edit_virtual_tour.php:1001
+msgid ""
+"adjusts panning speed from touch inputs: a lower value indicates a slower "
+"pan speed, while a higher value indicates a faster pan speed"
+msgstr ""
+"從觸摸輸入調整平移速度：較低的值表示平移速度變慢，而較高的值表示平移速度更快"
+
+#: backend/edit_virtual_tour.php:1001
+msgid "Pan Speed Mobile"
+msgstr "平移速度移動"
+
+#: backend/edit_virtual_tour.php:1007
+msgid "Friction"
+msgstr "摩擦"
+
+#: backend/edit_virtual_tour.php:1007 backend/edit_virtual_tour.php:1013
+msgid ""
+"controls the friction that slows down the viewer motion after it is dragged "
+"and released. higher values mean the motion stops faster."
+msgstr "控制拖動和釋放后減慢觀看者運動的摩擦力。更高的值意味著運動停止得更快。"
+
+#: backend/edit_virtual_tour.php:1013
+msgid "Friction Mobile"
+msgstr "摩擦移動"
+
+#: backend/edit_virtual_tour.php:1024 backend/pois.php:1135
+#: backend/edit_virtual_tour_ui.php:1642 backend/edit_virtual_tour_ui.php:1775
+#: backend/sidebar.php:417 backend/markers.php:384 backend/plans.php:396
+#: backend/plans.php:754 backend/edit_room.php:346
+msgid "Preview"
+msgstr "預覽"
+
+#: backend/edit_virtual_tour.php:1029
+msgid "Desktop"
+msgstr "桌面"
+
+#: backend/edit_virtual_tour.php:1032
+msgid "Current HFOV"
+msgstr "當前 HFOV"
+
+#: backend/edit_virtual_tour.php:1033
+msgid "use the mouse wheel or the controls to zoom"
+msgstr "使用滑鼠滾輪或控件縮放"
+
+#: backend/edit_virtual_tour.php:1037
+msgid "Mobile"
+msgstr "手機"
+
+#: backend/edit_virtual_tour.php:1051
+msgid "Note (only visible to administrators)"
+msgstr "注意（僅對管理員可見）"
+
+#: backend/edit_virtual_tour.php:1075
+msgid "Public Key"
+msgstr "公開金鑰"
+
+#: backend/edit_virtual_tour.php:1081 backend/plans.php:87
+#: backend/plans.php:445
+msgid "Currency"
+msgstr "貨幣"
+
+#: backend/edit_virtual_tour.php:1109
+msgid "Create an account on"
+msgstr "創建帳戶！"
+
+#: backend/edit_virtual_tour.php:1110
+#, php-format
+msgid ""
+"Pay attention that you can make 2 configurations, one for <b>test</b> and "
+"one for <b>live</b>, by changing the selector on the %s dashboard at the top"
+msgstr ""
+"請注意，通過更改頂部 %s 儀表板上的選擇器，您可以進行 2 種配置，一種用於<b>測"
+"試</b>，一種用於<b>實時</b>"
+
+#: backend/edit_virtual_tour.php:1111
+msgid "Fill your business information"
+msgstr "填寫您的商家信息"
+
+#: backend/edit_virtual_tour.php:1112
+msgid "Configure your domain"
+msgstr "配置您的域"
+
+#: backend/edit_virtual_tour.php:1113
+#, php-format
+msgid ""
+"Add your domain <b>%s</b> in the <b>Domain</b> field of the section "
+"<b>DEFAULT WEBSITE DOMAIN</b>"
+msgstr ""
+"在<b>DEFAULT WEBSITE DOMAIN</b><b>部分的域</b>字段中添加您的域<b>%s</b>"
+
+#: backend/edit_virtual_tour.php:1114
+msgid "Configure Regional Settings"
+msgstr "配置區域設置"
+
+#: backend/edit_virtual_tour.php:1115
+msgid "Add all the currencies in the section <b>SUPPORTED CURRENCIES</b>"
+msgstr "<b>在 SUPPORTED CURRENCIES</b>部分添加所有貨幣"
+
+#: backend/edit_virtual_tour.php:1116
+msgid ""
+"Enable the countries they can buy on your site in the section <b>ENABLED "
+"COUNTRIES</b>"
+msgstr "在啟用的國家/地區部分啟用他們可以在您的網站上購買的<b>國家/地區</b>"
+
+#: backend/edit_virtual_tour.php:1117
+msgid "Configure Taxes"
+msgstr "配置稅金"
+
+#: backend/edit_virtual_tour.php:1118
+msgid ""
+"Click on <b>Create New Tax</b> a make sure to check <b>Included in price</b>"
+msgstr "單擊“<b>創建新稅”，</b>確保選中“<b>包含在價格中”</b>"
+
+#: backend/edit_virtual_tour.php:1119
+msgid "Configure Checkout & Cart"
+msgstr "配置結帳和購物車"
+
+#: backend/edit_virtual_tour.php:1120
+msgid ""
+"You can decide whether to register your customers or not by changing the "
+"option <b>Allow Guests Only</b>"
+msgstr "<b>您可以通過更改“僅允許來賓</b>”選項來決定是否註冊您的客戶"
+
+#: backend/edit_virtual_tour.php:1121
+msgid "Connect a payment gateway"
+msgstr "連接支付網關"
+
+#: backend/edit_virtual_tour.php:1122
+msgid "Get Api Key"
+msgstr "获取 API 密匙"
+
+#: backend/edit_virtual_tour.php:1123
+msgid "Retrieve your <b>public test or live API key</b> and enter it above"
+msgstr "檢索您的<b>公共測試或實時 API 密鑰</b>並在上方輸入"
+
+#: backend/edit_virtual_tour.php:1137
+msgid "Multi resolution regenerate"
+msgstr "多解析度再生"
+
+#: backend/edit_virtual_tour.php:1140
+msgid "Success. Multi resolution panoramas will be regenerated in background."
+msgstr "成功。多解析度全景圖將在後台重新生成。"
+
+#: backend/edit_virtual_tour.php:1141
+msgid "An error has occured."
+msgstr "發生錯誤。"
+
+#: backend/edit_virtual_tour.php:1157
+msgid "Regeneration in progress, please wait ... Do not close this window!"
+msgstr "再生正在進行中，請等待...不要關閉這個視窗！"
+
+#: backend/edit_virtual_tour.php:1167 backend/rooms_menu_list.php:19
+msgid "Add Category"
+msgstr "新增分類"
+
+#: backend/edit_virtual_tour.php:1173 backend/presentation.php:232
+#: backend/presentation.php:281 backend/index.php:264 backend/markers.php:335
+#: backend/dollhouse.php:132 backend/edit_room.php:882
+msgid "Add"
+msgstr "新增"
+
+#: backend/login.php:139 backend/users.php:50 backend/edit_profile.php:136
+#: backend/edit_user.php:63
+msgid "E-mail"
+msgstr "電子郵件"
+
+#: backend/login.php:144
+msgid "Send Verification Code"
+msgstr "發送驗證碼"
+
+#: backend/login.php:150
+msgid "Verification code"
+msgstr "驗證碼"
+
+#: backend/login.php:156
+msgid "New password"
+msgstr "新密碼"
+
+#: backend/login.php:165 backend/users.php:111 backend/edit_user.php:424
+msgid "Repeat password"
+msgstr "重覆密碼"
+
+#: backend/login.php:173
+msgid "Change password"
+msgstr "修改密碼"
+
+#: backend/login.php:179
+msgid "Back to Login"
+msgstr "回到登入"
+
+#: backend/login.php:185
+msgid "Welcome Back!"
+msgstr "歡迎回來！"
+
+#: backend/login.php:189
+msgid "Enter Username or E-mail"
+msgstr "輸入使用者名或電子郵件"
+
+#: backend/login.php:196
+msgid "Login"
+msgstr "登入"
+
+#: backend/login.php:201
+msgid "Login with Google"
+msgstr "使用 Google 登入"
+
+#: backend/login.php:206
+msgid "Login with Facebook"
+msgstr "使用 Facebook 登入"
+
+#: backend/login.php:211
+msgid "Login with Twitter"
+msgstr "使用 Twitter 帳號登入"
+
+#: backend/login.php:217
+msgid "Forgot Password?"
+msgstr "忘記密碼？"
+
+#: backend/login.php:222
+msgid "Create an Account"
+msgstr "建立帳號"
+
+#: backend/login.php:239
+msgid "Create Account"
+msgstr "建立帳號"
+
+#: backend/login.php:242
+#, php-format
+msgid ""
+"An account linked to the email %s was not found, do you want to register a "
+"new one?"
+msgstr "未找到連結到電子郵件%s的帳戶，是否要註冊新帳戶？"
+
+#: backend/login.php:245
+msgid "Yes, Register"
+msgstr "是的，註冊"
+
+#: backend/login.php:256
+msgid "Action required"
+msgstr "需要採取的動作"
+
+#: backend/login.php:262
+msgid "Associate a valid e-mail address to this account."
+msgstr "將有效的電子郵件地址關聯到此帳戶。"
+
+#: backend/login.php:269 backend/index.php:373
+msgid "Continue"
+msgstr "繼續"
+
+#: backend/login.php:282
+msgid "Check your inbox for the verification code."
+msgstr "檢查收件匣中的驗證碼。"
+
+#: backend/login.php:284
+msgid "Password successfully changed!"
+msgstr "密碼成功更改！"
+
+#: backend/icons_library.php:55
+msgid "ICONS LIBRARY"
+msgstr "圖示庫"
+
+#: backend/icons_library.php:71
+msgid "You cannot create Icons Library on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建圖示庫！"
+
+#: backend/icons_library.php:79
+#, php-format
+msgid "Your \"%s\" plan not allow to create Icons Library!"
+msgstr "您的「%s」計劃不允許創建圖示庫！"
+
+#: backend/icons_library.php:107
+msgid "Icons List"
+msgstr "圖示清單"
+
+#: backend/icons_library.php:112
+msgid "Loading icons ..."
+msgstr "載入圖示..."
+
+#: backend/pois.php:73 backend/virtual_tours.php:217 backend/edit_user.php:328
+#: backend/dashboard.php:90 backend/sidebar.php:361 backend/statistics.php:112
+#: backend/plans.php:35 backend/plans.php:375 backend/plans.php:733
+#: backend/rooms.php:277 backend/topbar.php:61 backend/change_plan.php:145
+msgid "POIs"
+msgstr "Pois。"
+
+#: backend/pois.php:80
+msgid "You cannot create POIs on an external virtual tour!"
+msgstr "您無法在外部虛擬旅遊中創建 POI！"
+
+#: backend/pois.php:87
+msgid "You have reached the maximum number of POIs allowed from your plan!"
+msgstr "您已達到計畫允許的最大 POIs 數量！"
+
+#: backend/pois.php:96 backend/markers.php:91
+msgid "Select a room first!"
+msgstr "先選擇一個房間！"
+
+#: backend/pois.php:97 backend/index.php:279 backend/markers.php:92
+#: backend/preview.php:55
+#, php-format
+msgid "No rooms created for this Virtual Tour. Go to %s and create a new one!"
+msgstr "沒有為此虛擬旅遊創建的房間。轉到%s並創建一個新的！"
+
+#: backend/pois.php:97 backend/index.php:279 backend/virtual_tours.php:199
+#: backend/edit_user.php:298 backend/dashboard.php:56 backend/sidebar.php:359
+#: backend/statistics.php:82 backend/markers.php:92 backend/preview.php:55
+#: backend/plans.php:33 backend/plans.php:373 backend/plans.php:731
+#: backend/topbar.php:59 backend/change_plan.php:137
+msgid "Rooms"
+msgstr "房間"
+
+#: backend/pois.php:103 backend/markers.php:98
+msgid "MOVE"
+msgstr "移動"
+
+#: backend/pois.php:104 backend/index.php:267 backend/markers.php:99
+msgid "EDIT"
+msgstr "編輯"
+
+#: backend/pois.php:105 backend/index.php:313
+msgid "DUPLICATE"
+msgstr "重複"
+
+#: backend/pois.php:106 backend/index.php:276
+#: backend/edit_virtual_tour_ui.php:2019 backend/edit_showcase.php:24
+#: backend/edit_advertisement.php:21 backend/edit_user.php:36
+#: backend/edit_map.php:227 backend/markers.php:100 backend/edit_product.php:22
+msgid "DELETE"
+msgstr "刪除"
+
+#: backend/pois.php:112 backend/edit_virtual_tour_ui.php:3006
+#: backend/edit_virtual_tour_ui.php:3012 backend/edit_virtual_tour_ui.php:3019
+#: backend/edit_virtual_tour_ui.php:3038 backend/edit_showcase.php:56
+#: backend/dollhouse.php:509 backend/edit_room.php:499
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: backend/pois.php:118
+msgid "Tolerance"
+msgstr "公差"
+
+#: backend/pois.php:123
+msgid "Apply"
+msgstr "套用"
+
+#: backend/pois.php:132 backend/pois.php:168 backend/pois.php:948
+#: backend/edit_advertisement.php:85
+msgid "Content"
+msgstr "內容"
+
+#: backend/pois.php:135 backend/pois.php:148 backend/pois.php:720
+#: backend/pois.php:929 backend/pois.php:1158
+#: backend/edit_virtual_tour_ui.php:1576 backend/edit_virtual_tour_ui.php:1713
+#: backend/edit_virtual_tour_ui.php:1843 backend/edit_virtual_tour_ui.php:1892
+#: backend/markers.php:109 backend/markers.php:119 backend/markers.php:160
+#: backend/markers.php:298 backend/markers.php:407
+msgid "Style"
+msgstr "樣式"
+
+#: backend/pois.php:138
+msgid "Schedule"
+msgstr "排程"
+
+#: backend/pois.php:151 backend/pois.php:154 backend/pois.php:732
+#: backend/pois.php:932 backend/pois.php:935 backend/pois.php:1170
+#: backend/index.php:338 backend/edit_virtual_tour_ui.php:1602
+#: backend/edit_virtual_tour_ui.php:1734 backend/edit_virtual_tour_ui.php:1855
+#: backend/edit_virtual_tour_ui.php:1904 backend/markers.php:122
+#: backend/markers.php:125 backend/markers.php:173 backend/markers.php:301
+#: backend/markers.php:304 backend/markers.php:419
+msgid "Icon"
+msgstr "圖示"
+
+#: backend/pois.php:155 backend/pois.php:936 backend/index.php:337
+#: backend/markers.php:126 backend/markers.php:305
+msgid "Selection Area"
+msgstr "選擇區域"
+
+#: backend/pois.php:156 backend/pois.php:630 backend/pois.php:937
+msgid "Embedded Image"
+msgstr "嵌入式影像"
+
+#: backend/pois.php:157 backend/pois.php:938
+msgid "Embedded Text"
+msgstr "嵌入式文本"
+
+#: backend/pois.php:158 backend/pois.php:939
+msgid "Embedded Slideshow"
+msgstr "嵌入式幻燈片"
+
+#: backend/pois.php:159 backend/pois.php:940
+msgid "Embedded Video"
+msgstr "嵌入視頻"
+
+#: backend/pois.php:160 backend/pois.php:941
+msgid "Embedded Video (with transparency)"
+msgstr "嵌入式視頻（具有透明度）"
+
+#: backend/pois.php:161 backend/pois.php:942
+msgid "Embedded Video (with background removal)"
+msgstr "嵌入式視頻（去除背景）"
+
+#: backend/pois.php:162 backend/pois.php:943
+#: backend/ajax/get_advertisements.php:49 backend/edit_advertisement.php:68
+#: backend/edit_advertisement.php:91
+msgid "Embedded Link"
+msgstr "嵌入式連結"
+
+#: backend/pois.php:164 backend/pois.php:193 backend/edit_profile.php:228
+#: backend/edit_user.php:431 backend/markers.php:128
+msgid "Change"
+msgstr "更改"
+
+#: backend/pois.php:175 backend/pois.php:955 backend/index.php:314
+msgid "Image (single)"
+msgstr "影像（單個）"
+
+#: backend/pois.php:176
+msgid "Image (gallery)"
+msgstr "圖片（圖庫）"
+
+#: backend/pois.php:177 backend/pois.php:963 backend/index.php:315
+#: backend/rooms.php:153
+msgid "Video"
+msgstr "影片"
+
+#: backend/pois.php:178 backend/pois.php:967 backend/index.php:322
+#: backend/change_plan.php:234
+msgid "Video 360"
+msgstr "視頻 360"
+
+#: backend/pois.php:181 backend/pois.php:979
+msgid "Link (embed)"
+msgstr "連結 （嵌入）"
+
+#: backend/pois.php:182 backend/pois.php:983 backend/index.php:317
+msgid "Link (external)"
+msgstr "連結（外部）"
+
+#: backend/pois.php:183 backend/pois.php:245 backend/pois.php:987
+#: backend/index.php:318 backend/edit_virtual_tour_ui.php:1543
+msgid "Text"
+msgstr "文字"
+
+#: backend/pois.php:184 backend/pois.php:991 backend/index.php:319
+msgid "Html"
+msgstr "Html"
+
+#: backend/pois.php:185 backend/pois.php:995 backend/index.php:320
+#: backend/index.php:344
+msgid "Download"
+msgstr "下載"
+
+#: backend/pois.php:186 backend/pois.php:999 backend/forms_data.php:88
+#: backend/index.php:321
+msgid "Form"
+msgstr "表單"
+
+#: backend/pois.php:187 backend/pois.php:1003 backend/index.php:325
+msgid "Google Maps"
+msgstr "Google 地圖"
+
+#: backend/pois.php:188 backend/pois.php:1007 backend/index.php:326
+msgid "Object 360 (images)"
+msgstr "物件 360 （影像）"
+
+#: backend/pois.php:189 backend/pois.php:1011 backend/index.php:327
+msgid "Object 3D"
+msgstr "物件 3D"
+
+#: backend/pois.php:190 backend/pois.php:1015 backend/index.php:328
+#: backend/products.php:117
+msgid "Product"
+msgstr "產品"
+
+#: backend/pois.php:191 backend/pois.php:1019 backend/index.php:329
+msgid "Switch Panorama"
+msgstr "切換全景"
+
+#: backend/pois.php:203 backend/pois.php:569
+#: backend/edit_virtual_tour_ui.php:1477 backend/edit_virtual_tour_ui.php:1501
+#: backend/publish.php:139 backend/poi_gallery.php:37 backend/gallery.php:102
+#: backend/edit_room.php:736
+msgid "Title"
+msgstr "標題"
+
+#: backend/pois.php:209 backend/edit_virtual_tour_ui.php:1507
+msgid "Button"
+msgstr "按鈕"
+
+#: backend/pois.php:215 backend/edit_virtual_tour_ui.php:1513
+msgid "Reply"
+msgstr "回覆"
+
+#: backend/pois.php:231 backend/edit_virtual_tour_ui.php:1529
+#: backend/settings.php:295 backend/settings.php:1008 backend/settings.php:1048
+#: backend/settings.php:1120 backend/settings.php:1156
+msgid "Enable"
+msgstr "啟用"
+
+#: backend/pois.php:237 backend/edit_virtual_tour_ui.php:1535
+msgid "Required"
+msgstr "必须"
+
+#: backend/pois.php:246 backend/edit_virtual_tour_ui.php:1544
+msgid "Number"
+msgstr "數字"
+
+#: backend/pois.php:249 backend/edit_virtual_tour_ui.php:1547
+msgid "Select"
+msgstr "選擇"
+
+#: backend/pois.php:250 backend/edit_virtual_tour_ui.php:1548
+msgid "Checkbox"
+msgstr "複選框"
+
+#: backend/pois.php:251 backend/leads.php:86 backend/forms_data.php:86
+#: backend/edit_virtual_tour_ui.php:1549
+msgid "Date"
+msgstr "日期"
+
+#: backend/pois.php:257 backend/pois.php:811
+#: backend/edit_virtual_tour_ui.php:1555
+msgid "Label"
+msgstr "標籤"
+
+#: backend/pois.php:265
+msgid "Displays the original panorama"
+msgstr "顯示原始全景圖"
+
+#: backend/pois.php:269 backend/pois.php:620
+msgid "Content - Image Link"
+msgstr "內容 - 圖像連結"
+
+#: backend/pois.php:278
+msgid "Target"
+msgstr "目標"
+
+#: backend/pois.php:280
+msgid "Blank"
+msgstr "空白"
+
+#: backend/pois.php:281
+msgid "Self"
+msgstr "自己"
+
+#: backend/pois.php:282
+msgid "Parent"
+msgstr "上層"
+
+#: backend/pois.php:283 backend/pois.php:608
+msgid "Top"
+msgstr "頂部"
+
+#: backend/pois.php:287 backend/edit_room.php:658
+msgid "Background Song Volume"
+msgstr "背景歌曲卷"
+
+#: backend/pois.php:291
+msgid "Google Maps Embed Code"
+msgstr "谷歌地圖嵌入代碼"
+
+#: backend/pois.php:295
+msgid "Google Street View Embed Code"
+msgstr "谷歌街景嵌入代碼"
+
+#: backend/pois.php:299
+msgid "Content - Text"
+msgstr "內容 - 文字"
+
+#: backend/pois.php:303
+msgid "Content - Mixed"
+msgstr "內容 - 混合"
+
+#: backend/pois.php:307 backend/edit_virtual_tour_ui.php:1482
+msgid "Content - Html"
+msgstr "內容 - Html"
+
+#: backend/pois.php:314
+msgid "Content - Product"
+msgstr "內容 - 產品"
+
+#: backend/pois.php:315
+msgid "Choose a Product"
+msgstr "選擇產品"
+
+#: backend/pois.php:320 backend/pois.php:772
+msgid "IMAGES GALLERY"
+msgstr "圖像庫"
+
+#: backend/pois.php:323
+msgid "IMAGES OBJECT 360"
+msgstr "圖像物件 360"
+
+#: backend/pois.php:330 backend/edit_room.php:36
+msgid "Panorama Image"
+msgstr "全景圖像"
+
+#: backend/pois.php:360 backend/ajax/get_advertisements.php:43
+#: backend/edit_advertisement.php:66 backend/edit_advertisement.php:96
+#: backend/rooms.php:152
+msgid "Image"
+msgstr "圖片"
+
+#: backend/pois.php:395
+msgid "Json"
+msgstr "Json"
+
+#: backend/pois.php:406
+msgid "Upload Json"
+msgstr "上傳傑森"
+
+#: backend/pois.php:425 backend/pois.php:455
+msgid "File"
+msgstr "檔案"
+
+#: backend/pois.php:436 backend/pois.php:466
+msgid "Upload File"
+msgstr "上傳檔案"
+
+#: backend/pois.php:484
+msgid "Placement"
+msgstr "放置"
+
+#: backend/pois.php:487
+msgid "Floor"
+msgstr "樓"
+
+#: backend/pois.php:488
+msgid "Wall"
+msgstr "動態牆"
+
+#: backend/pois.php:499
+msgid "Video MP4"
+msgstr "視頻 MP4"
+
+#: backend/pois.php:510 backend/pois.php:697 backend/presentation.php:140
+#: backend/edit_advertisement.php:160 backend/edit_room.php:41
+msgid "Upload Video"
+msgstr "上傳視頻"
+
+#: backend/pois.php:534
+msgid "Audio MP3"
+msgstr "音訊 MP3"
+
+#: backend/pois.php:545
+msgid "Upload Audio"
+msgstr "上傳音訊檔"
+
+#: backend/pois.php:550 backend/pois.php:1120 backend/edit_user.php:371
+#: backend/sidebar.php:379 backend/plans.php:385 backend/plans.php:743
+msgid "Music Library"
+msgstr "音樂庫"
+
+#: backend/pois.php:583
+msgid "Auto Open"
+msgstr "自動打開"
+
+#: backend/pois.php:589
+msgid "Auto Close"
+msgstr "自動關閉"
+
+#: backend/pois.php:595
+msgid "View Mode"
+msgstr "檢視模式"
+
+#: backend/pois.php:597 backend/edit_map.php:117
+msgid "Modal"
+msgstr "模態"
+
+#: backend/pois.php:598
+msgid "Box (click)"
+msgstr "盒子（點擊）"
+
+#: backend/pois.php:599
+msgid "Box (Hover)"
+msgstr "盒子（懸停）"
+
+#: backend/pois.php:605
+msgid "Box Position"
+msgstr "Box 位置"
+
+#: backend/pois.php:607
+msgid "Left"
+msgstr "左"
+
+#: backend/pois.php:609
+msgid "Right"
+msgstr "右"
+
+#: backend/pois.php:610
+msgid "Bottom"
+msgstr "底部"
+
+#: backend/pois.php:664
+msgid "Autoplay"
+msgstr "自動播放"
+
+#: backend/pois.php:670
+msgid "Muted"
+msgstr "靜音"
+
+#: backend/pois.php:677
+msgid "Background Removal"
+msgstr "背景去除"
+
+#: backend/pois.php:685
+msgid "Embedded Video MP4"
+msgstr "嵌入式視頻 MP4"
+
+#: backend/pois.php:686
+msgid "Embedded Video WEBM + MOV"
+msgstr "嵌入式視頻 WEBM + MOV"
+
+#: backend/pois.php:722 backend/edit_virtual_tour_ui.php:1715
+msgid "Icon + Label"
+msgstr "Icon+標籤"
+
+#: backend/pois.php:723 backend/edit_virtual_tour_ui.php:1716
+msgid "Label + Icon"
+msgstr "標籤 + 圖示"
+
+#: backend/pois.php:724 backend/edit_virtual_tour_ui.php:1580
+#: backend/edit_virtual_tour_ui.php:1717 backend/markers.php:164
+msgid "Only Icon"
+msgstr "圖示"
+
+#: backend/pois.php:725 backend/edit_virtual_tour_ui.php:1718
+msgid "Only Label"
+msgstr "僅標籤"
+
+#: backend/pois.php:726 backend/edit_virtual_tour_ui.php:1582
+#: backend/edit_virtual_tour_ui.php:1719 backend/markers.php:166
+msgid "Custom Icons Library"
+msgstr "自定義圖示庫"
+
+#: backend/pois.php:733 backend/edit_virtual_tour_ui.php:1604
+#: backend/edit_virtual_tour_ui.php:1736 backend/edit_virtual_tour_ui.php:3145
+#: backend/markers.php:174
+msgid "Select Icon"
+msgstr "選擇圖標"
+
+#: backend/pois.php:742 backend/markers.php:183
+msgid "Library Icon"
+msgstr "庫圖示"
+
+#: backend/pois.php:743 backend/edit_virtual_tour_ui.php:1611
+#: backend/edit_virtual_tour_ui.php:1743 backend/markers.php:184
+msgid "Select Library Icon"
+msgstr "選擇庫圖示"
+
+#: backend/pois.php:751 backend/markers.php:192
+msgid "Animation"
+msgstr "動畫"
+
+#: backend/pois.php:754 backend/markers.php:195
+msgid "Bounce"
+msgstr "彈跳"
+
+#: backend/pois.php:755 backend/markers.php:196
+msgid "Flash"
+msgstr "快閃"
+
+#: backend/pois.php:756 backend/markers.php:197
+msgid "Rubberband"
+msgstr "橡皮筋"
+
+#: backend/pois.php:757 backend/markers.php:198
+msgid "Shake X"
+msgstr "搖一搖"
+
+#: backend/pois.php:758 backend/markers.php:199
+msgid "Shake Y"
+msgstr "搖一搖"
+
+#: backend/pois.php:759 backend/markers.php:200
+msgid "Swing"
+msgstr "搖擺"
+
+#: backend/pois.php:760 backend/markers.php:201
+msgid "Tada"
+msgstr "晃動"
+
+#: backend/pois.php:761 backend/markers.php:202
+msgid "Wobble"
+msgstr "搖晃"
+
+#: backend/pois.php:762 backend/markers.php:203
+msgid "Jello"
+msgstr "果凍"
+
+#: backend/pois.php:763 backend/markers.php:204
+msgid "Heartbeat"
+msgstr "心跳"
+
+#: backend/pois.php:764 backend/markers.php:205
+msgid "Flip"
+msgstr "翻轉"
+
+#: backend/pois.php:778
+msgid "Autoplay (seconds)"
+msgstr "自動播放（秒）"
+
+#: backend/pois.php:787 backend/pois.php:1176 backend/index.php:346
+#: backend/edit_virtual_tour_ui.php:1630 backend/edit_virtual_tour_ui.php:1763
+#: backend/edit_virtual_tour_ui.php:1861 backend/edit_virtual_tour_ui.php:1910
+#: backend/markers.php:213 backend/markers.php:425
+msgid "Color"
+msgstr "顏色"
+
+#: backend/pois.php:793 backend/pois.php:1182
+#: backend/edit_virtual_tour_ui.php:1636 backend/edit_virtual_tour_ui.php:1769
+#: backend/edit_virtual_tour_ui.php:1867 backend/edit_virtual_tour_ui.php:1916
+#: backend/markers.php:219 backend/markers.php:431
+msgid "Background"
+msgstr "背景"
+
+#: backend/pois.php:799 backend/markers.php:225
+msgid "Border"
+msgstr "邊框"
+
+#: backend/pois.php:805 backend/markers.php:231
+msgid "CSS Class"
+msgstr "CSS Class"
+
+#: backend/pois.php:817 backend/pois.php:1164
+#: backend/edit_virtual_tour_ui.php:1589 backend/edit_virtual_tour_ui.php:1725
+#: backend/edit_virtual_tour_ui.php:1849 backend/edit_virtual_tour_ui.php:1898
+#: backend/markers.php:239 backend/markers.php:413
+msgid "Tooltip Type"
+msgstr "工具提示類型"
+
+#: backend/pois.php:820 backend/edit_virtual_tour_ui.php:1596
+#: backend/edit_virtual_tour_ui.php:1728 backend/markers.php:246
+msgid "Custom Text"
+msgstr "自定義文字"
+
+#: backend/pois.php:828 backend/markers.php:252
+msgid "Tooltip Text"
+msgstr "工具提示文字"
+
+#: backend/pois.php:838
+msgid "Enable Schedule"
+msgstr "啟用計劃"
+
+#: backend/pois.php:846
+msgid "Date - From"
+msgstr "日期 - 從"
+
+#: backend/pois.php:852
+msgid "Date - To"
+msgstr "開始日期"
+
+#: backend/pois.php:859
+msgid "Monday"
+msgstr "星期一"
+
+#: backend/pois.php:860
+msgid "Tuesday"
+msgstr "星期二"
+
+#: backend/pois.php:861
+msgid "Wednesday"
+msgstr "星期三"
+
+#: backend/pois.php:862
+msgid "Thursday"
+msgstr "星期四"
+
+#: backend/pois.php:863
+msgid "Friday"
+msgstr "星期五"
+
+#: backend/pois.php:864
+msgid "Saturday"
+msgstr "星期六"
+
+#: backend/pois.php:865
+msgid "Sunday"
+msgstr "星期日"
+
+#: backend/pois.php:871
+msgid "Hour - From"
+msgstr "小時 - 從"
+
+#: backend/pois.php:877
+msgid "Hour - To"
+msgstr "小時 - 到"
+
+#: backend/pois.php:883 backend/markers.php:258
+msgid "APPLY STYLE TO ALL"
+msgstr "將風格應用於所有人"
+
+#: backend/pois.php:889
+msgid "drag the poi to change its position"
+msgstr "拖動 poi 以改變其位置"
+
+#: backend/pois.php:890 backend/markers.php:265
+msgid "drag the pointers to move and resize the content"
+msgstr "拖動指點以移動和調整內容大小"
+
+#: backend/pois.php:893 backend/markers.php:268
+msgid "Perspective"
+msgstr "透視"
+
+#: backend/pois.php:898 backend/markers.php:273
+msgid "Size"
+msgstr "尺寸"
+
+#: backend/pois.php:902
+msgid "Z Order"
+msgstr "Z順序"
+
+#: backend/pois.php:906
+msgid "3d Transform"
+msgstr "3d 轉換"
+
+#: backend/pois.php:911
+msgid "ADD POI"
+msgstr "添加郵政"
+
+#: backend/pois.php:912
+msgid "EDIT MARKERS"
+msgstr "編輯標記"
+
+#: backend/pois.php:913 backend/index.php:274 backend/markers.php:281
+#: backend/preview.php:48
+msgid "PREVIEW"
+msgstr "預覽"
+
+#: backend/pois.php:925
+msgid "Add POI"
+msgstr "添加 POI"
+
+#: backend/pois.php:959 backend/index.php:323
+msgid "Images (gallery)"
+msgstr "圖片（畫廊）"
+
+#: backend/pois.php:1034
+msgid "Delete POI"
+msgstr "刪除 POI"
+
+#: backend/pois.php:1037
+msgid "Are you sure you want to delete the poi?"
+msgstr "是否確實要刪除 poi？"
+
+#: backend/pois.php:1040 backend/edit_showcase.php:259
+#: backend/edit_advertisement.php:225 backend/virtual_tours.php:157
+#: backend/edit_user.php:401 backend/maps.php:206 backend/edit_map.php:273
+#: backend/settings.php:1398 backend/markers.php:352 backend/rooms.php:259
+#: backend/edit_product.php:110
+msgid "Yes, Delete"
+msgstr "是，刪除"
+
+#: backend/pois.php:1051
+msgid "Duplicate POI"
+msgstr "重複POI"
+
+#: backend/pois.php:1054
+msgid "Are you sure you want to duplicate the poi?"
+msgstr "你確定要複製 poi 嗎？"
+
+#: backend/pois.php:1056 backend/edit_map.php:210 backend/markers.php:143
+#: backend/markers.php:321
+msgid "Room Target"
+msgstr "房間目標"
+
+#: backend/pois.php:1061 backend/virtual_tours.php:224 backend/rooms.php:284
+msgid "Yes, Duplicate"
+msgstr "是，重複"
+
+#: backend/pois.php:1072 backend/edit_virtual_tour_ui.php:1934
+#: backend/edit_virtual_tour_ui.php:1955 backend/markers.php:363
+msgid "Library Icons"
+msgstr "庫圖示"
+
+#: backend/pois.php:1151 backend/edit_virtual_tour_ui.php:1885
+msgid "POIs Settings"
+msgstr "POIS 設置"
+
+#: backend/pois.php:1154 backend/edit_virtual_tour_ui.php:1888
+msgid ""
+"Are you sure you want to apply these settings to all existing POIs by "
+"overwriting them?"
+msgstr "是否確實要透過覆蓋這些設定來將這些設定應用於所有現有 POIS？"
+
+#: backend/pois.php:1189 backend/edit_virtual_tour_ui.php:1874
+#: backend/edit_virtual_tour_ui.php:1923 backend/markers.php:438
+#: backend/edit_room.php:916
+msgid "Yes, Apply"
+msgstr "是，申請"
+
+#: backend/pois.php:1294 backend/edit_virtual_tour_ui.php:2173
+#: backend/markers.php:501
+msgid "Search Icon"
+msgstr "搜尋圖標"
+
+#: backend/pois.php:1295 backend/edit_virtual_tour_ui.php:2174
+#: backend/markers.php:502
+msgid "Show All"
+msgstr "顯示所有"
+
+#: backend/pois.php:1297 backend/edit_virtual_tour_ui.php:2176
+#: backend/markers.php:504
+msgid "No results found."
+msgstr "沒有符合條件的結果。"
+
+#: backend/rooms_bulk.php:58 backend/index.php:270 backend/rooms.php:65
+msgid "ROOMS"
+msgstr "房間"
+
+#: backend/rooms_bulk.php:74 backend/rooms.php:72
+msgid "You cannot create Rooms on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建房間！"
+
+#: backend/rooms_bulk.php:83
+msgid "Bulk room's create"
+msgstr "大空間的創建"
+
+#: backend/rooms_bulk.php:86
+msgid ""
+"Uploading multiple 360-degree panorama JPG/PNG images will automatically "
+"create all the rooms."
+msgstr "上傳多個 360 度全景 JPG/PNG 圖像將自動創建所有房間。"
+
+#: backend/rooms_bulk.php:86 backend/rooms.php:178 backend/rooms.php:216
+msgid "Max allowed upload file size: "
+msgstr "允許的最大上傳檔案大小："
+
+#: backend/rooms_bulk.php:96
+#, php-format
+msgid "You have %s remaining uploads!"
+msgstr "您%s上傳！"
+
+#: backend/rooms_bulk.php:122
+msgid "Creating Rooms"
+msgstr "創建房間"
+
+#: backend/rooms_bulk.php:122 backend/maps_bulk.php:102
+msgid "Do not close this window!"
+msgstr "不要關閉此視窗！"
+
+#: backend/leads.php:50
+msgid "LEADS"
+msgstr "導致"
+
+#: backend/leads.php:66
+msgid "You cannot manage Leads on an external virtual tour!"
+msgstr "您無法管理外部虛擬旅遊的線索！"
+
+#: backend/leads.php:74
+#, php-format
+msgid "Your \"%s\" plan not allow to manage Leads!"
+msgstr "您的「%s」計劃不允許管理線索！"
+
+#: backend/leads.php:103 backend/forms_data.php:112 backend/users.php:69
+msgid "export"
+msgstr "匯出"
+
+#: backend/leads.php:105 backend/forms_data.php:114 backend/statistics.php:214
+msgid "reset"
+msgstr "重設"
+
+#: backend/leads.php:114
+msgid "Reset Leads"
+msgstr "重置引線"
+
+#: backend/leads.php:117
+msgid "Are you sure you want to reset all leads for this virtual tour?"
+msgstr "您是否確定要重置此虛擬旅遊的所有線索？"
+
+#: backend/leads.php:120 backend/forms_data.php:129 backend/statistics.php:229
+msgid "Yes, Reset"
+msgstr "是的，重置"
+
+#: backend/presentation.php:56
+msgid "PRESENTATION"
+msgstr "表示"
+
+#: backend/presentation.php:72
+msgid "You cannot create Presentations on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建演示文稿！"
+
+#: backend/presentation.php:80
+#, php-format
+msgid "Your \"%s\" plan not allow to create Presentations!"
+msgstr "您的「%s」計劃不允許創建演示文稿！"
+
+#: backend/presentation.php:93 backend/presentation.php:191
+msgid "Manual Presentation"
+msgstr "手動演示"
+
+#: backend/presentation.php:94 backend/presentation.php:171
+msgid "Automatic Presentation"
+msgstr "自動演示"
+
+#: backend/presentation.php:95 backend/presentation.php:119
+msgid "Video Presentation"
+msgstr "視頻演示"
+
+#: backend/presentation.php:119
+msgid "a recorded video is used as a presentation"
+msgstr "錄製的視頻用作演示文稿"
+
+#: backend/presentation.php:124
+msgid "Youtube/Vimeo Link or upload Video MP4 / Webm"
+msgstr "Youtube/Vimeo 鏈接或上傳視頻 MP4 / Webm"
+
+#: backend/presentation.php:156
+msgid "Screencast"
+msgstr "截屏"
+
+#: backend/presentation.php:157
+msgid "1. Open tour in a new window"
+msgstr "1.在新窗口中打開遊覽"
+
+#: backend/presentation.php:158
+msgid "2. Click the button Open screencast app"
+msgstr "2.單擊按鈕打開截屏應用程序"
+
+#: backend/presentation.php:159
+msgid "3. Record your screen by selecting the open window"
+msgstr "3. 通過選擇打開的窗口記錄您的屏幕"
+
+#: backend/presentation.php:160
+msgid "4. Upload the recorded video"
+msgstr "4.上傳錄製的視頻"
+
+#: backend/presentation.php:171
+msgid ""
+"automatic presentation consists of looking around the room by rotating and "
+"moving on to the next one"
+msgstr "自動演示包括旋轉和移動到下一個房間環顧房間"
+
+#: backend/presentation.php:177
+msgid "Rotate speed"
+msgstr "旋轉速度"
+
+#: backend/presentation.php:177
+msgid "-1 to -10 speed clockwise, 1 to 10 speed counterclockwise"
+msgstr "-1 至 -10 速度順時針，逆時針 1 至 10 速"
+
+#: backend/presentation.php:191
+msgid ""
+"the manual presentation consists in defining the order, changing the views "
+"of the rooms and add possible narrative text"
+msgstr "手動示範包括定義順序， 更改房間檢視和添加可能的敘述文本"
+
+#: backend/presentation.php:197
+msgid "LOADING PRESENTATION ..."
+msgstr "載入簡報..."
+
+#: backend/presentation.php:218 backend/forms_data.php:87
+#: backend/dollhouse.php:452
+msgid "Room"
+msgstr "房間"
+
+#: backend/presentation.php:224
+msgid "Wait after change room (ms)"
+msgstr "換房後等待 （ms）"
+
+#: backend/presentation.php:231 backend/presentation.php:280
+msgid "Remove"
+msgstr "移除"
+
+#: backend/presentation.php:246
+msgid "Action"
+msgstr "動作"
+
+#: backend/presentation.php:248
+msgid "Select an action"
+msgstr "請選擇一種操作方式"
+
+#: backend/presentation.php:249
+msgid "Change the view"
+msgstr "更改檢視"
+
+#: backend/presentation.php:250
+msgid "Narrate a text"
+msgstr "講述文本"
+
+#: backend/presentation.php:256
+msgid "Narrate text (Carriage Return to split text into sentences)"
+msgstr "旁白文字（將文字拆分為句子的回車返回）"
+
+#: backend/presentation.php:260
+msgid "Wait time after narration (ms)"
+msgstr "旁白後等待時間 （ms）"
+
+#: backend/presentation.php:265
+msgid "Frame the desired view"
+msgstr "框架所需的檢視"
+
+#: backend/presentation.php:269
+msgid "Animation duration (ms)"
+msgstr "動畫持續時間（女士）"
+
+#: backend/presentation.php:273
+msgid "Wait time after animation (ms)"
+msgstr "動畫 （ms） 后等待時間"
+
+#: backend/presentation.php:292 backend/dollhouse.php:87
+msgid "Remove Room"
+msgstr "拆卸房間"
+
+#: backend/presentation.php:295
+msgid ""
+"Are you sure you want to remove room and all its actions from presentation?"
+msgstr "是否確實要從演示文稿中刪除房間及其所有操作？"
+
+#: backend/presentation.php:298 backend/presentation.php:315
+msgid "Yes, Remove"
+msgstr "是，刪除"
+
+#: backend/presentation.php:309
+msgid "Remove Action"
+msgstr "刪除操作"
+
+#: backend/presentation.php:312
+msgid "Are you sure you want to remove action from room's presentation?"
+msgstr "是否確實要從會議室的演示文稿中刪除操作？"
+
+#: backend/forms_data.php:50
+msgid "FORMS"
+msgstr "形式"
+
+#: backend/forms_data.php:66
+msgid "You cannot manage Forms on an external virtual tour!"
+msgstr "您無法管理外部虛擬旅遊的表單！"
+
+#: backend/forms_data.php:74
+#, php-format
+msgid "Your \"%s\" plan not allow to manage Forms!"
+msgstr "您的「%s」計劃不允許管理表單！"
+
+#: backend/forms_data.php:89 backend/forms_data.php:90
+#: backend/forms_data.php:91 backend/forms_data.php:92
+#: backend/forms_data.php:93 backend/forms_data.php:94
+#: backend/forms_data.php:95 backend/forms_data.php:96
+#: backend/forms_data.php:97 backend/forms_data.php:98
+#: backend/settings.php:1047
+msgid "Field"
+msgstr "欄位"
+
+#: backend/forms_data.php:123
+msgid "Reset Forms Data"
+msgstr "重置表單數據"
+
+#: backend/forms_data.php:126
+msgid "Are you sure you want to reset all forms data for this virtual tour?"
+msgstr "您是否確定要重置此虛擬旅遊的所有表單數據？"
+
+#: backend/index.php:262
+msgid "ADD ACTION"
+msgstr "添加操作"
+
+#: backend/index.php:263
+msgid "ADD ROOM"
+msgstr "添加房間"
+
+#: backend/index.php:265 backend/plans.php:762 backend/poi_gallery.php:50
+#: backend/gallery.php:115 backend/edit_room.php:384 backend/edit_room.php:841
+msgid "Save"
+msgstr "儲存"
+
+#: backend/index.php:266
+msgid "Search Virtual Tour ..."
+msgstr "搜尋虛擬旅遊..."
+
+#: backend/index.php:268 backend/edit_virtual_tour_ui.php:468
+msgid "EDITOR UI"
+msgstr "編輯器用戶界面"
+
+#: backend/index.php:269
+msgid "3D VIEW"
+msgstr "3D視圖"
+
+#: backend/index.php:271 backend/maps.php:67 backend/maps_bulk.php:46
+msgid "MAPS"
+msgstr "地圖"
+
+#: backend/index.php:272 backend/gallery.php:50
+msgid "GALLERY"
+msgstr "圖庫"
+
+#: backend/index.php:273 backend/info.php:51
+msgid "INFO BOX"
+msgstr "資訊框"
+
+#: backend/index.php:275 backend/publish.php:65
+msgid "PUBLISH"
+msgstr "發表"
+
+#: backend/index.php:277
+msgid "Search Map ..."
+msgstr "搜尋地圖..."
+
+#: backend/index.php:278
+msgid "Rooms assigned"
+msgstr "分配的房間"
+
+#: backend/index.php:280
+msgid "markers"
+msgstr "標記"
+
+#: backend/index.php:281
+msgid "pois"
+msgstr "波伊斯"
+
+#: backend/index.php:282
+msgid "Content - Link or upload Image"
+msgstr "內容 - 連結或上傳圖像"
+
+#: backend/index.php:283
+msgid "Content - Panorama Image"
+msgstr "內容 - 全景圖像"
+
+#: backend/index.php:284
+msgid "Content - Link or upload Json"
+msgstr "內容 - 鏈接或上傳 Json"
+
+#: backend/index.php:285
+msgid "Embedded - Link or upload Image"
+msgstr "嵌入式 - 連結或上傳圖像"
+
+#: backend/index.php:286
+msgid "Content - Youtube/Vimeo Link or upload Video MP4"
+msgstr "內容 - Youtube/Vimeo 連結或上傳視頻 MP4"
+
+#: backend/index.php:287
+msgid "Embedded - Youtube Link or upload Video MP4"
+msgstr "嵌入式 - Youtube 連結或上傳視頻 MP4"
+
+#: backend/index.php:288
+msgid "Embedded - upload Video WEBM + MOV"
+msgstr "嵌入式 - 上傳視頻 WEBM + MOV"
+
+#: backend/index.php:289
+msgid "Embedded - upload Video MP4 with Chroma background"
+msgstr "嵌入式 - 上傳具有色度背景的視頻 MP4"
+
+#: backend/index.php:290
+msgid "Content - Audio MP3 Link or upload Audio MP3"
+msgstr "內容 - 音訊 MP3 連結或上傳音訊 MP3"
+
+#: backend/index.php:291
+msgid "Content - Video 360 MP4"
+msgstr "內容 - 視頻 360 MP4"
+
+#: backend/index.php:292
+msgid "Content - Link (embed)"
+msgstr "內容 - 連結 （嵌入）"
+
+#: backend/index.php:293
+msgid "Content - Text (embed)"
+msgstr "內容 - 文字（嵌入）"
+
+#: backend/index.php:294 backend/index.php:295
+msgid "Content - Link (external)"
+msgstr "內容 - 連結（外部）"
+
+#: backend/index.php:296
+msgid "Content - Object 3D"
+msgstr "內容 - 物件 3D"
+
+#: backend/index.php:297
+msgid "Please select an icon from library"
+msgstr "請從庫中選擇一個圖示"
+
+#: backend/index.php:298
+msgid "Search Room ..."
+msgstr "搜尋室..."
+
+#: backend/index.php:299
+msgid "DRAG TO CHANGE POSITION"
+msgstr "拖動以更改位置"
+
+#: backend/index.php:300 backend/rooms.php:170
+msgid "Panorama image"
+msgstr "全景圖像"
+
+#: backend/index.php:301 backend/rooms.php:177
+msgid "Accepted only images in JPG/PNG format."
+msgstr "僅接受 JPG/PNG 格式的圖像。"
+
+#: backend/index.php:302
+msgid "Panorama video"
+msgstr "全景視頻"
+
+#: backend/index.php:303
+msgid "Accepted only 360 degree videos in MP4 format."
+msgstr "僅接受 MP4 格式的 360 度影片。"
+
+#: backend/index.php:304 backend/index.php:306
+msgid "Initial Image"
+msgstr "初始圖像"
+
+#: backend/index.php:305
+msgid "The initial image must be the same size as the video stream."
+msgstr "初始圖像必須與視頻流大小相同。"
+
+#: backend/index.php:307
+msgid "The initial image must be the same size as the lottie file."
+msgstr "初始圖像必須與 lottie 文件大小相同。"
+
+#: backend/index.php:308 backend/settings.php:786
+msgid "Valid"
+msgstr "有效"
+
+#: backend/index.php:309 backend/settings.php:788
+msgid "Invalid"
+msgstr "無效"
+
+#: backend/index.php:310
+msgid "No images in this gallery."
+msgstr "此圖庫中沒有圖像。"
+
+#: backend/index.php:311
+msgid "No files in this media library."
+msgstr "此媒體庫中沒有檔。"
+
+#: backend/index.php:312
+msgid "No files in this icon library."
+msgstr "此圖示庫中沒有檔。"
+
+#: backend/index.php:316
+msgid "Link (emded)"
+msgstr "連結（含）"
+
+#: backend/index.php:330
+msgid "Embed (image)"
+msgstr "嵌入（影像）"
+
+#: backend/index.php:331
+msgid "Embed (slideshow)"
+msgstr "嵌入（投影片）"
+
+#: backend/index.php:332
+msgid "Embed (video)"
+msgstr "嵌入（視頻）"
+
+#: backend/index.php:333
+msgid "Embed (video with transparency)"
+msgstr "嵌入（具有透明度的視頻）"
+
+#: backend/index.php:334
+msgid "Embed (video with background removal)"
+msgstr "嵌入（去除背景的視頻）"
+
+#: backend/index.php:335
+msgid "Embed (link)"
+msgstr "嵌入（連結）"
+
+#: backend/index.php:336
+msgid "Embed (text)"
+msgstr "嵌入（文字）"
+
+#: backend/index.php:341
+msgid "Are you sure you want to delete?"
+msgstr "你確定要刪除 %s 嗎？"
+
+#: backend/index.php:342
+msgid "File size is too big."
+msgstr "檔大小太大。"
+
+#: backend/index.php:345
+msgid "Are you sure? the contents of this element will be lost!"
+msgstr "是否確定？此元素的內容將丟失！"
+
+#: backend/index.php:347
+msgid "Border Color"
+msgstr "邊框顏色"
+
+#: backend/index.php:348
+msgid "Rooms List"
+msgstr "客房清單"
+
+#: backend/index.php:349
+msgid "Creating a New Tour"
+msgstr "創建新遊覽"
+
+#: backend/index.php:350
+msgid "Creating the first Room"
+msgstr "創建第一個房間"
+
+#: backend/index.php:351
+msgid "Creating the second Room"
+msgstr "創建第二個房間"
+
+#: backend/index.php:352
+msgid "Creating a Marker"
+msgstr "創建標記"
+
+#: backend/index.php:353
+msgid "Preview the tour"
+msgstr "預覽遊覽"
+
+#: backend/index.php:354
+msgid "Click on the menu item <b>Virtual Tours</b>"
+msgstr "單擊菜單項<b>Virtual Tours</b>"
+
+#: backend/index.php:355
+msgid "Click on the menu item <b>List Tours</b>"
+msgstr "單擊菜單項<b>List Tours</b>"
+
+#: backend/index.php:356
+msgid "This is the section to create a tour"
+msgstr "這是創建遊覽的部分"
+
+#: backend/index.php:357
+msgid "Enter the <b>name</b> of the tour"
+msgstr "輸入行程<b>名稱</b>"
+
+#: backend/index.php:358 backend/index.php:363
+msgid "Click on button <b>Create</b>"
+msgstr "點擊按鈕<b>創建</b>"
+
+#: backend/index.php:359
+msgid "Click on the menu item <b>Rooms</b>"
+msgstr "單擊菜單項<b>房間</b>"
+
+#: backend/index.php:360
+msgid "Click on the <b>plus</b> icon"
+msgstr "單擊<b>加號</b>圖標"
+
+#: backend/index.php:361
+msgid "Enter the <b>name</b> of the room"
+msgstr "輸入房間<b>名稱</b>"
+
+#: backend/index.php:362
+msgid ""
+"Upload a 360 panorama image for this Room by selecting from the <b>Browse</"
+"b> button and then click <b>Upload</b>"
+msgstr ""
+"<b>通過從“瀏覽”</b>按鈕中進行選擇，然後單擊“<b>上傳”</b> ，為該房間上傳 360 "
+"度全景圖像"
+
+#: backend/index.php:364
+msgid ""
+"Congratulations, your first room has been created, now create the second one"
+msgstr "恭喜，您的第一個房間已創建，現在創建第二個房間"
+
+#: backend/index.php:365
+msgid ""
+"Congratulations, your second room has been created, now let's look at how to "
+"create a marker to navigate from one to the other"
+msgstr ""
+"恭喜，您的第二個房間已經創建，現在讓我們看看如何創建一個標記來從一個導航到另"
+"一個"
+
+#: backend/index.php:366
+msgid "Click on the menu item <b>Markers</b>"
+msgstr "單擊菜單項<b>標記</b>"
+
+#: backend/index.php:367
+msgid "Select the first room"
+msgstr "選擇第一個房間"
+
+#: backend/index.php:368
+msgid ""
+"Drag the view and center the white cursor at the position where you want to "
+"add the marker"
+msgstr "拖動視圖並將白色光標置於要添加標記的位置的中心"
+
+#: backend/index.php:369
+msgid "Here you can select the destination room linked to this marker"
+msgstr "在這裡您可以選擇鏈接到此標記的目標房間"
+
+#: backend/index.php:370
+msgid "Click the button <b>Add</b> to create the marker"
+msgstr "單擊“<b>添加</b>”按鈕以創建標記"
+
+#: backend/index.php:371
+msgid "Congratulations, your marker has been created"
+msgstr "恭喜，您的標記已創建"
+
+#: backend/index.php:372
+msgid ""
+"And finally let's preview the tour you just created. Click on the menu item "
+"<b>Preview</b>"
+msgstr "最後讓我們預覽一下您剛剛創建的遊覽。單擊菜單項<b>預覽</b>"
+
+#: backend/index.php:374
+msgid "Are you sure you want to exit the tour creation wizard?"
+msgstr "您確定要退出遊覽創建嚮導嗎？"
+
+#: backend/index.php:375
+msgid "Are you sure you want to update the preset?"
+msgstr "您確定要更新預設嗎？"
+
+#: backend/index.php:376
+msgid "Are you sure you want to delete the preset?"
+msgstr "您確定要刪除預設嗎？"
+
+#: backend/index.php:377
+msgid "Are you sure you want to apply the preset?"
+msgstr "您確定要應用預設嗎？"
+
+#: backend/index.php:382
+msgid "UPDATE IN PROGRESS"
+msgstr "正在更新"
+
+#: backend/index.php:386
+msgid "Not close this window"
+msgstr "不關閉此視窗"
+
+#: backend/music_library.php:54
+msgid "MUSIC LIBRARY"
+msgstr "音樂庫"
+
+#: backend/music_library.php:70
+msgid "You cannot use Music Library on an external virtual tour!"
+msgstr "你不能在外部虛擬旅遊中使用音樂庫！"
+
+#: backend/edit_virtual_tour_ui.php:66 backend/edit_virtual_tour_ui.php:79
+#: backend/edit_virtual_tour_ui.php:92 backend/edit_virtual_tour_ui.php:551
+msgid "Room name"
+msgstr "房間名稱"
+
+#: backend/edit_virtual_tour_ui.php:441 backend/edit_virtual_tour_ui.php:504
+msgid "Main Form"
+msgstr "主窗體"
+
+#: backend/edit_virtual_tour_ui.php:484
+msgid "You cannot edit UI on an external virtual tour!"
+msgstr "您無法在外部虛擬導覽中編輯 UI！"
+
+#: backend/edit_virtual_tour_ui.php:505
+msgid "Default Markers Style"
+msgstr "默認標記樣式"
+
+#: backend/edit_virtual_tour_ui.php:506
+msgid "Default POIs Style"
+msgstr "默認興趣點樣式"
+
+#: backend/edit_virtual_tour_ui.php:507 backend/edit_virtual_tour_ui.php:1979
+#: backend/edit_room.php:423
+msgid "Presets"
+msgstr "預設"
+
+#: backend/edit_virtual_tour_ui.php:558 backend/edit_room.php:627
+msgid "Annotation Title"
+msgstr "註釋標題"
+
+#: backend/edit_virtual_tour_ui.php:560 backend/edit_room.php:633
+msgid "Annotation Description"
+msgstr "註釋說明"
+
+#: backend/edit_virtual_tour_ui.php:661
+msgid "Show Tour Title"
+msgstr "顯示旅遊名稱"
+
+#: backend/edit_virtual_tour_ui.php:679
+msgid "Show Audio"
+msgstr "顯示音訊"
+
+#: backend/edit_virtual_tour_ui.php:697
+msgid "Show Fullscreen"
+msgstr "顯示全屏"
+
+#: backend/edit_virtual_tour_ui.php:715
+msgid "Show Floorplan"
+msgstr "顯示平面圖"
+
+#: backend/edit_virtual_tour_ui.php:717 backend/edit_virtual_tour_ui.php:750
+#: backend/edit_virtual_tour_ui.php:773 backend/edit_virtual_tour_ui.php:940
+#: backend/edit_virtual_tour_ui.php:974 backend/edit_virtual_tour_ui.php:1004
+#: backend/edit_virtual_tour_ui.php:1034 backend/edit_virtual_tour_ui.php:1162
+#: backend/edit_virtual_tour_ui.php:1184 backend/edit_virtual_tour_ui.php:1273
+#: backend/edit_virtual_tour_ui.php:1325 backend/edit_virtual_tour_ui.php:1353
+msgid "Hidden"
+msgstr "隱藏"
+
+#: backend/edit_virtual_tour_ui.php:718
+msgid "Visible, minimized on Mobile"
+msgstr "可見，在行動裝置上最小化"
+
+#: backend/edit_virtual_tour_ui.php:719
+msgid "Visible, minimized on Desktop and Mobile"
+msgstr "可見，在桌面和行動裝置上最小化"
+
+#: backend/edit_virtual_tour_ui.php:720 backend/edit_virtual_tour_ui.php:752
+#: backend/edit_virtual_tour_ui.php:775 backend/edit_virtual_tour_ui.php:942
+#: backend/edit_virtual_tour_ui.php:976 backend/edit_virtual_tour_ui.php:1006
+#: backend/edit_virtual_tour_ui.php:1036 backend/edit_virtual_tour_ui.php:1186
+msgid "Visible, opened"
+msgstr "可見，打開"
+
+#: backend/edit_virtual_tour_ui.php:721
+msgid "Visible, no minimap"
+msgstr "可見，無迷你圖"
+
+#: backend/edit_virtual_tour_ui.php:727 backend/edit_virtual_tour_ui.php:862
+#: backend/edit_virtual_tour_ui.php:893 backend/edit_map.php:216
+#: backend/dollhouse.php:456 backend/dollhouse.php:457
+msgid "Position"
+msgstr "位置"
+
+#: backend/edit_virtual_tour_ui.php:729 backend/edit_virtual_tour_ui.php:864
+#: backend/edit_virtual_tour_ui.php:895
+msgid "Top Left"
+msgstr "左上"
+
+#: backend/edit_virtual_tour_ui.php:730 backend/edit_virtual_tour_ui.php:865
+#: backend/edit_virtual_tour_ui.php:896
+msgid "Top Right"
+msgstr "右上"
+
+#: backend/edit_virtual_tour_ui.php:748
+msgid "Show Map"
+msgstr "顯示地圖"
+
+#: backend/edit_virtual_tour_ui.php:751 backend/edit_virtual_tour_ui.php:774
+#: backend/edit_virtual_tour_ui.php:941 backend/edit_virtual_tour_ui.php:975
+#: backend/edit_virtual_tour_ui.php:1005 backend/edit_virtual_tour_ui.php:1035
+#: backend/edit_virtual_tour_ui.php:1185
+msgid "Visible, minimized"
+msgstr "可見，最小化"
+
+#: backend/edit_virtual_tour_ui.php:770
+msgid "Show Rooms List Menu"
+msgstr "顯示房間列表菜單"
+
+#: backend/edit_virtual_tour_ui.php:785 backend/edit_virtual_tour_ui.php:827
+#: backend/edit_virtual_tour_ui.php:1210
+msgid "Autoclose"
+msgstr "自動關閉"
+
+#: backend/edit_virtual_tour_ui.php:785
+msgid ""
+"automatically closes the rooms list menu when you click on any item in it"
+msgstr "當您單擊其中的任何項目時，會自動關閉房間列表菜單"
+
+#: backend/edit_virtual_tour_ui.php:827
+msgid "automatically closes the menu when you click on any item in it"
+msgstr "點擊選單中的任何專案時，自動關閉功能表"
+
+#: backend/edit_virtual_tour_ui.php:837
+msgid "Show Annotations"
+msgstr "顯示註釋"
+
+#: backend/edit_virtual_tour_ui.php:881
+msgid "Show Logo"
+msgstr "顯示Logo"
+
+#: backend/edit_virtual_tour_ui.php:887 backend/dollhouse.php:455
+msgid "Height"
+msgstr "高"
+
+#: backend/edit_virtual_tour_ui.php:906
+msgid "Show Nav Control"
+msgstr "顯示導航控制"
+
+#: backend/edit_virtual_tour_ui.php:925 backend/change_plan.php:198
+msgid "Voice Commands"
+msgstr "語音命令"
+
+#: backend/edit_virtual_tour_ui.php:928
+msgid "Enabled, paused"
+msgstr "已啟用，已暫停"
+
+#: backend/edit_virtual_tour_ui.php:929
+msgid "Enabled, autostart"
+msgstr "已啟用，自動啟動"
+
+#: backend/edit_virtual_tour_ui.php:937
+msgid "Show Custom"
+msgstr "顯示自定義"
+
+#: backend/edit_virtual_tour_ui.php:972
+msgid "Show Info"
+msgstr "顯示信息"
+
+#: backend/edit_virtual_tour_ui.php:1002
+msgid "Show 3D View"
+msgstr "顯示 3D 視圖"
+
+#: backend/edit_virtual_tour_ui.php:1032
+msgid "Show Gallery"
+msgstr "顯示圖庫"
+
+#: backend/edit_virtual_tour_ui.php:1062
+msgid "Show Compass"
+msgstr "顯示指南針"
+
+#: backend/edit_virtual_tour_ui.php:1083
+msgid "Show Whatsapp"
+msgstr "顯示 Whatsapp"
+
+#: backend/edit_virtual_tour_ui.php:1109
+msgid "Show Facebook Messenger"
+msgstr "顯示 Facebook Messenger"
+
+#: backend/edit_virtual_tour_ui.php:1135
+msgid "Arrows Prev/Next"
+msgstr "箭頭上/下一個"
+
+#: backend/edit_virtual_tour_ui.php:1138
+msgid "Enabled, Mobile and Desktop"
+msgstr "已啟用、移動和桌面"
+
+#: backend/edit_virtual_tour_ui.php:1139
+msgid "Enabled, only Desktop"
+msgstr "已啟用，僅桌面"
+
+#: backend/edit_virtual_tour_ui.php:1160
+msgid "Arrows Room's List Slider"
+msgstr "箭頭室清單滑塊"
+
+#: backend/edit_virtual_tour_ui.php:1163
+msgid "Visible, Go to Room"
+msgstr "可見，轉到房間"
+
+#: backend/edit_virtual_tour_ui.php:1164
+msgid "Visible, Scroll"
+msgstr "可見，滾動"
+
+#: backend/edit_virtual_tour_ui.php:1182
+msgid "Show Room's List Slider"
+msgstr "顯示房間的清單滑塊"
+
+#: backend/edit_virtual_tour_ui.php:1210
+msgid ""
+"automatically closes the room's list slider when you click on any item in it"
+msgstr "按兩下其中的任何專案時，自動關閉房間的清單滑塊"
+
+#: backend/edit_virtual_tour_ui.php:1220
+msgid "Show Icons toggle"
+msgstr "顯示圖示切換"
+
+#: backend/edit_virtual_tour_ui.php:1246
+msgid "Show Auto Rotation toggle"
+msgstr "顯示自動旋轉切換"
+
+#: backend/edit_virtual_tour_ui.php:1271
+msgid "Show Device Orientation"
+msgstr "顯示設備方向"
+
+#: backend/edit_virtual_tour_ui.php:1274
+msgid "Visible, disabled"
+msgstr "可見，禁用"
+
+#: backend/edit_virtual_tour_ui.php:1275
+msgid "Visible, enabled"
+msgstr "可見、啟用"
+
+#: backend/edit_virtual_tour_ui.php:1299
+msgid "Show Web VR"
+msgstr "顯示網路 VR"
+
+#: backend/edit_virtual_tour_ui.php:1326 backend/plans.php:39
+#: backend/plans.php:63 backend/plans.php:421
+msgid "Visible"
+msgstr "可見"
+
+#: backend/edit_virtual_tour_ui.php:1327
+msgid "Visible, autostart"
+msgstr "可見，自動啟動"
+
+#: backend/edit_virtual_tour_ui.php:1351
+msgid "Show Share"
+msgstr "顯示共用"
+
+#: backend/edit_virtual_tour_ui.php:1354
+msgid "Visible, share tour"
+msgstr "可見，分享遊記"
+
+#: backend/edit_virtual_tour_ui.php:1355
+msgid "Visible, share current position"
+msgstr "可見，分享當前位置"
+
+#: backend/edit_virtual_tour_ui.php:1379
+msgid "Show Main Form"
+msgstr "顯示主窗體"
+
+#: backend/edit_virtual_tour_ui.php:1403
+msgid "Show Meeting"
+msgstr "顯示會議"
+
+#: backend/edit_virtual_tour_ui.php:1407
+msgid "Enabled, opened"
+msgstr "啟用、打開"
+
+#: backend/edit_virtual_tour_ui.php:1431
+msgid "Show Live Session"
+msgstr "顯示實時會話"
+
+#: backend/edit_virtual_tour_ui.php:1578 backend/markers.php:162
+msgid "Icon + Room's Name"
+msgstr "圖示 + 房間名稱"
+
+#: backend/edit_virtual_tour_ui.php:1579 backend/markers.php:163
+msgid "Room's Name + Icon"
+msgstr "房間名稱 + 圖示"
+
+#: backend/edit_virtual_tour_ui.php:1581 backend/markers.php:165
+msgid "Only Room's Name"
+msgstr "僅房間名稱"
+
+#: backend/edit_virtual_tour_ui.php:1583 backend/markers.php:167
+msgid "Preview Room"
+msgstr "預覽室"
+
+#: backend/edit_virtual_tour_ui.php:1592 backend/markers.php:242
+msgid "Target Room's Name"
+msgstr "目標房間名稱"
+
+#: backend/edit_virtual_tour_ui.php:1593 backend/markers.php:243
+msgid "Target Room's Preview (Rounded)"
+msgstr "目標房間的預覽（四捨五入）"
+
+#: backend/edit_virtual_tour_ui.php:1594 backend/markers.php:244
+msgid "Target Room's Preview (Squared)"
+msgstr "目標房間的預覽（方形）"
+
+#: backend/edit_virtual_tour_ui.php:1595 backend/markers.php:245
+msgid "Target Room's Preview (Rectangular)"
+msgstr "目標房間的預覽（矩形）"
+
+#: backend/edit_virtual_tour_ui.php:1647 backend/edit_virtual_tour_ui.php:1654
+#: backend/edit_virtual_tour_ui.php:1669
+msgid "ROOM NAME"
+msgstr "如果徽標存在，它將顯示而不是房間名稱"
+
+#: backend/edit_virtual_tour_ui.php:1699 backend/edit_virtual_tour_ui.php:1825
+msgid "Apply to all"
+msgstr "套用到全部"
+
+#: backend/edit_virtual_tour_ui.php:1780 backend/edit_virtual_tour_ui.php:1787
+#: backend/edit_virtual_tour_ui.php:1802
+msgid "POI LABEL"
+msgstr "興趣點標籤"
+
+#: backend/edit_virtual_tour_ui.php:1836 backend/markers.php:400
+msgid "Markers Settings"
+msgstr "標記設置"
+
+#: backend/edit_virtual_tour_ui.php:1839 backend/markers.php:403
+msgid ""
+"Are you sure you want to apply these settings to all existing markers by "
+"overwriting them?"
+msgstr "是否確實要通過覆蓋這些設置來將這些設置應用於所有現有標記？"
+
+#: backend/edit_virtual_tour_ui.php:1981
+#: backend/ajax/get_editor_ui_presets.php:25 backend/edit_room.php:426
+msgid "Add new preset"
+msgstr "添加新的預設"
+
+#: backend/edit_virtual_tour_ui.php:2011
+msgid "Public"
+msgstr "公開"
+
+#: backend/edit_virtual_tour_ui.php:2016
+msgid "ADD / UPDATE"
+msgstr "添加/更新"
+
+#: backend/edit_virtual_tour_ui.php:2022
+msgid "APPLY PRESET"
+msgstr "應用預設"
+
+#: backend/edit_virtual_tour_ui.php:2947 backend/edit_virtual_tour_ui.php:2958
+#: backend/edit_virtual_tour_ui.php:2968
+msgid "Icon Position"
+msgstr "圖示位置"
+
+#: backend/edit_virtual_tour_ui.php:2949 backend/edit_virtual_tour_ui.php:2960
+#: backend/edit_virtual_tour_ui.php:2970
+msgid "Icon Button - Left"
+msgstr "圖標按鈕 - 左"
+
+#: backend/edit_virtual_tour_ui.php:2950 backend/edit_virtual_tour_ui.php:2961
+#: backend/edit_virtual_tour_ui.php:2971
+msgid "Icon Button - Center"
+msgstr "圖標按鈕 - 中心"
+
+#: backend/edit_virtual_tour_ui.php:2951 backend/edit_virtual_tour_ui.php:2962
+#: backend/edit_virtual_tour_ui.php:2972
+msgid "Icon Button - Right"
+msgstr "圖標按鈕 - 右"
+
+#: backend/edit_virtual_tour_ui.php:2973
+msgid "Menu Item"
+msgstr "選單項目"
+
+#: backend/edit_virtual_tour_ui.php:2989 backend/edit_virtual_tour_ui.php:2999
+#: backend/edit_virtual_tour_ui.php:3044 backend/edit_virtual_tour_ui.php:3051
+#: backend/edit_virtual_tour_ui.php:3064 backend/edit_virtual_tour_ui.php:3081
+msgid "Main Color"
+msgstr "主要顏色"
+
+#: backend/edit_virtual_tour_ui.php:3025
+msgid "Text Color"
+msgstr "文字顏色"
+
+#: backend/edit_virtual_tour_ui.php:3058
+msgid "Icon Main Color"
+msgstr "圖標主色"
+
+#: backend/edit_virtual_tour_ui.php:3095 backend/edit_virtual_tour_ui.php:3109
+#: backend/edit_virtual_tour_ui.php:3119 backend/edit_virtual_tour_ui.php:3132
+msgid "Hover Color"
+msgstr "懸停顏色"
+
+#: backend/edit_virtual_tour_ui.php:3126
+msgid "Icon Hover Color"
+msgstr "圖示懸停顏色"
+
+#: backend/ajax/upload_announce_video.php:37
+#: backend/ajax/upload_presentation_video.php:37
+#: backend/ajax/upload_room_video.php:39
+#: backend/ajax/upload_content_video.php:47
+msgid "Only mp4 files are supported."
+msgstr "僅支援 mp4 檔。"
+
+#: backend/ajax/upload_announce_video.php:41
+#: backend/ajax/upload_announce_image.php:41
+#: backend/ajax/upload_content_file.php:34
+#: backend/ajax/upload_content_image.php:55
+#: backend/ajax/upload_s_logo_image.php:55
+#: backend/ajax/upload_logo_nadir_image.php:40
+#: backend/ajax/upload_content_audio.php:40
+#: backend/ajax/upload_s_banner_image.php:47
+#: backend/ajax/upload_media_library_file.php:50
+#: backend/ajax/upload_gallery_image.php:50
+#: backend/ajax/upload_map_image.php:56
+#: backend/ajax/upload_presentation_video.php:41
+#: backend/ajax/upload_room_image.php:71
+#: backend/ajax/upload_background_video.php:43
+#: backend/ajax/upload_room_alt_image.php:77
+#: backend/ajax/upload_intro_image.php:55 backend/ajax/upload_content_3d.php:41
+#: backend/ajax/upload_song.php:40
+#: backend/ajax/upload_room_alt_image_poi.php:78
+#: backend/ajax/upload_import_zip.php:42
+#: backend/ajax/upload_music_library_file.php:32
+#: backend/ajax/upload_logo_image.php:55 backend/ajax/upload_room_json.php:43
+#: backend/ajax/upload_icon_image.php:35
+#: backend/ajax/upload_object360_image.php:50
+#: backend/ajax/upload_content_json.php:40
+#: backend/ajax/upload_b_logo_image.php:55
+#: backend/ajax/upload_room_video.php:43
+#: backend/ajax/upload_b_background_image.php:47
+#: backend/ajax/upload_product_image.php:50
+#: backend/ajax/upload_custom_thumb.php:53
+#: backend/ajax/upload_background_image.php:68
+#: backend/ajax/upload_content_video.php:51
+msgid "File not provided."
+msgstr "未提供檔。"
+
+#: backend/ajax/upload_announce_image.php:37
+#: backend/ajax/upload_intro_image.php:51
+msgid "Only jpg,png,gif files are supported."
+msgstr "僅支援 jpg、png、gif 檔。"
+
+#: backend/ajax/get_plans.php:102 backend/change_plan.php:116
+#: payments/stripe_api.php:134
+msgid "month"
+msgstr "月"
+
+#: backend/ajax/get_plans.php:104 backend/change_plan.php:118
+#: payments/stripe_api.php:136
+msgid "year"
+msgstr "年"
+
+#: backend/ajax/get_plans.php:106 backend/change_plan.php:120
+#: payments/stripe_api.php:138
+msgid "months"
+msgstr "月"
+
+#: backend/ajax/get_plans.php:111 backend/change_plan.php:108
+msgid "Free"
+msgstr "免費"
+
+#: backend/ajax/register.php:23 backend/ajax/add_user.php:19
+#: backend/ajax/save_profile.php:29 backend/ajax/save_user.php:47
+msgid "Username already registered!"
+msgstr "使用者名已經註冊！"
+
+#: backend/ajax/register.php:30 backend/ajax/add_user.php:26
+#: backend/ajax/save_profile.php:36 backend/ajax/save_user.php:54
+msgid "E-mail already registered!"
+msgstr "電子郵件已註冊！"
+
+#: backend/ajax/register.php:54 backend/ajax/add_user.php:38
+#: backend/ajax/save_profile.php:75
+msgid "Error"
+msgstr "錯誤"
+
+#: backend/ajax/upload_content_image.php:51
+#: backend/ajax/upload_s_logo_image.php:51
+#: backend/ajax/upload_logo_nadir_image.php:36
+#: backend/ajax/upload_s_banner_image.php:43
+#: backend/ajax/upload_map_image.php:52 backend/ajax/upload_room_image.php:67
+#: backend/ajax/upload_background_video.php:39
+#: backend/ajax/upload_room_alt_image.php:73
+#: backend/ajax/upload_room_alt_image_poi.php:74
+#: backend/ajax/upload_logo_image.php:51
+#: backend/ajax/upload_b_logo_image.php:51
+#: backend/ajax/upload_b_background_image.php:43
+#: backend/ajax/upload_custom_thumb.php:49
+#: backend/ajax/upload_background_image.php:64
+msgid "Only jpg,png files are supported."
+msgstr "僅支援 jpg，png 檔。"
+
+#: backend/ajax/get_advertisements.php:46 backend/edit_advertisement.php:67
+#: backend/edit_advertisement.php:136
+msgid "Mp4 Video"
+msgstr "Mp4 視頻"
+
+#: backend/ajax/change_password_forgot.php:22
+#: backend/ajax/change_password_forgot.php:30
+msgid "Error, retry later"
+msgstr "錯誤，稍後重試"
+
+#: backend/ajax/change_password_forgot.php:26
+msgid "Invalid verification code"
+msgstr "驗證碼無效"
+
+#: backend/ajax/get_users.php:76
+msgid "today"
+msgstr "今天"
+
+#: backend/ajax/get_users.php:78
+msgid "day"
+msgstr "天"
+
+#: backend/ajax/get_users.php:82
+msgid "days"
+msgstr "天"
+
+#: backend/ajax/upload_content_audio.php:36 backend/ajax/upload_song.php:36
+msgid "Only mp3 files are supported."
+msgstr "僅支援 mp3 檔。"
+
+#: backend/ajax/upload_content_3d.php:36
+msgid "Only gltf,glb files are supported."
+msgstr "只支援 gltf，glb 檔。"
+
+#: backend/ajax/get_categories.php:17
+msgid "edit"
+msgstr "編輯"
+
+#: backend/ajax/get_categories.php:17
+msgid "delete"
+msgstr "刪除"
+
+#: backend/ajax/save_paypal_subscription_id.php:23
+#: backend/ajax/save_paypal_subscription_id.php:120
+#: backend/ajax/get_paypal_subscription.php:25
+#: backend/ajax/get_paypal_subscription.php:88
+#: backend/ajax/get_paypal_subscription.php:92 backend/ajax/save_user.php:78
+#: backend/ajax/cancel_paypal_subscription.php:20
+#: backend/ajax/cancel_paypal_subscription.php:107
+msgid "An error has occurred, please try again later"
+msgstr "發生錯誤，請稍後再試"
+
+#: backend/ajax/upload_import_zip.php:38
+msgid "Only zip files are supported."
+msgstr "僅支持 zip 文件。"
+
+#: backend/ajax/upload_room_json.php:39 backend/ajax/upload_content_json.php:36
+msgid "Only json files are supported."
+msgstr "只支援 json 檔。"
+
+#: backend/ajax/duplicate_virtual_tour.php:46
+#: backend/ajax/duplicate_room.php:24
+msgid "duplicated"
+msgstr "已複製"
+
+#: backend/ajax/send_email.php:81
+msgid "New registered user"
+msgstr "新註冊使用者"
+
+#: backend/ajax/send_email.php:93 backend/users.php:49 backend/users.php:83
+#: backend/edit_profile.php:130 backend/edit_user.php:57
+#: backend/settings.php:252
+msgid "Username"
+msgstr "使用者名稱"
+
+#: backend/ajax/send_email.php:93 backend/users.php:52
+#: backend/edit_user.php:133
+msgid "Plan"
+msgstr "方案"
+
+#: backend/ajax/send_email.php:93 backend/edit_user.php:176
+msgid "Expires on"
+msgstr "過期"
+
+#: backend/ajax/upload_background_image.php:56
+msgid "Retry."
+msgstr "重試。"
+
+#: backend/ajax/associate_email.php:14
+msgid "E-mail address already in use!"
+msgstr "電子郵件位址已在使用中！"
+
+#: backend/ajax/associate_email.php:23 backend/ajax/associate_email.php:28
+msgid "Error, retry later!"
+msgstr "錯誤，稍後重試！"
+
+#: backend/users.php:18
+msgid "USERS"
+msgstr "使用者"
+
+#: backend/users.php:25
+msgid "User's Role Permissions"
+msgstr "使用者的角色許可權"
+
+#: backend/users.php:28
+msgid "ADMINISTRATOR"
+msgstr "管理員"
+
+#: backend/users.php:28
+msgid "manage users | manage plans | manage tours of all users"
+msgstr "管理用戶 |管理計劃 |管理所有用戶的遊覽"
+
+#: backend/users.php:29
+msgid "EDITOR"
+msgstr "編輯器"
+
+#: backend/users.php:29
+msgid "they only manage the tours that are associated with them"
+msgstr "他們只管理與他們相關的旅行"
+
+#: backend/users.php:30
+msgid "CUSTOMER"
+msgstr "客戶"
+
+#: backend/users.php:30
+msgid ""
+"they only manage their own tours with restrictions based on the plan "
+"subscribed"
+msgstr "他們只根據訂閱的計劃管理自己的旅行有限制"
+
+#: backend/users.php:38
+msgid "ADD USER"
+msgstr "添加使用者"
+
+#: backend/users.php:51 backend/users.php:95 backend/edit_user.php:103
+msgid "Role"
+msgstr "角色"
+
+#: backend/users.php:53
+msgid "Registration Date"
+msgstr "註冊日期"
+
+#: backend/users.php:54
+msgid "Expires in"
+msgstr "到期"
+
+#: backend/users.php:55 backend/edit_user.php:113 backend/edit_user.php:137
+#: backend/dollhouse.php:508 backend/topbar.php:38 backend/topbar.php:46
+msgid "Active"
+msgstr "啟用"
+
+#: backend/users.php:77
+msgid "New User"
+msgstr "新增用戶"
+
+#: backend/users.php:97 backend/edit_user.php:105
+msgid "Customer"
+msgstr "顧客"
+
+#: backend/users.php:98 backend/edit_user.php:106
+msgid "Administrator"
+msgstr "管理員"
+
+#: backend/users.php:99 backend/edit_user.php:107
+msgid "Editor"
+msgstr "編輯"
+
+#: backend/products.php:51
+msgid "PRODUCTS"
+msgstr "產品"
+
+#: backend/products.php:67
+msgid "You cannot manage products on an external virtual tour!"
+msgstr "您無法在外部虛擬遊覽中管理產品！"
+
+#: backend/products.php:75
+#, php-format
+msgid "Your \"%s\" plan not allow to manage Products!"
+msgstr "您的“%s”計劃不允許管理產品！"
+
+#: backend/products.php:93 backend/products.php:118 backend/plans.php:38
+#: backend/plans.php:81 backend/plans.php:439 backend/edit_product.php:47
+msgid "Price"
+msgstr "價格"
+
+#: backend/products.php:97
+msgid "you can change the currency in the shop tab of the tour settings"
+msgstr "您可以在旅遊設置的商店選項卡中更改貨幣"
+
+#: backend/edit_showcase.php:22
+msgid "EDIT SHOWCASE"
+msgstr "編輯展示"
+
+#: backend/edit_showcase.php:38 backend/edit_advertisement.php:35
+#: backend/edit_product.php:36
+msgid "Details"
+msgstr "詳細資料"
+
+#: backend/edit_showcase.php:50 backend/publish.php:107
+msgid "Friendly URL"
+msgstr "友好 URL"
+
+#: backend/edit_showcase.php:64
+msgid "Custom HTML Header"
+msgstr "自定義HTML標題"
+
+#: backend/edit_showcase.php:70
+msgid "Custom HTML Footer"
+msgstr "自定義HTML腳"
+
+#: backend/edit_showcase.php:82 backend/edit_showcase.php:117
+#: backend/edit_advertisement.php:102 backend/settings.php:512
+#: backend/settings.php:550 backend/settings.php:588 backend/settings.php:626
+msgid "DELETE IMAGE"
+msgstr "刪除圖像"
+
+#: backend/edit_showcase.php:112
+msgid "Banner image"
+msgstr "橫幅圖像"
+
+#: backend/edit_showcase.php:129
+msgid "Upload Banner Image"
+msgstr "上傳橫幅圖片"
+
+#: backend/edit_showcase.php:156 backend/edit_advertisement.php:202
+#: backend/edit_user.php:344
+msgid "Assigned Virtual Tours"
+msgstr "分配的虛擬旅遊"
+
+#: backend/edit_showcase.php:156
+msgid "Viewer"
+msgstr "一般檢視"
+
+#: backend/edit_showcase.php:156 backend/edit_user.php:373
+#: backend/sidebar.php:395 backend/plans.php:389 backend/plans.php:747
+#: backend/change_plan.php:158
+msgid "Landing"
+msgstr "著陸頁"
+
+#: backend/edit_showcase.php:172 backend/publish.php:204
+msgid "Share & Embed"
+msgstr "共用和嵌入"
+
+#: backend/edit_showcase.php:178
+msgid "Showcase Link"
+msgstr "展示連結"
+
+#: backend/edit_showcase.php:196
+msgid "Showcase Friendly Url Link"
+msgstr "展示友好的網址連結"
+
+#: backend/edit_showcase.php:214
+msgid "Showcase Embed Code"
+msgstr "展示嵌入代碼"
+
+#: backend/edit_showcase.php:235
+msgid "Custom Showcase CSS"
+msgstr "自定義展示 CSS"
+
+#: backend/edit_showcase.php:252
+msgid "Delete Showcase"
+msgstr "刪除展示"
+
+#: backend/edit_showcase.php:255
+msgid "Are you sure you want to delete the showcase?"
+msgstr "您是否確定要刪除展示？"
+
+#: backend/edit_showcase.php:270 backend/publish.php:377
+#: backend/edit_room.php:852
+msgid "QR Code"
+msgstr "QR 碼"
+
+#: backend/edit_advertisement.php:19
+msgid "EDIT ADVERTISEMENT"
+msgstr "編輯廣告"
+
+#: backend/edit_advertisement.php:47
+msgid "Call to Action Link"
+msgstr "號召性用語鏈接"
+
+#: backend/edit_advertisement.php:53
+msgid "Skippable after"
+msgstr "可跳過後"
+
+#: backend/edit_advertisement.php:53
+msgid "enter -1 to wait for the video to end"
+msgstr "輸入 -1 等待視頻結束"
+
+#: backend/edit_advertisement.php:74
+msgid "Automatically assigns to new virtual tours"
+msgstr "自動分配給新的虛擬旅遊"
+
+#: backend/edit_advertisement.php:144
+msgid "DELETE VIDEO"
+msgstr "刪除視頻"
+
+#: backend/edit_advertisement.php:187
+msgid "Assigned Plans"
+msgstr "分配計劃"
+
+#: backend/edit_advertisement.php:218
+msgid "Delete Advertisement"
+msgstr "刪除廣告"
+
+#: backend/edit_advertisement.php:221
+msgid "Are you sure you want to delete the advertisement?"
+msgstr "你確定要刪除廣告嗎？"
+
+#: backend/edit_profile.php:17
+msgid "EDIT PROFILE"
+msgstr "編輯設定檔"
+
+#: backend/edit_profile.php:30
+msgid ""
+"Please complete your profile with the required fields (*) before continuing "
+"to use the application."
+msgstr "在繼續使用應用程式之前，請用所需的欄位 （*） 完成您的個人資料。"
+
+#: backend/edit_profile.php:39 backend/edit_user.php:190
+#: backend/settings.php:1041
+msgid "Personal Informations"
+msgstr "個人資訊"
+
+#: backend/edit_profile.php:45 backend/edit_user.php:196
+#: backend/settings.php:1054
+msgid "First Name"
+msgstr "名字"
+
+#: backend/edit_profile.php:51 backend/edit_user.php:202
+#: backend/settings.php:1059
+msgid "Last Name"
+msgstr "姓"
+
+#: backend/edit_profile.php:57 backend/edit_user.php:208
+#: backend/settings.php:1064
+msgid "Company"
+msgstr "公司"
+
+#: backend/edit_profile.php:63 backend/edit_user.php:214
+#: backend/settings.php:1069
+msgid "Tax Id"
+msgstr "稅務ID"
+
+#: backend/edit_profile.php:69 backend/edit_user.php:220
+#: backend/settings.php:1074
+msgid "Address"
+msgstr "地址"
+
+#: backend/edit_profile.php:75 backend/edit_user.php:226
+#: backend/settings.php:1079
+msgid "City"
+msgstr "城市"
+
+#: backend/edit_profile.php:81 backend/edit_user.php:232
+#: backend/settings.php:1084
+msgid "State / Province / Region"
+msgstr "州/省/地區"
+
+#: backend/edit_profile.php:87 backend/edit_user.php:238
+#: backend/settings.php:1089
+msgid "Zip / Postal Code"
+msgstr "郵遞區號"
+
+#: backend/edit_profile.php:93 backend/edit_user.php:244
+#: backend/settings.php:1094
+msgid "Country"
+msgstr "國家"
+
+#: backend/edit_profile.php:94
+msgid "Select country"
+msgstr "選擇國家"
+
+#: backend/edit_profile.php:102 backend/edit_user.php:250
+#: backend/settings.php:1099
+msgid "Telephone"
+msgstr "電話"
+
+#: backend/edit_profile.php:115
+msgid "SAVE AND CONTINUE"
+msgstr "保存並繼續"
+
+#: backend/edit_profile.php:124 backend/edit_user.php:51
+msgid "Account"
+msgstr "帳戶"
+
+#: backend/edit_profile.php:177
+msgid "CHANGE"
+msgstr "改變"
+
+#: backend/edit_profile.php:187
+msgid "Avatar"
+msgstr "頭像"
+
+#: backend/edit_profile.php:196
+msgid "UPLOAD"
+msgstr "上傳/新增圖片"
+
+#: backend/edit_profile.php:197
+msgid "CREATE"
+msgstr "創造"
+
+#: backend/edit_profile.php:209 backend/edit_user.php:412
+msgid "Change Password"
+msgstr "更改密碼"
+
+#: backend/virtual_tours.php:62
+msgid "VIRTUAL TOURS"
+msgstr "虛擬旅遊"
+
+#: backend/virtual_tours.php:90 backend/settings.php:351
+msgid "External"
+msgstr "外部"
+
+#: backend/virtual_tours.php:96 backend/settings.php:289
+msgid "Sample"
+msgstr "樣品"
+
+#: backend/virtual_tours.php:96
+msgid "includes sample data in this tour"
+msgstr "包含此導覽中的示例數據"
+
+#: backend/virtual_tours.php:103
+msgid "Edit"
+msgstr "編輯"
+
+#: backend/virtual_tours.php:105 backend/virtual_tours.php:310
+msgid "Import"
+msgstr "匯入"
+
+#: backend/virtual_tours.php:116
+msgid ""
+"You have reached the maximum number of Virtual Tours allowed from your plan!"
+msgstr "您已達到計畫允許的最大虛擬旅遊數量！"
+
+#: backend/virtual_tours.php:133
+msgid "LOADING VIRTUAL TOURS ..."
+msgstr "正在載入虛擬旅遊..."
+
+#: backend/virtual_tours.php:151
+msgid "Delete Virtual Tour"
+msgstr "刪除虛擬旅遊"
+
+#: backend/virtual_tours.php:154
+msgid ""
+"Are you sure you want to delete the entire virtual tour, included rooms, "
+"markers, pois and map?"
+msgstr "是否確實要刪除整個虛擬旅遊，包括房間、標記、pois 和地圖？"
+
+#: backend/virtual_tours.php:168
+msgid "Duplicate Virtual Tour"
+msgstr "重複虛擬之旅"
+
+#: backend/virtual_tours.php:171
+msgid "Are you sure you want to duplicate the entire virtual tour?"
+msgstr "是否確實要複製整個虛擬旅遊？"
+
+#: backend/virtual_tours.php:175 backend/edit_user.php:366
+#: backend/sidebar.php:364 backend/plans.php:378 backend/plans.php:736
+#: backend/change_plan.php:166
+msgid "Info Box"
+msgstr "信息框"
+
+#: backend/virtual_tours.php:181 backend/sidebar.php:362 backend/plans.php:376
+#: backend/plans.php:734 backend/change_plan.php:190
+msgid "Maps"
+msgstr "地圖"
+
+#: backend/virtual_tours.php:187 backend/sidebar.php:363 backend/plans.php:377
+#: backend/plans.php:735
+msgid "Products"
+msgstr "產品"
+
+#: backend/virtual_tours.php:211 backend/edit_user.php:313
+#: backend/dashboard.php:73 backend/sidebar.php:360 backend/statistics.php:97
+#: backend/plans.php:34 backend/plans.php:374 backend/plans.php:732
+#: backend/topbar.php:60 backend/change_plan.php:141
+msgid "Markers"
+msgstr "標記"
+
+#: backend/virtual_tours.php:235
+msgid "Download Virtual Tour"
+msgstr "下載虛擬旅遊"
+
+#: backend/virtual_tours.php:238
+msgid "Are you sure you want to download the virtual tour?"
+msgstr "你確定要下載虛擬旅遊嗎？"
+
+#: backend/virtual_tours.php:239
+msgid "You cannot download virtual tour from this demo server"
+msgstr "您無法從此演示伺服器下載虛擬旅遊"
+
+#: backend/virtual_tours.php:242
+msgid "Standalone"
+msgstr "獨立"
+
+#: backend/virtual_tours.php:244
+msgid "Importable"
+msgstr "可導入"
+
+#: backend/virtual_tours.php:256
+msgid "New Virtual Tour"
+msgstr "新虛擬之旅"
+
+#: backend/virtual_tours.php:259
+msgid "Are you sure you want to create a tour containing sample data?"
+msgstr "您是否確定要建立包含樣本數據的旅遊？"
+
+#: backend/virtual_tours.php:262
+msgid "Yes, Create"
+msgstr "是的，創建"
+
+#: backend/virtual_tours.php:273
+msgid "Import Virtual Tour"
+msgstr "導入虛擬導覽"
+
+#: backend/virtual_tours.php:281
+msgid "Zip File"
+msgstr "壓縮文件"
+
+#: backend/virtual_tours.php:292 backend/rooms.php:184 backend/rooms.php:222
+#: backend/edit_room.php:798
+msgid "Upload"
+msgstr "上傳"
+
+#: backend/edit_user.php:33
+msgid "EDIT USER"
+msgstr "編輯使用者"
+
+#: backend/edit_user.php:120
+msgid "CHANGE PASSWORD"
+msgstr "變更密碼"
+
+#: backend/edit_user.php:140
+msgid "Active (expiring)"
+msgstr "活動（過期）"
+
+#: backend/edit_user.php:143 backend/topbar.php:49
+msgid "Expired"
+msgstr "已過期"
+
+#: backend/edit_user.php:146 backend/topbar.php:52
+msgid "Invalid payment"
+msgstr "無效付款"
+
+#: backend/edit_user.php:156
+msgid "Current Plan"
+msgstr "目前方案"
+
+#: backend/edit_user.php:164
+msgid "Manual Expiration Date"
+msgstr "手動到期日期"
+
+#: backend/edit_user.php:164
+msgid "set expiration date manually (leave empty for automatic)"
+msgstr "手動設定到期日期（為自動留空）"
+
+#: backend/edit_user.php:170
+msgid "Manual Expiration Time"
+msgstr "手動過期時間"
+
+#: backend/edit_user.php:170
+msgid "set expiration time manually (leave empty for automatic)"
+msgstr "手動設定到期時間（為自動留空）"
+
+#: backend/edit_user.php:177
+msgid "Never"
+msgstr "從不"
+
+#: backend/edit_user.php:266 backend/dashboard.php:106
+#: backend/statistics.php:127
+msgid "Disk Space Used"
+msgstr "使用的磁碟空間"
+
+#: backend/edit_user.php:268 backend/dashboard.php:108
+msgid "analyze"
+msgstr "分析"
+
+#: backend/edit_user.php:283 backend/dashboard.php:39 backend/dashboard.php:158
+#: backend/sidebar.php:352 backend/plans.php:32 backend/plans.php:369
+#: backend/plans.php:727 backend/topbar.php:58 backend/change_plan.php:133
+msgid "Virtual Tours"
+msgstr "虛擬旅遊"
+
+#: backend/edit_user.php:350
+msgid "Assign"
+msgstr "指派"
+
+#: backend/edit_user.php:351
+msgid "Tour"
+msgstr "導覽"
+
+#: backend/edit_user.php:352
+msgid "Edit Tour"
+msgstr "編輯旅行"
+
+#: backend/edit_user.php:353 backend/sidebar.php:357 backend/plans.php:371
+#: backend/plans.php:729
+msgid "Editor UI"
+msgstr "編輯器用戶界面"
+
+#: backend/edit_user.php:354
+msgid "Create Rooms"
+msgstr "創建房間"
+
+#: backend/edit_user.php:355
+msgid "Edit Rooms"
+msgstr "編輯加值服務"
+
+#: backend/edit_user.php:356
+msgid "Delete Rooms"
+msgstr "刪除房間"
+
+#: backend/edit_user.php:357
+msgid "Create Markers"
+msgstr "創建標記"
+
+#: backend/edit_user.php:358
+msgid "Edit Markers"
+msgstr "編輯標記"
+
+#: backend/edit_user.php:359
+msgid "Delete Markers"
+msgstr "刪除標記"
+
+#: backend/edit_user.php:360
+msgid "Create POIs"
+msgstr "創建 POI"
+
+#: backend/edit_user.php:361
+msgid "Edit POIs"
+msgstr "編輯POI"
+
+#: backend/edit_user.php:362
+msgid "Delete POIs"
+msgstr "刪除 POI"
+
+#: backend/edit_user.php:363
+msgid "Create Maps"
+msgstr "創建地圖"
+
+#: backend/edit_user.php:364
+msgid "Edit Maps"
+msgstr "編輯地圖"
+
+#: backend/edit_user.php:365
+msgid "Delete Maps"
+msgstr "刪除地圖"
+
+#: backend/edit_user.php:369 backend/sidebar.php:377 backend/plans.php:383
+#: backend/plans.php:741
+msgid "Icons Library"
+msgstr "圖示庫"
+
+#: backend/edit_user.php:372 backend/sidebar.php:390 backend/plans.php:387
+#: backend/plans.php:745
+msgid "Publish"
+msgstr "發佈"
+
+#: backend/edit_user.php:374 backend/sidebar.php:409 backend/plans.php:393
+#: backend/plans.php:751 backend/change_plan.php:226
+msgid "Forms"
+msgstr "表單"
+
+#: backend/edit_user.php:375 backend/sidebar.php:410 backend/plans.php:394
+#: backend/plans.php:752 backend/edit_room.php:730
+msgid "Leads"
+msgstr "潛在客戶"
+
+#: backend/edit_user.php:376 backend/change_plan.php:278
+msgid "Shop"
+msgstr "商店"
+
+#: backend/edit_user.php:393
+msgid "Delete User"
+msgstr "刪除使用者"
+
+#: backend/edit_user.php:396
+msgid "Are you sure you want to delete the user?"
+msgstr "您確定要刪除這個場景嗎？"
+
+#: backend/edit_user.php:397
+msgid ""
+"Attention: all the virtual tours assigned to this user will be deleted!!!"
+msgstr "注意：配置給此使用者的所有虛擬遊覽都將被刪除!!!"
+
+#: backend/vendor/keditor/landing_editor.php:33
+msgid "Loading landing page content ..."
+msgstr "載入著陸頁內容..."
+
+#: backend/vendor/keditor/landing_editor.php:38
+msgid "Saving landing page content ... Do not close this window!"
+msgstr "儲存著陸頁內容...不要關閉這個視窗！"
+
+#: backend/vendor/keditor/info_editor.php:27
+msgid "Loading info content ..."
+msgstr "載入資訊內容..."
+
+#: backend/vendor/keditor/info_editor.php:32
+msgid "Saving info content ... Do not close this window!"
+msgstr "儲存資訊內容...不要關閉這個視窗！"
+
+#: backend/showcases.php:16
+#, php-format
+msgid "Your \"%s\" plan not allow to create Showcases!"
+msgstr "您的\"%s\"計劃不允許創建展示！"
+
+#: backend/showcases.php:24
+msgid "SHOWCASES"
+msgstr "展示"
+
+#: backend/poi_object360.php:18 backend/poi_embed_gallery.php:18
+#: backend/poi_gallery.php:18 backend/gallery.php:83
+#: backend/edit_product.php:87
+msgid "Images List"
+msgstr "圖片清單"
+
+#: backend/poi_object360.php:18 backend/poi_embed_gallery.php:18
+#: backend/poi_gallery.php:18 backend/gallery.php:83
+#: backend/edit_product.php:87
+msgid "drag images to change order"
+msgstr "拖動影像以更改順序"
+
+#: backend/poi_object360.php:23 backend/poi_embed_gallery.php:23
+#: backend/poi_gallery.php:23 backend/gallery.php:88 backend/edit_room.php:814
+#: backend/edit_product.php:92
+msgid "Loading images ..."
+msgstr "載入影像中..."
+
+#: backend/dashboard.php:6
+#, php-format
+msgid ""
+"Welcome to %s configuration panel, where you can create your virtual tours "
+"in a few simple steps."
+msgstr "歡迎使用%s面板，您可以在幾個簡單的步驟中創建虛擬旅遊。"
+
+#: backend/dashboard.php:13
+msgid "DASHBOARD"
+msgstr "儀表板"
+
+#: backend/dashboard.php:19
+msgid "Welcome"
+msgstr "歡迎"
+
+#: backend/dashboard.php:28
+msgid "START TOUR CREATION WIZARD"
+msgstr "開始遊覽創建嚮導"
+
+#: backend/dashboard.php:123 backend/statistics.php:142
+msgid "Total Visitors"
+msgstr "訪客總數"
+
+#: backend/dashboard.php:138 backend/statistics.php:157
+msgid "Online Visitors"
+msgstr "在線訪問者"
+
+#: backend/dashboard.php:154
+msgid "Visitors N."
+msgstr "訪客 N."
+
+#: backend/dashboard.php:158
+#, php-format
+msgid "No virtual tours created yet. Go to %s and create a new one!"
+msgstr "尚未創建虛擬旅遊。轉到%s並創建一個新的！"
+
+#: backend/publish.php:82 backend/settings.php:96 backend/topbar.php:35
+msgid "Status"
+msgstr "狀態"
+
+#: backend/publish.php:88
+msgid "Current status"
+msgstr "現狀"
+
+#: backend/publish.php:88
+msgid "Activated"
+msgstr "外掛程式啟動完成"
+
+#: backend/publish.php:88
+msgid "Deactivated"
+msgstr "已停用"
+
+#: backend/publish.php:93
+msgid "DEACTIVATE"
+msgstr "關閉"
+
+#: backend/publish.php:97
+msgid "ACTIVATE"
+msgstr "啟用"
+
+#: backend/publish.php:117
+msgid "SET FRIENDLY URL"
+msgstr "設置友好 URL"
+
+#: backend/publish.php:126
+msgid "Password Protection"
+msgstr "密碼保護。"
+
+#: backend/publish.php:133
+msgid "leave empty to disable password protection"
+msgstr "空開以禁用密碼保護"
+
+#: backend/publish.php:160 backend/change_plan.php:254
+msgid "Expiring Dates"
+msgstr "到期日期"
+
+#: backend/publish.php:167
+msgid "Start Date"
+msgstr "開始日期"
+
+#: backend/publish.php:173
+msgid "Redirect URL if < Start Date"
+msgstr "如果開始日期< URL"
+
+#: backend/publish.php:181
+msgid "End Date"
+msgstr "結束日期"
+
+#: backend/publish.php:187
+msgid "Redirect URL if > End Date"
+msgstr "如果結束日期> URL"
+
+#: backend/publish.php:194
+msgid "SET EXPIRING DATES"
+msgstr "設置到期日期"
+
+#: backend/publish.php:210
+msgid "Viewer Link"
+msgstr "查看器連結"
+
+#: backend/publish.php:228
+msgid "Viewer Friendly Url Link"
+msgstr "查看器友好 Url 連結"
+
+#: backend/publish.php:246
+msgid "Viewer Embed Code"
+msgstr "查看器嵌入代碼"
+
+#: backend/publish.php:262
+msgid "Landing Link"
+msgstr "著陸連結"
+
+#: backend/publish.php:280
+msgid "Landing Friendly Url Link"
+msgstr "著陸友好網址連結"
+
+#: backend/publish.php:298
+msgid "Landing Embed Code"
+msgstr "著陸嵌入代碼"
+
+#: backend/publish.php:316
+msgid "API Sample Code"
+msgstr "API 示例代碼"
+
+#: backend/maps.php:74 backend/maps_bulk.php:62
+msgid "You cannot create Maps on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建地圖！"
+
+#: backend/maps.php:82 backend/maps_bulk.php:70
+#, php-format
+msgid "Your \"%s\" plan not allow to create Maps!"
+msgstr "您的「%s」計劃不允許創建地圖！"
+
+#: backend/maps.php:94
+msgid "CREATE NEW MAP"
+msgstr "創建新地圖"
+
+#: backend/maps.php:101 backend/rooms.php:93
+msgid "BULK"
+msgstr "散裝"
+
+#: backend/maps.php:114
+msgid "LOADING MAPS ..."
+msgstr "載入地圖中..."
+
+#: backend/maps.php:132
+msgid "New Map"
+msgstr "新地圖"
+
+#: backend/maps.php:144
+msgid "Map Type"
+msgstr "地圖類型"
+
+#: backend/maps.php:146
+msgid "Floorplan (image)"
+msgstr "平面圖（圖片）"
+
+#: backend/maps.php:156
+msgid "Map image"
+msgstr "地圖圖像"
+
+#: backend/maps.php:167
+msgid "Upload Map Image"
+msgstr "上傳地圖圖像"
+
+#: backend/maps.php:200
+msgid "Delete Map"
+msgstr "刪除地圖"
+
+#: backend/maps.php:203
+msgid "Are you sure you want to delete the entire map and all the points?"
+msgstr "是否確實要刪除整個地圖和所有點？"
+
+#: backend/sidebar.php:328
+msgid "DEMO MODE"
+msgstr "演示模式"
+
+#: backend/sidebar.php:328
+msgid "ADD / SAVE features are disabled."
+msgstr "添加/保存功能被禁用。"
+
+#: backend/sidebar.php:341
+msgid "Dashboard"
+msgstr "控制台"
+
+#: backend/sidebar.php:346 backend/plans.php:367 backend/plans.php:725
+#: backend/change_plan.php:258
+msgid "Statistics"
+msgstr "統計"
+
+#: backend/sidebar.php:356 backend/plans.php:370 backend/plans.php:728
+msgid "List Tours"
+msgstr "清單旅遊"
+
+#: backend/sidebar.php:372 backend/plans.php:381 backend/plans.php:739
+msgid "Media"
+msgstr "媒體"
+
+#: backend/sidebar.php:381
+msgid "Advertisements"
+msgstr "廣告"
+
+#: backend/sidebar.php:394 backend/plans.php:388 backend/plans.php:746
+msgid "Links"
+msgstr "連結"
+
+#: backend/sidebar.php:397 backend/plans.php:390 backend/plans.php:748
+msgid "Showcases"
+msgstr "展示"
+
+#: backend/sidebar.php:405 backend/plans.php:392 backend/plans.php:750
+msgid "Collected Data"
+msgstr "收集的數據"
+
+#: backend/sidebar.php:429
+msgid "Upgrade"
+msgstr "升級"
+
+#: backend/sidebar.php:434
+msgid "Users"
+msgstr "使用者"
+
+#: backend/sidebar.php:439
+msgid "Plans"
+msgstr "方案"
+
+#: backend/statistics.php:57
+#, php-format
+msgid "Your \"%s\" plan not allow to view Statistics!"
+msgstr "您的「%s」計劃不允許查看統計數據！"
+
+#: backend/statistics.php:63
+msgid "STATISTICS"
+msgstr "統計"
+
+#: backend/statistics.php:72
+msgid "Unique"
+msgstr "唯一的"
+
+#: backend/statistics.php:172
+msgid "Virtual Tour Accesses"
+msgstr "虛擬旅遊訪問"
+
+#: backend/statistics.php:182
+msgid "Rooms Accesses"
+msgstr "客房通道"
+
+#: backend/statistics.php:192
+msgid "Rooms Permanence (seconds)"
+msgstr "客房永久（秒）"
+
+#: backend/statistics.php:202
+msgid "POI views"
+msgstr "POI 檢視"
+
+#: backend/statistics.php:223
+msgid "Reset Statistics"
+msgstr "重置統計"
+
+#: backend/statistics.php:226
+msgid "Are you sure you want to reset all statistics for this virtual tour?"
+msgstr "您是否確定要重置此虛擬旅遊的所有統計數據？"
+
+#: backend/edit_map.php:43
+msgid "EDIT MAP"
+msgstr "編輯地圖"
+
+#: backend/edit_map.php:68
+msgid "Point Color"
+msgstr "點顏色"
+
+#: backend/edit_map.php:74
+msgid "Point Size"
+msgstr "點大小"
+
+#: backend/edit_map.php:80
+msgid "North"
+msgstr "北"
+
+#: backend/edit_map.php:86
+msgid "Width (Desktop)"
+msgstr "寬度（桌面）"
+
+#: backend/edit_map.php:97
+msgid "Width (Mobile)"
+msgstr "寬度（移動）"
+
+#: backend/edit_map.php:108
+msgid "Info - Link"
+msgstr "信息 - 鏈接"
+
+#: backend/edit_map.php:114
+msgid "Info - Open in"
+msgstr "信息 - 打開"
+
+#: backend/edit_map.php:116
+msgid "New Window"
+msgstr "新視窗"
+
+#: backend/edit_map.php:123
+msgid "Zoom Level"
+msgstr "縮放級別"
+
+#: backend/edit_map.php:123
+msgid "initial map zoom level (lower 1 - higher 20)"
+msgstr "初始地圖變焦等級（較低 1 - 更高 20）"
+
+#: backend/edit_map.php:125
+msgid "Fit all points"
+msgstr "適合所有點"
+
+#: backend/edit_map.php:151
+msgid "Zoom to Point"
+msgstr "縮放到點"
+
+#: backend/edit_map.php:151
+msgid "when the point is clicked, the map is zoomed in on it"
+msgstr "點擊點時，映射放大"
+
+#: backend/edit_map.php:157
+msgid "Default view"
+msgstr "預設視圖"
+
+#: backend/edit_map.php:159
+msgid "Street"
+msgstr "街道"
+
+#: backend/edit_map.php:160
+msgid "Satellite"
+msgstr "衛星"
+
+#: backend/edit_map.php:174
+msgid "Map Image"
+msgstr "地圖圖像"
+
+#: backend/edit_map.php:174
+msgid "click on point to edit, drag to change position"
+msgstr "點擊點編輯，拖動更改位置"
+
+#: backend/edit_map.php:179
+msgid "Loading map image"
+msgstr "載入地圖圖像"
+
+#: backend/edit_map.php:198
+msgid "Map Point"
+msgstr "地圖點"
+
+#: backend/edit_map.php:203
+msgid "Select point from map or add a new one"
+msgstr "從地圖中選擇點或添加新點"
+
+#: backend/edit_map.php:225
+msgid "AUTO SAVE"
+msgstr "自動保存"
+
+#: backend/edit_map.php:240
+msgid "New Map Point"
+msgstr "新地圖點"
+
+#: backend/edit_map.php:246 backend/dollhouse.php:122
+msgid "Select Room"
+msgstr "選擇房間"
+
+#: backend/edit_map.php:267
+msgid "Delete Map Point"
+msgstr "刪除地圖點"
+
+#: backend/edit_map.php:270
+msgid "Are you sure you want to delete the map point?"
+msgstr "是否確實要刪除地圖點？"
+
+#: backend/settings.php:35
+msgid "Please enter a valid purchase code to continue using the application."
+msgstr "請輸入有效的購買代碼，繼續使用應用程式。"
+
+#: backend/settings.php:42
+msgid "LICENSE"
+msgstr "許可證"
+
+#: backend/settings.php:45
+msgid "GENERAL"
+msgstr "一般"
+
+#: backend/settings.php:48
+msgid "STYLE"
+msgstr "風格"
+
+#: backend/settings.php:51
+msgid "CUSTOM CSS / JS"
+msgstr "自定義CS/JS"
+
+#: backend/settings.php:54
+msgid "VOICE COMMANDS"
+msgstr "語音命令"
+
+#: backend/settings.php:57
+msgid "CATEGORIES"
+msgstr "類別"
+
+#: backend/settings.php:60
+msgid "MAIL"
+msgstr "郵件"
+
+#: backend/settings.php:63
+msgid "SOCIAL"
+msgstr "社交"
+
+#: backend/settings.php:66
+msgid "REGISTRATION"
+msgstr "註冊"
+
+#: backend/settings.php:69
+msgid "PAYMENTS"
+msgstr "付款"
+
+#: backend/settings.php:79
+msgid "License"
+msgstr "授權"
+
+#: backend/settings.php:85
+msgid "Purchase Code"
+msgstr "購買代碼"
+
+#: backend/settings.php:85
+msgid "Where i can find it?"
+msgstr "我在哪裡可以找到它？"
+
+#: backend/settings.php:92
+msgid "CHECK"
+msgstr "檢查"
+
+#: backend/settings.php:122
+msgid "Misc"
+msgstr "雜項"
+
+#: backend/settings.php:128
+msgid "Contact E-Mail"
+msgstr "聯繫電子郵件"
+
+#: backend/settings.php:134
+msgid "Enable External Tours"
+msgstr "啟用外部旅遊"
+
+#: backend/settings.php:140
+msgid "Enable Tour Creation Wizard"
+msgstr "啟用遊覽創建嚮導"
+
+#: backend/settings.php:146
+msgid "Help Link"
+msgstr "說明連結"
+
+#: backend/settings.php:152
+msgid "Friendly Urls Blacklist"
+msgstr "友好的網址黑名單"
+
+#: backend/settings.php:153
+msgid "Enter friendly urls separated by comma"
+msgstr "輸入用逗號分隔的友好網址"
+
+#: backend/settings.php:171
+msgid "Street Url"
+msgstr "街道網址"
+
+#: backend/settings.php:177
+msgid "Street Subdomain"
+msgstr "街道蘇多曼"
+
+#: backend/settings.php:183
+msgid "Street Max Zoom"
+msgstr "街道最大縮放"
+
+#: backend/settings.php:189
+msgid "Satellite Url"
+msgstr "衛星網址"
+
+#: backend/settings.php:195
+msgid "Satellite Subdomain"
+msgstr "衛星子多曼"
+
+#: backend/settings.php:201
+msgid "Satellite Max Zoom"
+msgstr "衛星最大變焦"
+
+#: backend/settings.php:220
+msgid "Server Host"
+msgstr "伺服器主機"
+
+#: backend/settings.php:226
+msgid "Server Port"
+msgstr "服務器端口"
+
+#: backend/settings.php:232
+msgid "Server Path"
+msgstr "伺服器路徑"
+
+#: backend/settings.php:240
+msgid "Host"
+msgstr "主機"
+
+#: backend/settings.php:246
+msgid "Port"
+msgstr "埠"
+
+#: backend/settings.php:279
+msgid "Server Domain"
+msgstr "伺服器域"
+
+#: backend/settings.php:301
+msgid "Virtual Tour"
+msgstr "虛擬導覽"
+
+#: backend/settings.php:301
+msgid "virtual tour used as sample data"
+msgstr "虛擬旅遊用作樣本數據"
+
+#: backend/settings.php:303
+msgid "Included (SVT demo)"
+msgstr "包括（SVT演示）"
+
+#: backend/settings.php:323
+msgid "Enable Screencast"
+msgstr "啟用截屏"
+
+#: backend/settings.php:329
+msgid "Url Screencast App"
+msgstr "網址截屏應用"
+
+#: backend/settings.php:329
+msgid "link to the screencast web app that allows you to record your screen"
+msgstr "鏈接到允許您錄製屏幕的截屏網絡應用程序"
+
+#: backend/settings.php:342
+msgid "Multiresolution"
+msgstr "啟用多重影響"
+
+#: backend/settings.php:350
+msgid "Local"
+msgstr "本地"
+
+#: backend/settings.php:357
+msgid "External URL"
+msgstr "外部網址"
+
+#: backend/settings.php:363
+msgid "Multi resolution check"
+msgstr "多解析度檢查"
+
+#: backend/settings.php:363
+msgid "check if your system can generate multi resolution panoramas"
+msgstr "檢查您的系統是否可以生成多分辨率全景圖"
+
+#: backend/settings.php:364 backend/settings.php:1513
+msgid "Check Requirements"
+msgstr "檢查要求"
+
+#: backend/settings.php:376
+msgid "Localization"
+msgstr "本地化"
+
+#: backend/settings.php:415
+msgid "Translation Type"
+msgstr "翻譯類型"
+
+#: backend/settings.php:424
+msgid "Languages Enabled"
+msgstr "啟用語言"
+
+#: backend/settings.php:425 backend/plans.php:366 backend/plans.php:724
+msgid "items selected"
+msgstr "項目已選中"
+
+#: backend/settings.php:425 backend/plans.php:366 backend/plans.php:724
+msgid "Deselect All"
+msgstr "取消全選"
+
+#: backend/settings.php:425 backend/plans.php:366 backend/plans.php:724
+msgid "Select All"
+msgstr "全選"
+
+#: backend/settings.php:425 backend/plans.php:366 backend/plans.php:724
+msgid "Nothing selected"
+msgstr "未選擇任何內容"
+
+#: backend/settings.php:425 backend/functions.php:180 backend/plans.php:366
+#: backend/plans.php:724
+msgid "No results matched"
+msgstr "沒有匹配的結果"
+
+#: backend/settings.php:478
+msgid "Branding"
+msgstr "品牌"
+
+#: backend/settings.php:484
+msgid "Application Name"
+msgstr "應用程式名稱"
+
+#: backend/settings.php:490
+msgid "Theme Color"
+msgstr "主題顏色"
+
+#: backend/settings.php:496
+msgid "Font Backend"
+msgstr "字體後端"
+
+#: backend/settings.php:502
+msgid "Welcome Message"
+msgstr "歡迎訊息："
+
+#: backend/settings.php:502
+msgid "leave empty for default welcome message"
+msgstr "為默認歡迎消息留空"
+
+#: backend/settings.php:545
+msgid "Logo Small"
+msgstr "標誌小"
+
+#: backend/settings.php:583
+msgid "Login image"
+msgstr "登錄圖像"
+
+#: backend/settings.php:603
+msgid "Upload Login Image"
+msgstr "上傳登錄圖像"
+
+#: backend/settings.php:621
+msgid "Registration image"
+msgstr "註冊圖像"
+
+#: backend/settings.php:641
+msgid "Upload Registration Image"
+msgstr "上傳註冊圖像"
+
+#: backend/settings.php:667
+msgid "Footer"
+msgstr "頁尾"
+
+#: backend/settings.php:673
+msgid "Name Item 1"
+msgstr "名稱專案 1"
+
+#: backend/settings.php:679
+msgid "Content Item 1"
+msgstr "內容專案 1"
+
+#: backend/settings.php:679 backend/settings.php:694 backend/settings.php:709
+msgid "insert a textual content or a link to an external site"
+msgstr "插入文本內容或指向外部網站的連結"
+
+#: backend/settings.php:688
+msgid "Name Item 2"
+msgstr "名稱專案 2"
+
+#: backend/settings.php:694
+msgid "Content Item 2"
+msgstr "內容專案 2"
+
+#: backend/settings.php:703
+msgid "Name Item 3"
+msgstr "名稱專案 3"
+
+#: backend/settings.php:709
+msgid "Content Item 3"
+msgstr "內容專案 3"
+
+#: backend/settings.php:724
+msgid "Custom Viewer CSS"
+msgstr "自定義查看器 CSS"
+
+#: backend/settings.php:730 backend/settings.php:769
+msgid "General (affects all virtual tours)"
+msgstr "一般（影響所有虛擬旅遊）"
+
+#: backend/settings.php:747
+msgid "Custom Backend CSS"
+msgstr "自定義後端 CSS"
+
+#: backend/settings.php:763
+msgid "Custom Viewer JS"
+msgstr "自定義查看器 JS"
+
+#: backend/settings.php:795
+msgid "Mail Server Settings"
+msgstr "郵件伺服器設置"
+
+#: backend/settings.php:801
+msgid "SMTP Server"
+msgstr "SMTP 伺服器"
+
+#: backend/settings.php:807
+msgid "SMTP Port"
+msgstr "SMTP 通訊埠"
+
+#: backend/settings.php:813
+msgid "SMTP Secure"
+msgstr "SMTP 安全"
+
+#: backend/settings.php:823
+msgid "SMTP Auth"
+msgstr "STMP 驗證碼"
+
+#: backend/settings.php:831
+msgid "SMTP Auth - Username"
+msgstr "SMTP 身份驗證 ─ 使用者名稱"
+
+#: backend/settings.php:837
+msgid "SMTP Auth - Password"
+msgstr "SMTP 身份驗證 ─ 密碼"
+
+#: backend/settings.php:845
+msgid "From E-Mail"
+msgstr "從電子郵件"
+
+#: backend/settings.php:851
+msgid "From Name"
+msgstr "寄件者名稱"
+
+#: backend/settings.php:858
+msgid "VALIDATE MAIL SETTINGS"
+msgstr "驗證郵件設置"
+
+#: backend/settings.php:869
+msgid "Mail Texts"
+msgstr "郵件文字"
+
+#: backend/settings.php:876
+msgid "Activation mail - Subject"
+msgstr "啟動郵件 - 主題"
+
+#: backend/settings.php:882
+msgid "Activation mail - Body"
+msgstr "啟動郵件 - 身體"
+
+#: backend/settings.php:882 backend/settings.php:896
+msgid "mandatory variables in the mail text: "
+msgstr "郵件文字中的強制性變數："
+
+#: backend/settings.php:890
+msgid "Forgot password mail - Subject"
+msgstr "忘記密碼郵件 - 主題"
+
+#: backend/settings.php:896
+msgid "Forgot password mail - Body"
+msgstr "忘記密碼郵件 - 身體"
+
+#: backend/settings.php:912
+msgid "Social Integration"
+msgstr "社交整合"
+
+#: backend/settings.php:917
+msgid ""
+"To make the integration with social providers work, you need to create login "
+"applications and retrieve credentials in their respective developer panels. "
+"Where required, enter the following parameters to enable the integrations."
+msgstr ""
+"要使與社交供應商的集成發揮作用，您需要創建登錄應用程式並在各自的開發人員面板"
+"中檢索憑據。必要時，輸入以下參數以啟用集成。"
+
+#: backend/settings.php:921
+msgid "Callback Url"
+msgstr "回調網址"
+
+#: backend/settings.php:927
+msgid "Whitelist Domain"
+msgstr "白名單功能變數名稱"
+
+#: backend/settings.php:935
+msgid "Google - Enable"
+msgstr "谷歌 - 啟用"
+
+#: backend/settings.php:941
+msgid "Google - Id"
+msgstr "谷歌 - ID"
+
+#: backend/settings.php:947
+msgid "Google - Secret"
+msgstr "谷歌 - 秘密"
+
+#: backend/settings.php:955
+msgid "Facebook - Enable"
+msgstr "臉書 - 啟用"
+
+#: backend/settings.php:961
+msgid "Facebook - Id"
+msgstr "臉譜網 - ID"
+
+#: backend/settings.php:967
+msgid "Facebook - Secret"
+msgstr "臉譜網 - 秘密"
+
+#: backend/settings.php:975
+msgid "Twitter - Enable"
+msgstr "推特 - 啟用"
+
+#: backend/settings.php:981
+msgid "Twitter - Id"
+msgstr "推特-我"
+
+#: backend/settings.php:987
+msgid "Twitter - Secret"
+msgstr "推特 - 秘密"
+
+#: backend/settings.php:1002
+msgid "Registration Settings"
+msgstr "註冊設置"
+
+#: backend/settings.php:1008
+msgid "enables registration form for users"
+msgstr "為用戶啟用註冊表單"
+
+#: backend/settings.php:1014
+msgid "Validate Email"
+msgstr "確認電郵"
+
+#: backend/settings.php:1014
+msgid "send an email to new users to validate their account"
+msgstr "向新使用者發送電子郵件以驗證其帳戶"
+
+#: backend/settings.php:1020
+msgid "Change Plan"
+msgstr "變更方案"
+
+#: backend/settings.php:1020
+msgid "enables change plan for users"
+msgstr "為使用者啟用更改計劃"
+
+#: backend/settings.php:1026
+msgid "Default Plan"
+msgstr "默認計劃"
+
+#: backend/settings.php:1026
+msgid "default plan assigned to new registered users"
+msgstr "分配給新註冊用戶的默認計劃"
+
+#: backend/settings.php:1049
+msgid "Mandatory"
+msgstr "強制性"
+
+#: backend/settings.php:1120 backend/settings.php:1156
+msgid "enable this payment method (you need to initialize first)"
+msgstr "啟用此付款方式（您需要先初始化）"
+
+#: backend/settings.php:1127
+msgid "Public API Key"
+msgstr "公用 API 金鑰"
+
+#: backend/settings.php:1133
+msgid "Secret API Key"
+msgstr "秘密 API 密鑰"
+
+#: backend/settings.php:1140 backend/settings.php:1181
+msgid "Initialize"
+msgstr "初始化"
+
+#: backend/settings.php:1162
+msgid "Live"
+msgstr "線上"
+
+#: backend/settings.php:1162
+msgid "if not selected, use the paypal sandbox for testing"
+msgstr "如果未選中，則使用 paypal 沙箱進行測試"
+
+#: backend/settings.php:1168
+msgid "Client Id"
+msgstr "客戶編號"
+
+#: backend/settings.php:1174
+msgid "Client Secret"
+msgstr "用戶端密鑰"
+
+#: backend/settings.php:1187
+msgid ""
+"if you change from sandbox to live check that you have entered your live API "
+"credentials, check Live and Initialize again"
+msgstr ""
+"如果您從沙盒更改為實時檢查您是否輸入了實時 API 憑據，請再次檢查實時和初始化"
+
+#: backend/settings.php:1202
+msgid ""
+"Voice commands works with all browsers that implement the Speech Recognition "
+"interface of the Web Speech API."
+msgstr "語音命令適用於實現 Web 語音 API 的語音辨識介面的所有瀏覽器。"
+
+#: backend/settings.php:1206
+msgid "Enter language code"
+msgstr "輸入語言代碼"
+
+#: backend/settings.php:1211
+msgid "Languages Supported"
+msgstr "支援的語言"
+
+#: backend/settings.php:1223
+msgid "Commands"
+msgstr "命令"
+
+#: backend/settings.php:1229
+msgid "Welcome message"
+msgstr "歡迎訊息"
+
+#: backend/settings.php:1235
+msgid "Listening message"
+msgstr "收聽消息"
+
+#: backend/settings.php:1241
+msgid "Error message"
+msgstr "錯誤訊息"
+
+#: backend/settings.php:1249
+msgid "Help command"
+msgstr "説明命令"
+
+#: backend/settings.php:1249
+msgid "show help message"
+msgstr "顯示説明消息"
+
+#: backend/settings.php:1255 backend/settings.php:1261
+msgid "Help response"
+msgstr "幫助回應"
+
+#: backend/settings.php:1269
+msgid "Next command"
+msgstr "下一個命令"
+
+#: backend/settings.php:1269
+msgid "go to next room"
+msgstr "去隔壁房間"
+
+#: backend/settings.php:1275
+msgid "Next response"
+msgstr "下一步回應"
+
+#: backend/settings.php:1283
+msgid "Previous command"
+msgstr "上一個命令"
+
+#: backend/settings.php:1283
+msgid "go to previous room"
+msgstr "去前一個房間"
+
+#: backend/settings.php:1289
+msgid "Previous response"
+msgstr "先前的回應"
+
+#: backend/settings.php:1297
+msgid "Left command"
+msgstr "左命令"
+
+#: backend/settings.php:1297
+msgid "looking left"
+msgstr "向左看"
+
+#: backend/settings.php:1303
+msgid "Left response"
+msgstr "左回應"
+
+#: backend/settings.php:1311
+msgid "Right command"
+msgstr "右命令"
+
+#: backend/settings.php:1311
+msgid "looking right"
+msgstr "看起來正確"
+
+#: backend/settings.php:1317
+msgid "Right response"
+msgstr "正確回應"
+
+#: backend/settings.php:1325
+msgid "Up command"
+msgstr "上命令"
+
+#: backend/settings.php:1325
+msgid "looking up"
+msgstr "查找"
+
+#: backend/settings.php:1331
+msgid "Up response"
+msgstr "向上回應"
+
+#: backend/settings.php:1339
+msgid "Down command"
+msgstr "向下命令"
+
+#: backend/settings.php:1339
+msgid "looking down"
+msgstr "向下看"
+
+#: backend/settings.php:1345
+msgid "Down response"
+msgstr "向下回應"
+
+#: backend/settings.php:1360
+msgid "Categories"
+msgstr "類別"
+
+#: backend/settings.php:1368
+msgid "Actions"
+msgstr "動作"
+
+#: backend/settings.php:1377
+msgid "new category"
+msgstr "新類別"
+
+#: backend/settings.php:1392
+msgid "Delete Category"
+msgstr "刪除分類"
+
+#: backend/settings.php:1395
+msgid "Are you sure you want to delete this category?"
+msgstr "您確定要刪除此分類嗎？"
+
+#: backend/settings.php:1409 backend/plans.php:778
+msgid "Initializing and synchronizing changes ..."
+msgstr "初始化與同步變更..."
+
+#: backend/settings.php:1419
+msgid "Supported Languages"
+msgstr "支援的語言"
+
+#: backend/settings.php:1697 backend/edit_room.php:1045
+msgid "Choose"
+msgstr "選擇"
+
+#: backend/landing.php:55
+msgid "LANDING"
+msgstr "著陸"
+
+#: backend/landing.php:71
+#, php-format
+msgid "Your \"%s\" plan not allow to create Landing Pages!"
+msgstr "您的「%s」計劃不允許創建著陸頁！"
+
+#: backend/markers.php:68
+msgid "MARKERS"
+msgstr "標記"
+
+#: backend/markers.php:75
+msgid "You cannot create Markers on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建標記！"
+
+#: backend/markers.php:82
+msgid "You have reached the maximum number of Markers allowed from your plan!"
+msgstr "您已達到計劃允許的最大標記數！"
+
+#: backend/markers.php:101
+msgid "GO TO"
+msgstr "跳到（G）"
+
+#: backend/markers.php:133 backend/markers.php:311
+msgid "LookAt"
+msgstr "看"
+
+#: backend/markers.php:133 backend/markers.php:311
+msgid "moves the view in the direction of the clicked marker"
+msgstr "以點擊標記的方向移動檢視"
+
+#: backend/markers.php:149 backend/markers.php:327
+msgid "Override Initial Position"
+msgstr "覆蓋初始位置"
+
+#: backend/markers.php:149 backend/markers.php:327
+msgid ""
+"Drag the view to set the starting position belongs to this marker. Only "
+"works if 'Same Azimuth' is disabled."
+msgstr "拖動檢視以設定屬於此標記的起始位置。只有在禁用\"相同方位\"時才有效。"
+
+#: backend/markers.php:264
+msgid "drag the marker to change its position"
+msgstr "拖動標記以更改其位置"
+
+#: backend/markers.php:279
+msgid "ADD MARKER"
+msgstr "添加標記"
+
+#: backend/markers.php:280
+msgid "EDIT POIs"
+msgstr "編輯郵政"
+
+#: backend/markers.php:293
+msgid "Add Marker"
+msgstr "新增標記"
+
+#: backend/markers.php:346
+msgid "Delete Marker"
+msgstr "刪除標記"
+
+#: backend/markers.php:349
+msgid "Are you sure you want to delete the marker?"
+msgstr "是否確實要刪除標記？"
+
+#: backend/rooms_menu_list.php:9
+msgid "ROOMS LIST"
+msgstr "房間列表"
+
+#: backend/rooms_menu_list.php:31
+msgid "Drag and drop rooms into categories or up/down to change its order"
+msgstr "將房間拖到類別或向上/向下以更改其順序"
+
+#: backend/rooms_menu_list.php:36
+msgid "LOADING MENU LIST ..."
+msgstr "載入選單清單中..."
+
+#: backend/functions.php:939 backend/functions.php:964
+msgid "No icons in this library."
+msgstr "此庫中沒有圖示。"
+
+#: backend/functions.php:1476
+msgid "administrator"
+msgstr "管理員"
+
+#: backend/update_payment.php:21
+msgid ""
+"There's a problem with your payment details. Please update your card by "
+"clicking here."
+msgstr "您的付款詳細資訊有問題。請點按這裡更新您的卡。"
+
+#: backend/update_payment.php:22
+msgid "Actual payment method: "
+msgstr "實際付款條件："
+
+#: backend/update_payment.php:30 backend/change_plan.php:469
+msgid "Redirecting to payment setup page ..."
+msgstr "重定到付款設定頁面..."
+
+#: backend/updater.php:36
+msgid "UPGRADE"
+msgstr "升級"
+
+#: backend/updater.php:43
+msgid "Version Check"
+msgstr "版本檢查"
+
+#: backend/updater.php:48
+msgid "Current Version"
+msgstr "目前版本"
+
+#: backend/updater.php:48
+msgid "Latest Version"
+msgstr "最新版本"
+
+#: backend/updater.php:52
+msgid "Changelog"
+msgstr "更新日誌"
+
+#: backend/updater.php:66
+msgid "Download and Update"
+msgstr "下載和更新"
+
+#: backend/updater.php:74
+msgid "Can't upgrade, please enable php zip extension."
+msgstr "無法升級，請啟用 php 拉鍊擴展。"
+
+#: backend/updater.php:82
+msgid ""
+"Be sure to perform a full manual backup of your current files and database "
+"before upgrading."
+msgstr "在升級之前，請務必對當前文件和資料庫進行完整的手動備份。"
+
+#: backend/updater.php:85
+msgid "I made the backup, continue"
+msgstr "我做了備份， 繼續"
+
+#: backend/updater.php:91
+msgid "UPGRADE NOW!"
+msgstr "現在升級！"
+
+#: backend/updater.php:94
+msgid "click upgrade now to start"
+msgstr "按兩下升級現在開始"
+
+#: backend/updater.php:125
+msgid "downloading ..."
+msgstr "下載。。。"
+
+#: backend/updater.php:141 backend/updater.php:148 backend/updater.php:172
+#: backend/updater.php:179
+msgid "error, please retry"
+msgstr "錯誤， 請重試"
+
+#: backend/updater.php:155
+msgid "installing ... do not close this window!"
+msgstr "安裝。。。不要關閉這個視窗！"
+
+#: backend/updater.php:165
+msgid "upgrade completed successfully, you will now be logged out in 5 seconds"
+msgstr "升級成功完成，您將在 5 秒內註銷"
+
+#: backend/updater.php:189
+msgid "checking license"
+msgstr "檢查許可證"
+
+#: backend/updater.php:223
+msgid "invalid license, unable to update"
+msgstr "許可證無效，無法更新"
+
+#: backend/plans.php:19
+msgid "PLANS"
+msgstr "計劃"
+
+#: backend/plans.php:26
+msgid ""
+"Different plans let you limit your customers to create a certain number of "
+"Virtual Tours, Rooms, Markers and POIs. The default Unlimited's plan has no "
+"limits."
+msgstr ""
+"不同的計劃允許您限制您的客戶創建一定數量的虛擬旅遊、客房、標記和 POIS。默認的"
+"「無限」計劃沒有限制。"
+
+#: backend/plans.php:27
+msgid "ADD PLAN"
+msgstr "添加計劃"
+
+#: backend/plans.php:36
+msgid "Features"
+msgstr "特色"
+
+#: backend/plans.php:37 backend/plans.php:75 backend/plans.php:433
+msgid "Expires Days"
+msgstr "過期天數"
+
+#: backend/plans.php:40
+msgid "In use"
+msgstr "正在使用"
+
+#: backend/plans.php:56
+msgid "New Plan"
+msgstr "新方案"
+
+#: backend/plans.php:57 backend/plans.php:415
+msgid "unlimited"
+msgstr "無制限"
+
+#: backend/plans.php:75 backend/plans.php:433
+msgid "set only for free trial plan"
+msgstr "僅設置免費試用計劃"
+
+#: backend/plans.php:116 backend/plans.php:474
+msgid "Frequency"
+msgstr "頻率"
+
+#: backend/plans.php:118 backend/plans.php:476
+msgid "Recurring"
+msgstr "定期"
+
+#: backend/plans.php:119 backend/plans.php:477
+msgid "One Time"
+msgstr "一次性"
+
+#: backend/plans.php:125 backend/plans.php:483
+msgid "Interval (months)"
+msgstr "間隔（月）"
+
+#: backend/plans.php:125 backend/plans.php:483
+msgid "the number of intervals between subscription billings"
+msgstr "訂閱計費之間的間隔數"
+
+#: backend/plans.php:137 backend/plans.php:495
+msgid "N. Rooms"
+msgstr "N. 客房"
+
+#: backend/plans.php:143 backend/plans.php:501
+msgid "N. Markers"
+msgstr "N. 標記"
+
+#: backend/plans.php:149 backend/plans.php:507
+msgid "N. POIs"
+msgstr "N. POIs。"
+
+#: backend/plans.php:155 backend/plans.php:513
+msgid "Maximum Upload Size (MB)"
+msgstr "最大上傳大小 （MB）"
+
+#: backend/plans.php:161 backend/plans.php:519
+msgid "Enable Landing"
+msgstr "啟用著陸"
+
+#: backend/plans.php:167 backend/plans.php:525
+msgid "Enable Showcase"
+msgstr "啟用展示"
+
+#: backend/plans.php:173 backend/plans.php:531
+msgid "Enable Gallery"
+msgstr "啟用圖庫"
+
+#: backend/plans.php:179 backend/plans.php:537
+msgid "Enable Presentation"
+msgstr "啟用演示文稿"
+
+#: backend/plans.php:185 backend/plans.php:543
+msgid "Enable Live session"
+msgstr "啟用即時會話"
+
+#: backend/plans.php:191 backend/plans.php:549
+msgid "Enable Meeting"
+msgstr "啟用會議"
+
+#: backend/plans.php:197 backend/plans.php:555
+msgid "Enable Info Box"
+msgstr "啟用資訊框"
+
+#: backend/plans.php:203 backend/plans.php:561
+msgid "Enable Right Click Content"
+msgstr "啟用右鍵單擊內容"
+
+#: backend/plans.php:209 backend/plans.php:567
+msgid "Enable Maps"
+msgstr "啟用地圖"
+
+#: backend/plans.php:215 backend/plans.php:573
+msgid "Enable Icons Library"
+msgstr "啟用圖示庫"
+
+#: backend/plans.php:221 backend/plans.php:579
+msgid "Enable Voice Commands"
+msgstr "啟用語音命令"
+
+#: backend/plans.php:227 backend/plans.php:585
+msgid "Enable Whatsapp / Facebook Chat"
+msgstr "啟用 Whatsapp / Facebook 聊天"
+
+#: backend/plans.php:233 backend/plans.php:591
+msgid "Enable Auto Rotate"
+msgstr "啟用自動旋轉"
+
+#: backend/plans.php:239 backend/plans.php:597
+msgid "Enable Fly-in"
+msgstr "啟用飛入"
+
+#: backend/plans.php:245 backend/plans.php:603
+msgid "Enable Multiresolution"
+msgstr "啟用多重影響"
+
+#: backend/plans.php:251 backend/plans.php:609
+msgid "Enable Password Tour"
+msgstr "啟用密碼之旅"
+
+#: backend/plans.php:257 backend/plans.php:615
+msgid "Enable Statistics"
+msgstr "啟用統計"
+
+#: backend/plans.php:263 backend/plans.php:621
+msgid "Enable Forms"
+msgstr "啟用表單"
+
+#: backend/plans.php:269 backend/plans.php:627
+msgid "Enable Logo"
+msgstr "啟用徽標"
+
+#: backend/plans.php:275 backend/plans.php:633
+msgid "Enable Nadir Logo"
+msgstr "啟用納迪爾徽標"
+
+#: backend/plans.php:281 backend/plans.php:639
+msgid "Enable Song"
+msgstr "啟用歌曲"
+
+#: backend/plans.php:287 backend/plans.php:645
+msgid "Enable Annotations"
+msgstr "啟用註釋"
+
+#: backend/plans.php:293 backend/plans.php:651
+msgid "Enable Video 360"
+msgstr "啟用視頻 360"
+
+#: backend/plans.php:299 backend/plans.php:657
+msgid "Enable Multiple Rooms View"
+msgstr "啟用多個房間檢視"
+
+#: backend/plans.php:305 backend/plans.php:663
+msgid "Enable Protect Rooms"
+msgstr "啟用保護室"
+
+#: backend/plans.php:311 backend/plans.php:669
+msgid "Enable Share"
+msgstr "啟用共用"
+
+#: backend/plans.php:317 backend/plans.php:675
+msgid "Enable Device Orientation"
+msgstr "啟用設備方向"
+
+#: backend/plans.php:323 backend/plans.php:681
+msgid "Enable WebVR"
+msgstr "啟用網路VR"
+
+#: backend/plans.php:329 backend/plans.php:687
+msgid "Enable Expiring Dates"
+msgstr "啟用過期日期"
+
+#: backend/plans.php:335 backend/plans.php:693
+msgid "Enable Download Tour"
+msgstr "啟用下載之旅"
+
+#: backend/plans.php:341 backend/plans.php:699
+msgid "Enable Shop"
+msgstr "啟用商店"
+
+#: backend/plans.php:347 backend/plans.php:705
+msgid "Enable 3D View"
+msgstr "啟用 3D 視圖"
+
+#: backend/plans.php:353 backend/plans.php:711
+msgid ""
+"to use external payment systems or other reasons (visible only with "
+"deactivated payments)"
+msgstr "使用外部支付系統或其他原因（僅在停用付款時可見）"
+
+#: backend/plans.php:359 backend/plans.php:717
+msgid "Custom Features"
+msgstr "自定義功能"
+
+#: backend/plans.php:359 backend/plans.php:717
+msgid ""
+"List of additional features to show for the plan (each feature must be on a "
+"new line)"
+msgstr "排程要顯示的其他功能清單（每個功能必須在新線路上）"
+
+#: backend/plans.php:365 backend/plans.php:723
+msgid "Menu Items"
+msgstr "選單項目"
+
+#: backend/plans.php:372 backend/plans.php:730
+msgid "Editor 3D View"
+msgstr "編輯器 3D 視圖"
+
+#: backend/plans.php:414
+msgid "Edit Plan"
+msgstr "編輯方案"
+
+#: backend/plans.php:761
+msgid "Delete"
+msgstr "刪除"
+
+#: backend/dollhouse.php:59
+msgid "EDITOR 3D VIEW"
+msgstr "編輯器 3D 視圖"
+
+#: backend/dollhouse.php:75
+msgid "You cannot edit 3D View on an external virtual tour!"
+msgstr "您無法在外部虛擬遊覽中編輯 3D 視圖！"
+
+#: backend/dollhouse.php:86 backend/dollhouse.php:116
+msgid "Add Room"
+msgstr "加值服務"
+
+#: backend/dollhouse.php:88 backend/dollhouse.php:536
+msgid "Levels"
+msgstr "等級"
+
+#: backend/dollhouse.php:103
+msgid "Select room"
+msgstr "選擇房間"
+
+#: backend/dollhouse.php:103
+msgid "Double click"
+msgstr "雙次點擊"
+
+#: backend/dollhouse.php:453
+msgid "Width"
+msgstr "寬度"
+
+#: backend/dollhouse.php:454
+msgid "Depth"
+msgstr "深度"
+
+#: backend/dollhouse.php:462 backend/dollhouse.php:542
+#: backend/dollhouse.php:543
+msgid "Level"
+msgstr "等級"
+
+#: backend/dollhouse.php:463
+msgid "Panorama"
+msgstr "全景"
+
+#: backend/dollhouse.php:464 backend/dollhouse.php:465
+#: backend/dollhouse.php:466
+msgid "Center"
+msgstr "置中"
+
+#: backend/dollhouse.php:467 backend/dollhouse.php:468
+#: backend/dollhouse.php:469
+msgid "Scale"
+msgstr "縮放"
+
+#: backend/dollhouse.php:470
+msgid "Rotation"
+msgstr "旋轉"
+
+#: backend/dollhouse.php:471
+msgid "Pointer"
+msgstr "滑鼠指標 "
+
+#: backend/dollhouse.php:472 backend/dollhouse.php:473
+msgid "Offset"
+msgstr "抵消"
+
+#: backend/dollhouse.php:505
+msgid "Zoom In"
+msgstr "放大"
+
+#: backend/dollhouse.php:506
+msgid "Zoom Out"
+msgstr "縮小"
+
+#: backend/dollhouse.php:507 backend/dollhouse.php:508
+msgid "Pointer Color"
+msgstr "指針顏色"
+
+#: backend/dollhouse.php:507
+msgid "Main"
+msgstr "主要"
+
+#: backend/dollhouse.php:510
+msgid "Background Opacity"
+msgstr "背景不透明度"
+
+#: backend/dollhouse.php:511
+msgid "Set Default Camera Position"
+msgstr "設置默認相機位置"
+
+#: backend/dollhouse.php:543
+msgid "Altitude"
+msgstr "高度"
+
+#: backend/rooms.php:86
+msgid "CREATE NEW ROOM"
+msgstr "創建新房間"
+
+#: backend/rooms.php:102
+msgid "You have reached the maximum number of Rooms allowed from your plan!"
+msgstr "您已達到計畫允許的最大客房數量！"
+
+#: backend/rooms.php:120
+msgid "LOADING ROOMS ..."
+msgstr "載入房間中..."
+
+#: backend/rooms.php:138
+msgid "New Room"
+msgstr "新房間"
+
+#: backend/rooms.php:154
+msgid "Video Stream (HLS)"
+msgstr "視頻流 (HLS)"
+
+#: backend/rooms.php:161
+msgid "HLS Video Url"
+msgstr "HLS 視頻網址"
+
+#: backend/rooms.php:208
+msgid "File (Json)"
+msgstr "文件（Json）"
+
+#: backend/rooms.php:215
+msgid "Accepted only lottie file in Json format."
+msgstr "僅接受 Json 格式的 lottie 文件。"
+
+#: backend/rooms.php:253
+msgid "Delete Room"
+msgstr "刪除房間"
+
+#: backend/rooms.php:256
+msgid "Are you sure you want to delete the room?"
+msgstr "是否確實要刪除房間？"
+
+#: backend/rooms.php:270
+msgid "Duplicate Room"
+msgstr "重複房間"
+
+#: backend/rooms.php:273
+msgid "Are you sure you want to duplicate the room?"
+msgstr "是否確實要複製房間？"
+
+#: backend/topbar.php:44
+#, php-format
+msgid "- expires in %s days"
+msgstr "- 在%s天到期"
+
+#: backend/topbar.php:58 backend/topbar.php:59 backend/topbar.php:60
+#: backend/topbar.php:61
+msgid "of"
+msgstr "的"
+
+#: backend/topbar.php:66
+msgid "change plan"
+msgstr "更改計劃"
+
+#: backend/topbar.php:117
+msgid "Help"
+msgstr "說明"
+
+#: backend/topbar.php:122
+msgid "Edit profile"
+msgstr "編輯個人資料"
+
+#: backend/topbar.php:126 backend/topbar.php:144
+msgid "Logout"
+msgstr "登出"
+
+#: backend/topbar.php:136
+msgid "Ready to Leave?"
+msgstr "準備好離開了嗎？"
+
+#: backend/topbar.php:141
+msgid "Select Logout below if you are ready to end your current session."
+msgstr "如果您已準備好結束當前會話，請選擇下面的註銷。"
+
+#: backend/change_plan.php:85
+msgid ""
+"It is not possible to subscribe on this demo server. This section is shown "
+"for demonstration purposes only. Buy the code <a style='color:white;text-"
+"decoration:underline;font-weight:bold;' target='_blank' href='https://1."
+"envato.market/Jrja9r'>here</a> "
+msgstr ""
+"無法在此演示服務器上訂閱。此部分僅用於演示目的。在<a style='color:white;text-"
+"decoration:underline;font-weight:bold;' target='_blank' href='https://1."
+"envato.market/Jrja9r'>這裡</a>購買代碼"
+
+#: backend/change_plan.php:91
+msgid "Choose a pricing plan"
+msgstr "選擇定價計劃"
+
+#: backend/change_plan.php:92
+msgid "Pick what's right for you"
+msgstr "選擇適合您的地方"
+
+#: backend/change_plan.php:102
+#, php-format
+msgid "expires in %s days"
+msgstr "在%s 天內過期"
+
+#: backend/change_plan.php:149
+msgid "File Size Upload (MB)"
+msgstr "檔案大小上傳 （MB）"
+
+#: backend/change_plan.php:152
+msgid "show features"
+msgstr "顯示功能"
+
+#: backend/change_plan.php:153
+msgid "hide features"
+msgstr "隱藏功能"
+
+#: backend/change_plan.php:162
+msgid "Showcase"
+msgstr "展示網站"
+
+#: backend/change_plan.php:194
+msgid "Facebook / Whatsapp Chat"
+msgstr "臉書網 / 什麼應用程式聊天"
+
+#: backend/change_plan.php:210
+msgid "Virtual Reality"
+msgstr "虛擬實境"
+
+#: backend/change_plan.php:214
+msgid "Your own Logo"
+msgstr "您自己的徽標"
+
+#: backend/change_plan.php:218
+msgid "Hide Tripod"
+msgstr "隱藏三腳架"
+
+#: backend/change_plan.php:222
+msgid "Background Music"
+msgstr "背景音樂"
+
+#: backend/change_plan.php:238
+msgid "Multiple Room's Views"
+msgstr "多個房間的視圖"
+
+#: backend/change_plan.php:242
+msgid "Protect tour (Password)"
+msgstr "保護旅遊（密碼）"
+
+#: backend/change_plan.php:246
+msgid "Protect Rooms (Passcode, Leads)"
+msgstr "保護室（密碼、線索）"
+
+#: backend/change_plan.php:250
+msgid "Custom Icons"
+msgstr "自訂圖示"
+
+#: backend/change_plan.php:262
+msgid "Fly-In Animation"
+msgstr "飛入動畫"
+
+#: backend/change_plan.php:270
+msgid "Multi-Resolution"
+msgstr "多解析度"
+
+#: backend/change_plan.php:274
+msgid "Download Tour"
+msgstr "下載之旅"
+
+#: backend/change_plan.php:301 backend/change_plan.php:550
+msgid "Reactivate Subscription"
+msgstr "重新啟動訂閱"
+
+#: backend/change_plan.php:306
+msgid "Current Subscription (Canceled)"
+msgstr "當前訂閱（已取消）"
+
+#: backend/change_plan.php:311
+msgid "Current Subscription"
+msgstr "當前訂閱"
+
+#: backend/change_plan.php:320 backend/change_plan.php:346
+#: backend/change_plan.php:421
+msgid "Find out more"
+msgstr "了解更多"
+
+#: backend/change_plan.php:325 backend/change_plan.php:351
+#: backend/change_plan.php:426
+msgid "Contact Us"
+msgstr "聯絡我們"
+
+#: backend/change_plan.php:332
+msgid "Subscribe"
+msgstr "訂閱"
+
+#: backend/change_plan.php:337 backend/change_plan.php:381
+#: backend/change_plan.php:479 backend/change_plan.php:569
+msgid "Change Subscription"
+msgstr "更改訂閱"
+
+#: backend/change_plan.php:441 backend/change_plan.php:450
+msgid "cancel current subscription"
+msgstr "取消當前訂閱"
+
+#: backend/change_plan.php:442
+msgid "modify payment details"
+msgstr "修改付款詳細資訊"
+
+#: backend/change_plan.php:459
+msgid "Redirecting to checkout page ..."
+msgstr "重定到結帳頁面..."
+
+#: backend/change_plan.php:483
+msgid "Are you sure you want to change your subscription?"
+msgstr "是否確實要更改訂閱？"
+
+#: backend/change_plan.php:485
+msgid "New plan"
+msgstr "新計劃"
+
+#: backend/change_plan.php:487
+msgid "Next payment"
+msgstr "下次付款"
+
+#: backend/change_plan.php:489
+msgid "Subsequent payments"
+msgstr "後續付款"
+
+#: backend/change_plan.php:493
+msgid "Yes, Change"
+msgstr "是，更改"
+
+#: backend/change_plan.php:504 backend/change_plan.php:527
+msgid "Cancel Subscription"
+msgstr "取消訂閱"
+
+#: backend/change_plan.php:508 backend/change_plan.php:531
+msgid "Are you sure you want to cancel your current subscription?"
+msgstr "是否確實要取消當前訂閱？"
+
+#: backend/change_plan.php:510 backend/change_plan.php:533
+msgid "Actual plan"
+msgstr "實際計劃"
+
+#: backend/change_plan.php:512 backend/change_plan.php:535
+msgid "Active until"
+msgstr "活動，直到"
+
+#: backend/change_plan.php:516 backend/change_plan.php:539
+msgid "Yes, Cancel"
+msgstr "是,取消"
+
+#: backend/change_plan.php:554
+msgid "Are you sure you want to reactivate your canceled subscription?"
+msgstr "您確定要重新激活已取消的訂閱嗎？"
+
+#: backend/change_plan.php:558
+msgid "Yes, Reactivate"
+msgstr "是，重新啟動"
+
+#: backend/change_plan.php:573
+msgid "You must first cancel your current subscription to activate a new one"
+msgstr "您必須先取消當前訂閱才能激活新訂閱"
+
+#: backend/gallery.php:66
+msgid "You cannot create Gallery on an external virtual tour!"
+msgstr "您無法在外部虛擬旅遊中創建圖庫！"
+
+#: backend/gallery.php:74
+#, php-format
+msgid "Your \"%s\" plan not allow to create Gallery!"
+msgstr "您的\"%s\"計劃不允許創建庫！"
+
+#: backend/edit_room.php:40
+msgid "Panorama Video"
+msgstr "全景視頻"
+
+#: backend/edit_room.php:44
+msgid "Panorama Video Stream (HLS)"
+msgstr "全景視頻流 (HLS)"
+
+#: backend/edit_room.php:104
+msgid "EDIT ROOM"
+msgstr "編輯室"
+
+#: backend/edit_room.php:106
+msgid "EDIT PREVIOUS ROOM"
+msgstr "編輯上一個房間"
+
+#: backend/edit_room.php:111
+msgid "EDIT NEXT ROOM"
+msgstr "編輯下一個房間"
+
+#: backend/edit_room.php:133
+msgid "PROTECT"
+msgstr "保護"
+
+#: backend/edit_room.php:136
+msgid "MULTIPLE ROOM VIEWS"
+msgstr "多個房間視圖"
+
+#: backend/edit_room.php:159
+msgid "Visible List"
+msgstr "可見清單"
+
+#: backend/edit_room.php:159
+msgid "show room on list slider"
+msgstr "清單滑塊上的顯示空間"
+
+#: backend/edit_room.php:165
+msgid "Room Link"
+msgstr "房間連結"
+
+#: backend/edit_room.php:183
+msgid "if the logo is present it will be displayed instead of the room name"
+msgstr "如果徽標存在，它將顯示而不是房間名稱"
+
+#: backend/edit_room.php:188
+msgid "DELETE LOGO"
+msgstr "刪除徽標"
+
+#: backend/edit_room.php:231
+msgid "click to view / change"
+msgstr "按下以查看 / 更改"
+
+#: backend/edit_room.php:275
+msgid "Override"
+msgstr "覆蓋"
+
+#: backend/edit_room.php:275
+msgid "override transition settings for this room"
+msgstr "覆蓋此房間的過渡設置"
+
+#: backend/edit_room.php:308
+msgid "transition time before entering in this room in milliseconds"
+msgstr "進入此房間前的轉換時間（以毫秒為單位）"
+
+#: backend/edit_room.php:319
+msgid "transition zoom level before entering in this room"
+msgstr "進入此房間前的過渡縮放級別"
+
+#: backend/edit_room.php:331
+msgid ""
+"A not fully equirectangular and 360 degree image was detected. Please adjust "
+"the position settings for correct viewing."
+msgstr "檢測到未完全查詢和 360 度圖像。請調整位置設置以進行正確查看。"
+
+#: backend/edit_room.php:332
+msgid "Alternatively, try to fix with these presets:"
+msgstr "或者，請嘗試用以下預設進行修復："
+
+#: backend/edit_room.php:333
+msgid "360 Horizontal Panorama"
+msgstr "360 水準全景"
+
+#: backend/edit_room.php:334
+msgid "180 Horizontal Panorama"
+msgstr "180 水準全景"
+
+#: backend/edit_room.php:335
+msgid "16:9 Flat Image"
+msgstr "16：9 平面圖像"
+
+#: backend/edit_room.php:336
+msgid "4:3 Flat Image"
+msgstr "4：3 平面圖像"
+
+#: backend/edit_room.php:346
+msgid "hold click and move the mouse to change the position"
+msgstr "按住滑鼠並移動滑鼠以更改位置"
+
+#: backend/edit_room.php:349
+msgid "view"
+msgstr "檢視"
+
+#: backend/edit_room.php:352
+msgid "positions"
+msgstr "位置"
+
+#: backend/edit_room.php:355
+msgid "north"
+msgstr "北"
+
+#: backend/edit_room.php:358 backend/edit_room.php:1516
+#: backend/edit_room.php:1571 backend/edit_room.php:1648
+#: backend/edit_room.php:1771 backend/edit_room.php:1860
+msgid "effects"
+msgstr "影響"
+
+#: backend/edit_room.php:371 backend/edit_room.php:394
+msgid "Initial Position"
+msgstr "初始地點"
+
+#: backend/edit_room.php:372 backend/edit_room.php:521
+msgid "Compass North"
+msgstr "指南針北"
+
+#: backend/edit_room.php:373
+msgid "Horizontal Pitch / Roll"
+msgstr "水準間距/滾"
+
+#: backend/edit_room.php:394
+msgid "initial position when you enter in this room"
+msgstr "進入此房間時的初始位置"
+
+#: backend/edit_room.php:398 backend/edit_room.php:525
+msgid "Set"
+msgstr "設定"
+
+#: backend/edit_room.php:405
+msgid "EDIT THUMBNAIL"
+msgstr "編輯縮圖"
+
+#: backend/edit_room.php:414
+msgid "UPLOAD THUMBNAIL"
+msgstr "上傳圖布納"
+
+#: backend/edit_room.php:435 backend/edit_room.php:893
+msgid "Save Preset"
+msgstr "保存預設"
+
+#: backend/edit_room.php:436
+msgid "Apply Preset to this Room"
+msgstr "將預設應用到此房間"
+
+#: backend/edit_room.php:437
+msgid "Apply Preset to all Rooms"
+msgstr "將預設應用到所有房間"
+
+#: backend/edit_room.php:438
+msgid "Delete Preset"
+msgstr "刪除預設"
+
+#: backend/edit_room.php:445
+msgid "Horizontal Pitch"
+msgstr "水準間距"
+
+#: backend/edit_room.php:445
+msgid "specifies pitch of image horizon (for correcting non-leveled panoramas)"
+msgstr "指定影像視距間距（用於校正非水平全景圖）"
+
+#: backend/edit_room.php:451
+msgid "Horizontal Roll"
+msgstr "水平滾動"
+
+#: backend/edit_room.php:451
+msgid "specifies roll of image horizon (for correcting non-leveled panoramas)"
+msgstr "指定影像範圍捲動（用於校正非水平全景圖）"
+
+#: backend/edit_room.php:457
+msgid "Lower Pitch"
+msgstr "下間距"
+
+#: backend/edit_room.php:457
+msgid "maximum vertical inclination in degrees down (min 0 - max 90)"
+msgstr "最大垂直傾斜度（最小 0 - 最大 90）"
+
+#: backend/edit_room.php:463
+msgid "Upper Pitch"
+msgstr "上間距"
+
+#: backend/edit_room.php:463
+msgid "maximum vertical inclination in degrees up (min 0 - max 90)"
+msgstr "最大垂直傾角（以上升為單位）（最小 0 - 最大 90）"
+
+#: backend/edit_room.php:469
+msgid "Left Yaw"
+msgstr "左 Yaw"
+
+#: backend/edit_room.php:469
+msgid "maximum horizontal inclination in degrees left (min 0 - max 180)"
+msgstr "最大水平傾斜度（以左幾度為單位）（最小 0 - 最大 180）"
+
+#: backend/edit_room.php:475
+msgid "Right Yaw"
+msgstr "右 Yaw"
+
+#: backend/edit_room.php:475
+msgid "maximum horizontal inclination in degrees right (min 0 - max 180)"
+msgstr "最大水平傾角（以右側為單位）（最小 0 - 最大 180）"
+
+#: backend/edit_room.php:481
+msgid "HAOV"
+msgstr "豪夫"
+
+#: backend/edit_room.php:481
+msgid ""
+"sets the panorama’s horizontal angle of view, in degrees (min 0 - max 360)"
+msgstr "設定全景圖的水平視角（以度為單位）（最小 0 - 最大 360）"
+
+#: backend/edit_room.php:487
+msgid "VAOV"
+msgstr "瓦夫"
+
+#: backend/edit_room.php:487
+msgid ""
+"sets the panorama’s vertical angle of view, in degrees (min 0 - max 180)"
+msgstr "設定全景圖的垂直視角（度數）（最小 0 - 最大 180）"
+
+#: backend/edit_room.php:493
+msgid "HFOV"
+msgstr "HFOV。"
+
+#: backend/edit_room.php:493
+msgid ""
+"sets the panorama’s horizontal field of view (0 to keep default virtual tour "
+"setting)"
+msgstr "設定全景水平視場（0 以保持預設虛擬旅遊設定）"
+
+#: backend/edit_room.php:499
+msgid "background color shown for partial panoramas"
+msgstr "部分全景顯示的背景顏色"
+
+#: backend/edit_room.php:505
+msgid "Allow Zoom"
+msgstr "允許縮放"
+
+#: backend/edit_room.php:505
+msgid "enables zoom"
+msgstr "啟用縮放"
+
+#: backend/edit_room.php:511
+msgid "Allow Pitch"
+msgstr "允許俯仰"
+
+#: backend/edit_room.php:511
+msgid "enables vertical inclination"
+msgstr "實現垂直傾斜"
+
+#: backend/edit_room.php:521
+msgid "indication of the north position of this room"
+msgstr "這個房間的北位置的指示"
+
+#: backend/edit_room.php:547
+msgid "No associated floorplan."
+msgstr "沒有相關的平面圖。"
+
+#: backend/edit_room.php:554
+msgid "No associated map."
+msgstr "沒有關聯的地圖。"
+
+#: backend/edit_room.php:564
+msgid "Brightness"
+msgstr "亮度"
+
+#: backend/edit_room.php:570
+msgid "Contrast"
+msgstr "對比"
+
+#: backend/edit_room.php:576
+msgid "Saturate"
+msgstr "飽和"
+
+#: backend/edit_room.php:582
+msgid "Grayscale"
+msgstr "灰階"
+
+#: backend/edit_room.php:588
+msgid "Blur"
+msgstr "模糊"
+
+#: backend/edit_room.php:588
+msgid ""
+"allows you to blur parts of the panoramic image, such as faces and license "
+"plates"
+msgstr "允許您模糊部分全景圖像，如人臉和車牌"
+
+#: backend/edit_room.php:589 backend/edit_blur.php:21
+msgid "EDIT BLUR"
+msgstr "編輯模糊"
+
+#: backend/edit_room.php:594
+msgid "Effect"
+msgstr "效果"
+
+#: backend/edit_room.php:597
+msgid "Snow"
+msgstr "Snow"
+
+#: backend/edit_room.php:598
+msgid "Rain"
+msgstr "雨"
+
+#: backend/edit_room.php:599
+msgid "Fog"
+msgstr "多霧"
+
+#: backend/edit_room.php:600
+msgid "Fireworks"
+msgstr "煙火"
+
+#: backend/edit_room.php:601
+msgid "Confetti"
+msgstr "五彩紙屑"
+
+#: backend/edit_room.php:602
+msgid "Sparkle"
+msgstr "火花"
+
+#: backend/edit_room.php:621
+msgid "Annotation"
+msgstr "註解"
+
+#: backend/edit_room.php:627
+msgid ""
+"title of the information about the room contained in the block at the top "
+"left (blank to not display)"
+msgstr "左上角塊中包含的房間資訊的標題（空白到不顯示）"
+
+#: backend/edit_room.php:633
+msgid ""
+"description of the information about the room contained in the block at the "
+"top left (blank to not display)"
+msgstr "左上角塊中包含的房間資訊的說明（空白到不顯示）"
+
+#: backend/edit_room.php:651
+msgid "Audio embedded"
+msgstr "音訊嵌入"
+
+#: backend/edit_room.php:651
+msgid "uses the audio track embedded in the video"
+msgstr "使用嵌入在視頻中的音軌"
+
+#: backend/edit_room.php:664
+msgid "Exist Audio"
+msgstr "存在音訊"
+
+#: backend/edit_room.php:666
+msgid "Upload new Audio"
+msgstr "上傳新音訊"
+
+#: backend/edit_room.php:678
+msgid "REMOVE AUDIO"
+msgstr "刪除音訊"
+
+#: backend/edit_room.php:693
+msgid "Upload Audio (MP3)"
+msgstr "上傳音效 （MP3）"
+
+#: backend/edit_room.php:720
+msgid "Protect"
+msgstr "保護"
+
+#: backend/edit_room.php:720
+msgid "block room display until the protect form is filled"
+msgstr "塊房間顯示，直到填充保護表單"
+
+#: backend/edit_room.php:729 backend/edit_room.php:748
+msgid "Passcode"
+msgstr "密碼"
+
+#: backend/edit_room.php:736
+msgid "title of the protect form"
+msgstr "保護表單的標題"
+
+#: backend/edit_room.php:742
+msgid "description of the protect form"
+msgstr "保護表單的描述"
+
+#: backend/edit_room.php:748
+msgid "passcode to unlock the room"
+msgstr "密碼解鎖房間"
+
+#: backend/edit_room.php:766
+msgid "Multiple Room Views"
+msgstr "多個房間視圖"
+
+#: backend/edit_room.php:766
+msgid ""
+"allows you to load various versions of the same room and switch them in the "
+"viewer"
+msgstr "允許您載入同一房間的各種版本，並在查看器中切換它們"
+
+#: backend/edit_room.php:772
+msgid "View type"
+msgstr "查看類型"
+
+#: backend/edit_room.php:774
+msgid "Single view"
+msgstr "單一視圖"
+
+#: backend/edit_room.php:775
+msgid "Split view with slider"
+msgstr "帶滑塊的拆分視圖"
+
+#: backend/edit_room.php:781
+msgid "Main view name"
+msgstr "主視圖名稱"
+
+#: backend/edit_room.php:834
+msgid "View name"
+msgstr "查看名稱"
+
+#: backend/edit_room.php:869
+msgid "Add New Preset"
+msgstr "新增新的預設"
+
+#: backend/edit_room.php:875
+msgid "Preset Name"
+msgstr "預設名稱"
+
+#: backend/edit_room.php:896
+msgid "Are you sure you want to save this preset?"
+msgstr "你確定要保存這個預設嗎？"
+
+#: backend/edit_room.php:899
+msgid "Yes, Save"
+msgstr "是的，保存"
+
+#: backend/edit_room.php:910
+msgid "Apply Preset"
+msgstr "應用預設"
+
+#: backend/edit_room.php:913
+msgid ""
+"Are you sure you want to apply this preset to all the rooms of this Virtual "
+"Tour?"
+msgstr "您是否確定要將此預設應用到此虛擬之旅的所有房間？"
+
+#: backend/edit_room.php:1517 backend/edit_room.php:1572
+#: backend/edit_room.php:1649 backend/edit_room.php:1772
+#: backend/edit_room.php:1861
+msgid "screenshot"
+msgstr "截圖"
+
+#: backend/edit_product.php:20
+msgid "EDIT PRODUCT"
+msgstr "編輯產品"
+
+#: backend/edit_product.php:57
+msgid "Purchase Type"
+msgstr "購買類型"
+
+#: backend/edit_product.php:57
+msgid ""
+"the cart works only if snipcart is configured in the shop section of the tour"
+msgstr "只有在遊覽的商店部分配置了 snipcart 時，購物車才有效"
+
+#: backend/edit_product.php:60 backend/edit_product.php:67
+msgid "Link"
+msgstr "連結"
+
+#: backend/edit_product.php:61
+msgid "Cart"
+msgstr "購物車"
+
+#: backend/edit_product.php:103
+msgid "Delete Product"
+msgstr "刪除商品"
+
+#: backend/edit_product.php:106
+msgid "Are you sure you want to delete the product?"
+msgstr "您確定要刪除該產品嗎？"
+
+#: backend/maps_bulk.php:79
+msgid "Bulk map's create"
+msgstr "批量地圖的創建"
+
+#: backend/maps_bulk.php:82
+msgid ""
+"Uploading multiple JPG/PNG images will automatically create all the maps."
+msgstr "上傳多個 JPG/PNG 圖像將自動創建所有地圖。"
+
+#: backend/maps_bulk.php:102
+msgid "Creating Maps"
+msgstr "創建地圖"
+
+#: backend/info.php:67
+msgid "You cannot create Info Box on an external virtual tour!"
+msgstr "您不能在外部虛擬旅遊中創建資訊框！"
+
+#: backend/info.php:75
+#, php-format
+msgid "Your \"%s\" plan not allow to create Info Box!"
+msgstr "您的\"%s\"計劃不允許創建資訊框！"
+
+#: backend/edit_blur.php:29
+msgid "Loading panorama image ..."
+msgstr "載入全景影像..."
+
+#: backend/edit_blur.php:33
+msgid "CLEAR DRAW"
+msgstr "清晰的抽獎"
+
+#: backend/edit_blur.php:34
+msgid "ZOOM IN"
+msgstr "放大縮小字體功能 放大縮小字體功能"
+
+#: backend/edit_blur.php:35
+msgid "ZOOM OUT"
+msgstr "縮小"
+
+#: backend/edit_blur.php:36
+msgid "APPLY BLUR"
+msgstr "應用模糊"
+
+#: backend/edit_blur.php:37 backend/edit_blur.php:65
+msgid "REVERT TO ORIGINAL"
+msgstr "恢復原件"
+
+#: backend/edit_blur.php:38
+msgid "BACK TO ROOM"
+msgstr "回到房間"
+
+#: backend/edit_blur.php:43
+msgid "Click on the image to start drawing the shape of blur"
+msgstr "按一下影像開始繪製模糊形狀"
+
+#: backend/edit_blur.php:55
+msgid "Creating blur effect in progress, please wait ..."
+msgstr "建立模糊效果正在進行中，請等待..."
+
+#: backend/edit_blur.php:68
+msgid "Are you sure you want to restore the original image?"
+msgstr "您確定要恢復原始影像嗎？"
+
+#: backend/edit_blur.php:71
+msgid "Yes, Revert"
+msgstr "是的，恢復"
+
+#: services/generate_multires.php:157 services/generate_multires_cloud.php:72
+msgid "All requirements are met."
+msgstr "滿足所有要求。"
+
+#: services/import_backend_vt.php:62
+msgid "File not found."
+msgstr "未找到文件。"
+
+#: services/import_backend_vt.php:74
+msgid ""
+"the file cannot be imported: system version different from the one with "
+"which the file was exported."
+msgstr "無法導入文件：系統版本與導出文件時使用的版本不同。"
+
+#: services/import_backend_vt.php:160
+msgid "An error has occurred: "
+msgstr "發生了錯誤："
+
+#: services/export_backend_vt.php:32
+msgid "unauthorized"
+msgstr "未經授權"
+
+#: services/generate_multires_cloud.php:54
+msgid "not reachable"
+msgstr "不能達到"
+
+#~ msgid "Mode"
+#~ msgstr "模式"
+
+#~ msgid "enable presentation in automatic mode"
+#~ msgstr "在自動模式下啟用演示"
+
+#~ msgid "Yes, Download"
+#~ msgstr "是的，下載"
+
+#~ msgid "Enable Sample"
+#~ msgstr "啟用範例"
+
+#~ msgid ""
+#~ "It is not possible to subscribe on this demo server. This section is "
+#~ "shown for demonstration purposes only."
+#~ msgstr "無法在此演示伺服器上訂閱。此部分僅用於演示目的。"
+
+#~ msgid "DEMO MODE: Add / Save functionality are disabled."
+#~ msgstr "演示模式：禁用添加/保存功能。"
+
+#~ msgid "Font"
+#~ msgstr "字體"
+
+#~ msgid "Font Viewer"
+#~ msgstr "字體查看器"
+
+#~ msgid "STYLES"
+#~ msgstr "風格"
+
+#~ msgid ""
+#~ "changes the default style of the markers that allow you to navigate "
+#~ "between rooms"
+#~ msgstr "更改允許您在房間之間導航的標記的預設樣式"
+
+#~ msgid ""
+#~ "changes the default style of the pois that allow you to view contents on "
+#~ "the virtual tour"
+#~ msgstr "更改 pois 的預設樣式，允許您查看虛擬遊覽上的內容"
+
+#~ msgid ""
+#~ "customizable form visible in entire virtual tour by pressing a top left "
+#~ "action icon"
+#~ msgstr "通過按左上角動作圖示在整個虛擬遊覽中可見的可自定義窗體"
+
+#~ msgid "show info"
+#~ msgstr "顯示資訊"
+
+#~ msgid "open gallery"
+#~ msgstr "打開圖庫"
+
+#~ msgid "toggle fullscreen"
+#~ msgstr "切換全屏"
+
+#~ msgid "toggle music"
+#~ msgstr "切換音樂"
+
+#~ msgid "toggle floorplan"
+#~ msgstr "切換平面圖"
+
+#~ msgid "toggle map"
+#~ msgstr "切換地圖"
+
+#~ msgid "toggle list"
+#~ msgstr "切換清單"
+
+#~ msgid "ADD ADVERTISEMENT"
+#~ msgstr "添加廣告"
+
+#~ msgid "New Advertisement"
+#~ msgstr "新廣告"
+
+#~ msgid "Interface UI"
+#~ msgstr "介面 UI"
+
+#~ msgid "show floorplan on top right"
+#~ msgstr "顯示右上角的平面圖"
+
+#~ msgid "show map on top right"
+#~ msgstr "在右上顯示地圖"
+
+#~ msgid "enable navigation with the forward and back arrows"
+#~ msgstr "使用前進和後箭頭啟用導航"
+
+#~ msgid "show rooms's list menu on top left"
+#~ msgstr "在左上角顯示房間的清單功能表"
+
+#~ msgid "show rooms's list slider on bottom center"
+#~ msgstr "在底部中心顯示房間的清單滑塊"
+
+#~ msgid "Scroll"
+#~ msgstr "滾動"
+
+#~ msgid "enable navigation with voice commands"
+#~ msgstr "使用語音命令啟用導航"
+
+#~ msgid "show presentation menu item in top left"
+#~ msgstr "在左上角顯示演示文稿功能表項"
+
+#~ msgid "show info icon on bottom left"
+#~ msgstr "在左下角顯示信息圖示"
+
+#~ msgid "show gallery icon on bottom left"
+#~ msgstr "在左下角顯示圖庫圖示"
+
+#~ msgid "show device orientation menu item in top left"
+#~ msgstr "在左上角顯示設備方向功能表項"
+
+#~ msgid "show meeting menu item in top left - force it with url param:"
+#~ msgstr "顯示會議選單項目在左上-強制它與網址參數："
+
+#~ msgid "show live session menu item in top left - force it with url param:"
+#~ msgstr "在左上角顯示即時工作單項目 - 用網址 參數強制它："
+
+#~ msgid "show title of virtual tour on top center"
+#~ msgstr "在頂部中心顯示虛擬旅遊的標題"
+
+#~ msgid "show fullscreen control in top right"
+#~ msgstr "在右上顯示全屏控制"
+
+#~ msgid "show north compass on bottom right"
+#~ msgstr "右下角顯示北羅盤"
+
+#~ msgid "show icons toggle menu item in top left"
+#~ msgstr "顯示圖示在左上角切換功能表項"
+
+#~ msgid "show auto rotation toggle menu item in top left"
+#~ msgstr "顯示左上側自動旋轉切換功能表項"
+
+#~ msgid "show navigation floating control"
+#~ msgstr "顯示導航浮動控制"
+
+#~ msgid "show facebook messenger / whatsapp chat icon on bottom right"
+#~ msgstr "顯示臉譜信使 / whatsapp 聊天圖示在右下角"
+
+#~ msgid "show main form menu item in top left"
+#~ msgstr "在左上角顯示主窗體功能表項"
+
+#~ msgid "show share menu item in top left"
+#~ msgstr "在左上角顯示共用功能表項"
+
+#~ msgid "show web vr menu item in top left"
+#~ msgstr "在左上角顯示 Web vr 功能表項"
+
+#~ msgid "show audio control in top left"
+#~ msgstr "在左上角顯示音訊控制"
+
+#~ msgid "show room annotations box in top left"
+#~ msgstr "左上角顯示房間註釋框"
+
+#~ msgid "Autoclose Room's List Menu"
+#~ msgstr "自動關閉室清單功能表"
+
+#~ msgid "Autoclose Room's List Slider"
+#~ msgstr "自動關閉室清單滑塊"
+
+#~ msgid "Autoclose Floorplan"
+#~ msgstr "自動關閉平面圖"
+
+#~ msgid ""
+#~ "automatically closes the floorplan when you click on any pointer in it"
+#~ msgstr "按兩下其中的任何指點時，自動關閉平面圖"
+
+#~ msgid "Box"
+#~ msgstr "盒子"
+
+#~ msgid ""
+#~ "edit only virtual tours associated to them without add or delete contents"
+#~ msgstr "僅編輯與其關聯的虛擬旅遊，而不添加或刪除內容"
+
+#~ msgid "New Showcase"
+#~ msgstr "新展示"
+
+#~ msgid "Live Session / Meeting"
+#~ msgstr "即時會話/會議設置"
+
+#~ msgid "This Virtual Tour is password protected"
+#~ msgstr "此虛擬旅遊受密碼保護"
+
+#~ msgid "Preview Field of View"
+#~ msgstr "預覽視圖欄位"
+
+#~ msgid "Change these values to see how the field of view's preview changes."
+#~ msgstr "更改這些值以查看檢視欄位的預覽更改。"
+
+#~ msgid "CREATE NEW VIRTUAL TOUR"
+#~ msgstr "創建新的虛擬旅遊"
+
+#~ msgid ""
+#~ "If you decide to protect your virtual tour with a password, at the first "
+#~ "access it will be required to visit it."
+#~ msgstr ""
+#~ "如果您決定使用密碼保護您的虛擬旅遊，則在第一次訪問時，需要訪問該虛擬旅遊。"
+
+#~ msgid "PROTECT VIRTUAL TOUR"
+#~ msgstr "保護虛擬旅遊"
+
+#~ msgid ""
+#~ "Your virtual tour is now protected with a password, click UNPROTECT to "
+#~ "remove it."
+#~ msgstr "您的虛擬旅遊現在受密碼保護，按一下「取消保護」將其刪除。"
+
+#~ msgid "UNPROTECT VIRTUAL TOUR"
+#~ msgstr "無保護虛擬旅遊"
+
+#~ msgid "SCHEDULE"
+#~ msgstr "時間表"
+
+#~ msgid "Transition Settings"
+#~ msgstr "過渡設置"
+
+#~ msgid "Contents"
+#~ msgstr "內容"
+
+#~ msgid "Tour Gallery"
+#~ msgstr "旅遊畫廊"
+
+#~ msgid "TOUR GALLERY"
+#~ msgstr "旅遊畫廊"
+
+#~ msgid "Embed Image"
+#~ msgstr "嵌入圖像"
+
+#~ msgid "Style Settings"
+#~ msgstr "樣式設定"
+
+#~ msgid "Default Markers Settings"
+#~ msgstr "默認標記設置"
+
+#~ msgid "Default POIs Settings"
+#~ msgstr "默認 POIS 設置"
+
+#~ msgid "No icons in this gallery."
+#~ msgstr "此庫中沒有圖示。"
+
+#~ msgid "Current Plan Status"
+#~ msgstr "當前計劃狀態"
+
+#~ msgid "Map Settings"
+#~ msgstr "地圖設定"
+
+#~ msgid "Sample Settings"
+#~ msgstr "示例設置"
+
+#~ msgid "White Label"
+#~ msgstr "白色標籤"
+
+#, fuzzy
+#~ msgid "Next/Prev Room"
+#~ msgstr "預覽室"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Equirectangular Image"
+#~ msgstr "等角圖像"
+
+#~ msgid "Transition FadeOut"
+#~ msgstr "過渡淡出"
+
+#~ msgid "Transition Override"
+#~ msgstr "過渡覆蓋"
+
+#~ msgid "click on room to select"
+#~ msgstr "單擊房間選擇"
+
+#~ msgid "click on poi to edit"
+#~ msgstr "按一下 poi 進行編輯"
+
+#~ msgid "Forms Data"
+#~ msgstr "表單數據"
+
+#~ msgid "click on marker to edit"
+#~ msgstr "按一下標記進行編輯"
+
+#~ msgid "Notice"
+#~ msgstr "通知"
+
+#~ msgid "Price (Monthly)"
+#~ msgstr "價格（每月）"
+
+#, fuzzy
+#~ msgid "POSITION"
+#~ msgstr "表示"
+
+#~ msgid "Adjust"
+#~ msgstr "調整"
+
+#~ msgid "Preview / Positions"
+#~ msgstr "預覽/位置"
+
+#, fuzzy
+#~ msgid "Multiple Room Views / Virtual Staging"
+#~ msgstr "多個房間視圖"
+
+#~ msgid "Registration"
+#~ msgstr "註冊"
+
+#~ msgid "N. VT"
+#~ msgstr "N. VT。"
+
+#~ msgid "Exp. Days"
+#~ msgstr "Exp. 天"
+
+#~ msgid "Live session"
+#~ msgstr "即時會話"
+
+#~ msgid "Thumbnail"
+#~ msgstr "縮圖"
+
+#~ msgid "Set North"
+#~ msgstr "設置北"
+
+#~ msgid "Edit Thumbnail"
+#~ msgstr "編輯縮圖"
+
+#~ msgid "admin settings only"
+#~ msgstr "僅管理員設置"
+
+#~ msgid "Create Presentation"
+#~ msgstr "創建演示文稿"
